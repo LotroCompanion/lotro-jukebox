@@ -4,6 +4,7 @@ import java.io.File;
 
 import delta.common.utils.misc.Preferences;
 import delta.common.utils.misc.TypedProperties;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Configuration.
@@ -29,7 +30,7 @@ public final class Config
    */
   private Config()
   {
-    LotroCoreConfig coreConfig=LotroCoreConfig.getInstance();
+    LotroJukeboxCoreConfig coreConfig=LotroJukeboxCoreConfig.getInstance();
 
     // User data
     File userDir=coreConfig.getUserDataDir();
@@ -44,7 +45,7 @@ public final class Config
    */
   public TypedProperties getParameters()
   {
-    return LotroCoreConfig.getInstance().getParameters();
+    return LotroJukeboxCoreConfig.getInstance().getParameters();
   }
 
   /**
