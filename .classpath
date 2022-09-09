@@ -38,6 +38,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/delta-common-l10n"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/delta-lotro-jukebox-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lotro-jukebox-core"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
