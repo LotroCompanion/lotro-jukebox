@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><soundContexts>
+<instrument id="1" name="Clarinet">
+<sound id="704652985" name="pm_cl_eb2"/>
+<sound id="704652989" name="pm_cl_g3"/>
+<sound id="704652990" name="pm_cl_c4"/>
+<sound id="704652992" name="pm_cl_g2"/>
+<sound id="704652997" name="pm_cl_b3"/>
+<sound id="704653002" name="pm_cl_bb4"/>
+<sound id="704653003" name="pm_cl_db2"/>
+<sound id="704653010" name="pm_cl_bb3"/>
+<sound id="704653012" name="pm_cl_gb2"/>
+</instrument>
+<instrument id="2" name="Horn">
+<sound id="704653188" name="pm_ho_f2"/>
+<sound id="704653201" name="pm_ho_a4"/>
+<sound id="704653202" name="pm_ho_d3"/>
+<sound id="704653204" name="pm_ho_g2"/>
+<sound id="704653205" name="pm_ho_b4"/>
+<sound id="704653207" name="pm_ho_b3"/>
+<sound id="704653211" name="pm_ho_f4"/>
+<sound id="704653218" name="pm_ho_ab4"/>
+<sound id="704653219" name="pm_ho_f3"/>
+</instrument>
+<instrument id="3" name="Flute">
+<sound id="704653146" name="pm_fl_a2"/>
+<sound id="704653150" name="pm_fl_ab3"/>
+<sound id="704653156" name="pm_fl_d3"/>
+<sound id="704653163" name="pm_fl_c5"/>
+<sound id="704653174" name="pm_fl_bb2"/>
+<sound id="704653179" name="pm_fl_ab2"/>
+<sound id="704653182" name="pm_fl_a3"/>
+</instrument>
+<instrument id="4" name="Lute">
+<sound id="704653030" name="pm_lt_c5"/>
+<sound id="704653031" name="pm_lt_eb3"/>
+<sound id="704653037" name="pm_lt_bb2"/>
+<sound id="704653052" name="pm_lt_ab4"/>
+<sound id="704653080" name="pm_lt_b3"/>
+<sound id="704653081" name="pm_lt_e3"/>
+<sound id="704653085" name="pm_lt_d2"/>
+<sound id="704653086" name="pm_lt_db3"/>
+</instrument>
+<instrument id="5" name="Harp">
+<sound id="704653023" name="pm_ha_bb3"/>
+<sound id="704653024" name="pm_ha_d4"/>
+<sound id="704653035" name="pm_ha_c4"/>
+<sound id="704653041" name="pm_ha_gb4"/>
+<sound id="704653055" name="pm_ha_a4"/>
+<sound id="704653065" name="pm_ha_c2"/>
+<sound id="704653067" name="pm_ha_c3"/>
+<sound id="704653089" name="pm_ha_bb4"/>
+<sound id="704653093" name="pm_ha_g2"/>
+</instrument>
+<instrument id="6" name="Drum">
+<sound id="704653306" name="pm_dr_C2"/>
+<sound id="704653307" name="pm_dr_Db2"/>
+<sound id="704653311" name="pm_dr_F2"/>
+<sound id="704653312" name="pm_dr_Gb2"/>
+<sound id="704653323" name="pm_dr_F3"/>
+<sound id="704653324" name="pm_dr_Gb3"/>
+<sound id="704653335" name="pm_dr_F4"/>
+<sound id="704653340" name="pm_dr_Bb4"/>
+<sound id="704653341" name="pm_dr_B4"/>
+<sound id="704653342" name="pm_dr_C5"/>
+</instrument>
+<instrument id="7" name="Theorbo">
+<sound id="704653270" name="pm_ba_Eb4"/>
+<sound id="704653276" name="pm_ba_F4"/>
+<sound id="704653279" name="pm_ba_A4"/>
+<sound id="704653280" name="pm_ba_G3"/>
+<sound id="704653286" name="pm_ba_E4"/>
+<sound id="704653287" name="pm_ba_Gb3"/>
+<sound id="704653289" name="pm_ba_C2"/>
+<sound id="704653297" name="pm_ba_B4"/>
+<sound id="704653303" name="pm_ba_Db4"/>
+</instrument>
+<instrument id="8" name="MoreCowbell">
+<sound id="704653052" name="pm_lt_ab4"/>
+<sound id="704653080" name="pm_lt_b3"/>
+<sound id="704653150" name="pm_fl_ab3"/>
+<sound id="704653207" name="pm_ho_b3"/>
+<sound id="704654637" name="pm_mcb_c2"/>
+</instrument>
+<instrument id="9" name="Bagpipe">
+<sound id="704654599" name="pm_bp_eb2"/>
+<sound id="704654601" name="pm_bp_f2"/>
+<sound id="704654602" name="pm_bp_gb2"/>
+<sound id="704654604" name="pm_bp_ab2"/>
+<sound id="704654608" name="pm_bp_c3"/>
+<sound id="704654610" name="pm_bp_d3"/>
+<sound id="704654612" name="pm_bp_e3"/>
+<sound id="704654614" name="pm_bp_gb3"/>
+<sound id="704654615" name="pm_bp_g3"/>
+<sound id="704654617" name="pm_bp_a3"/>
+</instrument>
+<instrument id="10" name="Cowbell">
+<sound id="704653174" name="pm_fl_bb2"/>
+<sound id="704653179" name="pm_fl_ab2"/>
+<sound id="704654604" name="pm_bp_ab2"/>
+<sound id="704654636" name="pm_cb_c2"/>
+<sound id="704670585" name="pm_g2"/>
+</instrument>
+<instrument id="11" name="Pibgorn">
+<sound id="704670555" name="pm_a2"/>
+<sound id="704670558" name="pm_ab2"/>
+<sound id="704670564" name="pm_bb2"/>
+<sound id="704670567" name="pm_c2"/>
+<sound id="704670570" name="pm_d2"/>
+<sound id="704670573" name="pm_db2"/>
+<sound id="704670577" name="pm_e3"/>
+<sound id="704670582" name="pm_f2"/>
+<sound id="704670583" name="pm_f3"/>
+<sound id="704670585" name="pm_g2"/>
+</instrument>
+<instrument id="12" name="Harp_Special">
+<sound id="704681536" name="pm_hamm_Gb4"/>
+<sound id="704681545" name="pm_hamm_Bb4"/>
+</instrument>
+<instrument id="16" name="Bassoon">
+<sound id="704687251" name="pm_bsn_long_C3"/>
+<sound id="704687255" name="pm_bsn_long_F4"/>
+</instrument>
+<instrument id="17" name="Lute_of_Ages">
+<sound id="704681476" name="pm_lta_b3"/>
+<sound id="704681477" name="pm_lta_db3"/>
+<sound id="704681480" name="pm_lta_c5"/>
+<sound id="704681483" name="pm_lta_d2"/>
+<sound id="704681493" name="pm_lta_ab4"/>
+<sound id="704681494" name="pm_lta_bb2"/>
+<sound id="704681502" name="pm_lta_e3"/>
+<sound id="704681511" name="pm_lta_eb3"/>
+</instrument>
+<instrument id="18" name="Fiddle_short">
+<sound id="704686078" name="pm_vn_short1_c4"/>
+<sound id="704686086" name="pm_vn_short1_ab3"/>
+</instrument>
+<instrument id="19" name="Fiddle_pizz">
+<sound id="704686019" name="pm_vn_pizz1_d4"/>
+<sound id="704686106" name="pm_vn_pizz1_A3"/>
+</instrument>
+<instrument id="20" name="Fiddle_vib">
+<sound id="704686035" name="pm_vn_vib_ab3"/>
+<sound id="704686092" name="pm_vn_vib_c4"/>
+</instrument>
+<instrument id="21" name="Fiddle_long">
+<sound id="704685983" name="pm_vn_long_g3"/>
+<sound id="704686039" name="pm_vn_long_b2"/>
+<sound id="704686108" name="pm_vn_long_eb4"/>
+<sound id="704686110" name="pm_vn_long_e3"/>
+</instrument>
+<instrument id="22" name="Fiddle_strong">
+<sound id="704687189" name="pm_vn_strong_E3"/>
+<sound id="704687190" name="pm_vn_strong_F4"/>
+<sound id="704687198" name="pm_vn_strong_G3"/>
+<sound id="704687214" name="pm_vn_strong_C3"/>
+</instrument>
+<instrument id="23" name="Fiddle_basic">
+<sound id="704685970" name="pm_vn_long_f4"/>
+<sound id="704685983" name="pm_vn_long_g3"/>
+<sound id="704686089" name="pm_vn_long_c3"/>
+<sound id="704686110" name="pm_vn_long_e3"/>
+</instrument>
+<instrument id="24" name="Bassoon_vib">
+<sound id="704687286" name="pm_bsn_vib_C4"/>
+<sound id="704687318" name="pm_bsn_vib_Ab3"/>
+</instrument>
+<instrument id="25" name="Bassoon_short">
+<sound id="704687279" name="pm_bsn_short_A3"/>
+<sound id="704687311" name="pm_bsn_short_D4"/>
+</instrument>
+</soundContexts>
