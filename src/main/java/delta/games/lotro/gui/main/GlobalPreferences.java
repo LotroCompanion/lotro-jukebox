@@ -2,7 +2,7 @@ package delta.games.lotro.gui.main;
 
 import delta.common.utils.misc.Preferences;
 import delta.common.utils.misc.TypedProperties;
-import delta.games.lotro.gui.config.Config;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Access to global preferences.
@@ -17,7 +17,7 @@ public class GlobalPreferences
    */
   public static TypedProperties getGlobalProperties(String id)
   {
-    Preferences prefs=Config.getInstance().getPreferences();
+    Preferences prefs=LotroJukeboxCoreConfig.getInstance().getPreferences();
     TypedProperties props=prefs.getPreferences(id);
     return props;
   }

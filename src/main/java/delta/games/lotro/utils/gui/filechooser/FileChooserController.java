@@ -7,7 +7,7 @@ import javax.swing.JFileChooser;
 
 import delta.common.utils.misc.Preferences;
 import delta.common.utils.misc.TypedProperties;
-import delta.games.lotro.gui.config.Config;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Controller for a file chooser.
@@ -53,7 +53,7 @@ public class FileChooserController
     File chosenDir=choose(parent,approveButtonText);
     if (chosenDir!=null)
     {
-      Preferences preferences=Config.getInstance().getPreferences();
+      Preferences preferences=LotroJukeboxCoreConfig.getInstance().getPreferences();
       TypedProperties props=preferences.getPreferences(_id);
       props.setStringProperty(CURRENT_FILE_PREFERENCE,chosenDir.getAbsolutePath());
       preferences.savePreferences(props);
@@ -73,7 +73,7 @@ public class FileChooserController
     File chosenFile=choose(parent,approveButtonText);
     if (chosenFile!=null)
     {
-      Preferences preferences=Config.getInstance().getPreferences();
+      Preferences preferences=LotroJukeboxCoreConfig.getInstance().getPreferences();
       TypedProperties props=preferences.getPreferences(_id);
       File currentDir=chosenFile.getParentFile();
       props.setStringProperty(CURRENT_FILE_PREFERENCE,currentDir.getAbsolutePath());
@@ -84,7 +84,7 @@ public class FileChooserController
 
   private File choose(Component parent, String approveButtonText)
   {
-    Preferences preferences=Config.getInstance().getPreferences();
+    Preferences preferences=LotroJukeboxCoreConfig.getInstance().getPreferences();
     TypedProperties props=preferences.getPreferences(_id);
     String dirStr=props.getStringProperty(CURRENT_FILE_PREFERENCE,null);
     File currentDir=null;

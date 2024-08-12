@@ -18,7 +18,7 @@ import delta.common.ui.swing.labels.BrowserHyperlinkAction;
 import delta.common.ui.swing.labels.HyperLinkController;
 import delta.common.ui.swing.labels.MailToHyperlinkAction;
 import delta.common.utils.misc.TypedProperties;
-import delta.games.lotro.gui.config.Config;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Controller for a 'about' panel.
@@ -131,7 +131,7 @@ public class AboutPanelController
 
   private String buildProjectVersion()
   {
-    TypedProperties props=Config.getInstance().getParameters();
+    TypedProperties props=LotroJukeboxCoreConfig.getInstance().getParameters();
     String name=props.getStringProperty("current.version.name","?");
     String date=props.getStringProperty("current.version.date","01/01/1970");
     return "Version "+name+" ("+date+')';

@@ -5,12 +5,9 @@ import java.util.Locale;
 import javax.swing.JFrame;
 
 import delta.common.ui.swing.GuiFactory;
-import delta.common.utils.l10n.L10nConfiguration;
-import delta.common.utils.l10n.LocalizedFormats;
-import delta.games.lotro.gui.config.Config;
 import delta.games.lotro.gui.main.MainFrameController;
 import delta.games.lotro.gui.utils.SharedUiUtils;
-import delta.games.lotro.utils.cfg.ApplicationConfiguration;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Main for LOTRO jukebox.
@@ -25,9 +22,7 @@ public class Main
   public static void main(String[] args)
   {
     GuiFactory.init();
-    GuiFactory.setPreferences(Config.getInstance().getPreferences());
-    L10nConfiguration l10nCfg=ApplicationConfiguration.getInstance().getL10nConfiguration();
-    LocalizedFormats.init(l10nCfg);
+    GuiFactory.setPreferences(LotroJukeboxCoreConfig.getInstance().getPreferences());
     Locale.setDefault(Locale.US);
     SharedUiUtils.initApplicationIcons();
     MainFrameController controller=new MainFrameController();

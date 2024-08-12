@@ -29,11 +29,11 @@ import delta.common.ui.swing.windows.WindowsManager;
 import delta.common.utils.misc.Preferences;
 import delta.games.lotro.gui.about.AboutDialogController;
 import delta.games.lotro.gui.about.CreditsDialogController;
-import delta.games.lotro.gui.config.Config;
 import delta.games.lotro.gui.configuration.ConfigurationDialogController;
 import delta.games.lotro.gui.misc.paypal.PaypalButtonController;
 import delta.games.lotro.gui.utils.SharedUiUtils;
 import delta.games.lotro.utils.cfg.ApplicationConfiguration;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Controller for the main frame.
@@ -243,7 +243,7 @@ public class MainFrameController extends DefaultWindowController implements Acti
     {
       dispose();
     }
-    Preferences preferences=Config.getInstance().getPreferences();
+    Preferences preferences=LotroJukeboxCoreConfig.getInstance().getPreferences();
     preferences.saveAllPreferences();
   }
 
