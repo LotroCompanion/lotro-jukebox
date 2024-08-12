@@ -32,6 +32,7 @@ import delta.games.lotro.gui.about.CreditsDialogController;
 import delta.games.lotro.gui.configuration.ConfigurationDialogController;
 import delta.games.lotro.gui.misc.paypal.PaypalButtonController;
 import delta.games.lotro.gui.utils.SharedUiUtils;
+import delta.games.lotro.gui.utils.l10n.Labels;
 import delta.games.lotro.utils.cfg.ApplicationConfiguration;
 import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
@@ -65,7 +66,8 @@ public class MainFrameController extends DefaultWindowController implements Acti
   protected JFrame build()
   {
     JFrame frame=super.build();
-    frame.setTitle("LOTRO Jukebox");
+    String appName=Labels.getLabel("main.window.title");
+    frame.setTitle(appName);
     frame.setSize(920,400);
     frame.setLocation(100,100);
     frame.getContentPane().setBackground(GuiFactory.getBackgroundColor());
@@ -75,8 +77,9 @@ public class MainFrameController extends DefaultWindowController implements Acti
   @Override
   protected JMenuBar buildMenuBar()
   {
-    JMenu fileMenu=GuiFactory.buildMenu("File");
-    JMenuItem quit=GuiFactory.buildMenuItem("Quit");
+    JMenuBar menuBar=GuiFactory.buildMenuBar();
+    JMenu fileMenu=GuiFactory.buildMenu(Labels.getLabel("main.window.menu.file"));
+    JMenuItem quit=GuiFactory.buildMenuItem(Labels.getLabel("main.window.menuitem.quit"));
     ActionListener alQuit=new ActionListener()
     {
       @Override
@@ -87,16 +90,17 @@ public class MainFrameController extends DefaultWindowController implements Acti
     };
     quit.addActionListener(alQuit);
     fileMenu.add(quit);
+    menuBar.add(fileMenu);
 
     // Help
-    JMenu helpMenu=GuiFactory.buildMenu("Help");
+    JMenu helpMenu=GuiFactory.buildMenu(Labels.getLabel("main.window.menu.help"));
     // - about
-    JMenuItem aboutMenuItem=GuiFactory.buildMenuItem("About...");
+    JMenuItem aboutMenuItem=GuiFactory.buildMenuItem(Labels.getLabel("main.window.menuitem.about"));
     aboutMenuItem.setActionCommand(ABOUT_COMMAND);
     aboutMenuItem.addActionListener(this);
     helpMenu.add(aboutMenuItem);
     // - credits
-    JMenuItem creditsMenuItem=GuiFactory.buildMenuItem("Credits...");
+    JMenuItem creditsMenuItem=GuiFactory.buildMenuItem(Labels.getLabel("main.window.menuitem.credits"));
     ActionListener alCredits=new ActionListener()
     {
       @Override
@@ -108,8 +112,6 @@ public class MainFrameController extends DefaultWindowController implements Acti
     creditsMenuItem.addActionListener(alCredits);
     helpMenu.add(creditsMenuItem);
 
-    JMenuBar menuBar=GuiFactory.buildMenuBar();
-    menuBar.add(fileMenu);
     menuBar.add(Box.createHorizontalGlue());
     menuBar.add(helpMenu);
     return menuBar;
@@ -163,14 +165,19 @@ public class MainFrameController extends DefaultWindowController implements Acti
     ToolbarModel model=controller.getModel();
     // Settings
     String settingsIconPath=SharedUiUtils.getToolbarIconPath("settings");
-    ToolbarIconItem settingsIconItem=new ToolbarIconItem(SETTINGS_COMMAND,settingsIconPath,SETTINGS_COMMAND,"Settings...","Settings...");
+    String settingsTooltip=Labels.getLabel("main.window.toolbar.settings.tooltip");
+    String settingsAltText=Labels.getLabel("main.window.toolbar.settings.altText");
+    ToolbarIconItem settingsIconItem=new ToolbarIconItem(SETTINGS_COMMAND,settingsIconPath,SETTINGS_COMMAND,settingsTooltip,settingsAltText);
     model.addToolbarIconItem(settingsIconItem);
     // About
     String aboutIconPath=SharedUiUtils.getToolbarIconPath("about");
-    ToolbarIconItem aboutIconItem=new ToolbarIconItem(ABOUT_COMMAND,aboutIconPath,ABOUT_COMMAND,"About Lotro Companion...","About...");
+    String aboutTooltip=Labels.getLabel("main.window.toolbar.about.tooltip");
+    String aboutAltText=Labels.getLabel("main.window.toolbar.about.altText");
+    ToolbarIconItem aboutIconItem=new ToolbarIconItem(ABOUT_COMMAND,aboutIconPath,ABOUT_COMMAND,aboutTooltip,aboutAltText);
     model.addToolbarIconItem(aboutIconItem);
     // Border
-    controller.getToolBar().setBorder(GuiFactory.buildTitledBorder("Misc"));
+    String border=Labels.getLabel("main.window.toolbar.border.misc");
+    controller.getToolBar().setBorder(GuiFactory.buildTitledBorder(border));
     // Register action listener
     controller.addActionListener(this);
     return controller;
@@ -238,7 +245,9 @@ public class MainFrameController extends DefaultWindowController implements Acti
 
   private void doQuit()
   {
-    int result=GuiFactory.showQuestionDialog(getFrame(),"Do you really want to quit?","Quit?",JOptionPane.YES_NO_OPTION);
+    String question=Labels.getLabel("main.window.quit.question");
+    String title=Labels.getLabel("main.window.quit.title");
+    int result=GuiFactory.showQuestionDialog(getFrame(),question,title,JOptionPane.YES_NO_OPTION);
     if (result==JOptionPane.OK_OPTION)
     {
       dispose();

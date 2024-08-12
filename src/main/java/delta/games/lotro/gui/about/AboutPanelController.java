@@ -10,7 +10,6 @@ import java.awt.Insets;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.Timer;
 
 import delta.common.ui.swing.GuiFactory;
 import delta.common.ui.swing.icons.IconsManager;
@@ -19,6 +18,7 @@ import delta.common.ui.swing.labels.HyperLinkController;
 import delta.common.ui.swing.labels.MailToHyperlinkAction;
 import delta.common.utils.misc.TypedProperties;
 import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
+import delta.games.lotro.gui.utils.l10n.Labels;
 
 /**
  * Controller for a 'about' panel.
@@ -27,7 +27,6 @@ import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 public class AboutPanelController
 {
   private JPanel _panel;
-  private Timer _timer;
   private HyperLinkController _mail;
 
   /**
@@ -56,7 +55,7 @@ public class AboutPanelController
       x++;
     }
 
-    JLabel lbName=new JLabel("LotRO Jukebox");
+    JLabel lbName=new JLabel(Labels.getLabel("about.app.name"));
     Font defaultFont=lbName.getFont();
     Font font16=defaultFont.deriveFont(Font.BOLD,16);
     Font font24=defaultFont.deriveFont(Font.BOLD,24);
@@ -81,10 +80,11 @@ public class AboutPanelController
     // Project contact
     {
       JPanel contactPanel=GuiFactory.buildPanel(new FlowLayout(FlowLayout.CENTER));
-      JLabel contactLabel=GuiFactory.buildLabel("Contact: ");
+      JLabel contactLabel=GuiFactory.buildLabel(Labels.getFieldLabel("about.contact"));
       contactLabel.setFont(font16);
       contactPanel.add(contactLabel);
-      MailToHyperlinkAction mailAction=new MailToHyperlinkAction("lotrojukebox@gmail.com","Contact");
+      String email="lotrojukebox@gmail.com";
+      MailToHyperlinkAction mailAction=new MailToHyperlinkAction(email,Labels.getLabel("about.contact"));
       _mail=new HyperLinkController(mailAction);
       JLabel lbEmail=_mail.getLabel();
       lbEmail.setFont(font16);
@@ -97,7 +97,7 @@ public class AboutPanelController
     // Source code
     {
       JPanel sourcePanel=GuiFactory.buildPanel(new FlowLayout(FlowLayout.CENTER));
-      JLabel sourceLabel=GuiFactory.buildLabel("Source code: ");
+      JLabel sourceLabel=GuiFactory.buildLabel(Labels.getFieldLabel("about.sourceCode"));
       sourceLabel.setFont(font16);
       sourcePanel.add(sourceLabel);
       BrowserHyperlinkAction githubAction=new BrowserHyperlinkAction("https://github.com/LotroCompanion/lotro-jukebox","lotro-jukebox@GitHub");
@@ -109,14 +109,14 @@ public class AboutPanelController
       panel.add(sourcePanel,c);
       y++;
     }
-    
+
     // Discord
     {
       JPanel discordPanel=GuiFactory.buildPanel(new FlowLayout(FlowLayout.CENTER));
-      JLabel discordLabel=GuiFactory.buildLabel("Discord: ");
+      JLabel discordLabel=GuiFactory.buildLabel(Labels.getFieldLabel("about.discord"));
       discordLabel.setFont(font16);
       discordPanel.add(discordLabel);
-      BrowserHyperlinkAction discordAction=new BrowserHyperlinkAction("https://discord.gg/t2J4GDq","Lotro Jukebox");
+      BrowserHyperlinkAction discordAction=new BrowserHyperlinkAction("https://discord.gg/t2J4GDq","Discord");
       HyperLinkController discord=new HyperLinkController(discordAction);
       JLabel lbDiscord=discord.getLabel();
       lbDiscord.setFont(font16);
@@ -159,11 +159,6 @@ public class AboutPanelController
     {
       _panel.removeAll();
       _panel=null;
-    }
-    if (_timer!=null)
-    {
-      _timer.stop();
-      _timer=null;
     }
     if (_mail!=null)
     {
