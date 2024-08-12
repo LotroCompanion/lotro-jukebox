@@ -3,141 +3,73 @@
 <sound id="704647650" name="meo_eredluin_amb01_brass_204"/>
 <sound id="704647651" name="meo_eredluin_amb01_pad_251"/>
 <sound id="704647652" name="meo_eredluin_amb01_strings_138"/>
-<sound id="704648508" name="meo_elf_tower_hills_suite_303"/>
-<sound id="704648510" name="meo_elf_grey_havens_suite_206"/>
-<sound id="704648511" name="meo_elf_harp_mithlond_149"/>
+<sound id="704683175" name="music_U19_Belfalas_Calm_Happy"/>
+<sound id="704683176" name="music_U19_Belfalas_Solo_Harp"/>
+<sound id="704683177" name="music_U19_Belfalas_Calm_NewAge"/>
+<sound id="704683178" name="music_U19_Belfalas_Shanty"/>
 </musicItem>
 <musicItem id="1879101799" name="'Silent Hope' Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704647602" name="meo_hbt_lazy_146"/>
-<sound id="704647712" name="Hobbit_MAIN_Bb-C_FRETSonly"/>
-<sound id="704649437" name="lotro_kings_court2_01"/>
+<sound id="704648513" name="meo_elf_rivendell_suite_252"/>
+<sound id="704648514" name="meo_elf_rivendell_brass_41"/>
+<sound id="704648516" name="meo_elf_rivendell_mix_108"/>
 <sound id="704649438" name="16__Eb_upbeat"/>
 <sound id="704654562" name="07__Party in the Shire_full mix_housing"/>
 </musicItem>
 <musicItem id="1879101838" name="'Mithlond' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647736" name="meo_elf_limmidh_brass_123"/>
-<sound id="704647737" name="meo_elf_limmidh_strings_105"/>
-<sound id="704648506" name="meo_elf_limmidh_woods_a_107"/>
+<sound id="704647650" name="meo_eredluin_amb01_brass_204"/>
+<sound id="704647651" name="meo_eredluin_amb01_pad_251"/>
+<sound id="704647652" name="meo_eredluin_amb01_strings_138"/>
 <sound id="704648508" name="meo_elf_tower_hills_suite_303"/>
 <sound id="704648510" name="meo_elf_grey_havens_suite_206"/>
 <sound id="704648511" name="meo_elf_harp_mithlond_149"/>
 </musicItem>
 <musicItem id="1879101839" name="'Autumn Ale' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647524" name="Men_Life+Love_brass"/>
-<sound id="704647526" name="Men_Valorsuite_flutes_melody"/>
-<sound id="704647527" name="meo_men_fiddle_love_b_039"/>
+<sound id="704651468" name="tav_hum_01"/>
+<sound id="704651469" name="tav_hum_02"/>
 <sound id="704651470" name="tav_hum_03"/>
 <sound id="704651472" name="tav_hum_05"/>
 <sound id="704651477" name="tav_hum_10"/>
+<sound id="704654568" name="05_hum_amb_guitar2_housing"/>
 </musicItem>
 <musicItem id="1879101840" name="'East of the Sea' Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704647736" name="meo_elf_limmidh_brass_123"/>
 <sound id="704647737" name="meo_elf_limmidh_strings_105"/>
 <sound id="704648506" name="meo_elf_limmidh_woods_a_107"/>
-<sound id="704648513" name="meo_elf_rivendell_suite_252"/>
-<sound id="704648514" name="meo_elf_rivendell_brass_41"/>
-<sound id="704648516" name="meo_elf_rivendell_mix_108"/>
+<sound id="704648508" name="meo_elf_tower_hills_suite_303"/>
+<sound id="704648510" name="meo_elf_grey_havens_suite_206"/>
+<sound id="704648511" name="meo_elf_harp_mithlond_149"/>
 </musicItem>
 <musicItem id="1879101841" name="'Ancestral Bonds' Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704647653" name="meo_eredluin_amb02_brass_200"/>
 <sound id="704647654" name="meo_eredluin_amb02_hybrid_304"/>
 <sound id="704647655" name="meo_eredluin_amb02_suite_832"/>
-<sound id="704667496" name="wiz_ga_ost_dunhoth_fear_stairs_1_b_english"/>
-<sound id="704667498" name="wiz_ga_ost_dunhoth_fear_stairs_2_b_english"/>
-<sound id="704667501" name="wiz_ga_ost_dunhoth_fear_stairs_3_c_english"/>
-<sound id="704667884" name="bal_db_ost_dunhoth_fear_skill_1_b"/>
-<sound id="704667886" name="bal_db_ost_dunhoth_fear_skill_2_b"/>
-<sound id="704667888" name="bal_db_ost_dunhoth_fear_skill_3_b"/>
-<sound id="704667890" name="bal_db_ost_dunhoth_fear_skill_4_b"/>
-<sound id="704667892" name="bal_db_ost_dunhoth_fear_skill_5_b"/>
-<sound id="704667894" name="bal_db_ost_dunhoth_fear_skill_6_b"/>
-<sound id="704667896" name="bal_db_ost_dunhoth_fear_skill_7_b"/>
-<sound id="704667898" name="bal_db_ost_dunhoth_fear_skill_8_b"/>
-<sound id="704667900" name="bal_db_ost_dunhoth_fear_skill_9_b"/>
-<sound id="704668298" name="Instance_GlacialFortress_CBT_01"/>
+<sound id="704690310" name="music_u25_BBOM_V5B14C2_Part1"/>
+<sound id="704690312" name="music_u25_BBOM_V5EpilogueC4_Part2"/>
+<sound id="704690313" name="music_u25_BBOM_V5EpilogueC5_Part3"/>
+<sound id="704690323" name="music_u25_BBOM_V5B13C9_Part2"/>
+<sound id="704690327" name="music_u25_BBOM_V5EpilogueC6_Part1"/>
+<sound id="704690331" name="music_u25_BBOM_V5EpilogueC4_Part3"/>
+<sound id="704690332" name="music_u25_BBOM_V5EpilogueC5_Part2"/>
+<sound id="704690339" name="music_u25_BBOM_V5EpilogueC6_Part2"/>
+<sound id="704690343" name="music_u25_BBOM_V5EpilogueC5_Part1"/>
+<sound id="704690348" name="music_u25_BBOM_V5B14C4_Part1"/>
+<sound id="704690353" name="music_u25_BBOM_V5EpilogueC6_Part3"/>
+<sound id="704690358" name="music_u25_BBOM_V5EpilogueC4_Part1"/>
+<sound id="704690363" name="music_u25_BBOM_V5B14C2_Part4"/>
+<sound id="704690365" name="music_u25_BBOM_V5B14C4_Part2"/>
+<sound id="704690372" name="music_u25_BBOM_V5EpilogueC7_Part5"/>
+<sound id="704690378" name="music_u25_BBOM_V5B14C4_Part3"/>
+<sound id="704690380" name="music_u25_BBOM_V5EpilogueC8"/>
+<sound id="704690388" name="music_u25_BBOM_V5B14C2_Part2"/>
+<sound id="704690394" name="music_u25_BBOM_V5B13C9_Part1"/>
+<sound id="704690395" name="music_u25_BBOM_V5B14C4_Part4"/>
+<sound id="704690405" name="music_u25_BBOM_V5B14C2_Part3"/>
+<sound id="704690408" name="music_u25_BBOM_V5EpilogueC4_Part4"/>
+<sound id="704690414" name="music_u25_BBOM_V5B14C4_Part5"/>
+<sound id="704690422" name="music_u25_BBOM_V5EpilogueC5_Part4"/>
 </musicItem>
 <musicItem id="1879101842" name="'Lament for Oakenshield' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647662" name="meo_eredluin_lesser_hall_400"/>
-<sound id="704654549" name="meo_dw_ancestral_dance_suite_209_housing"/>
-<sound id="704665520" name="dwarf_vox_01_noloop_housing"/>
-<sound id="704691090" name="music_u26_Lyndelby_landscape_01"/>
-<sound id="704691094" name="music_u26_Misthallow_landscape_01"/>
-<sound id="704691097" name="music_u26_Lyndelby_landscape_02"/>
-<sound id="704691098" name="music_u26_WoA_landscape_main"/>
-<sound id="704691103" name="music_u26_WoA_landscape_01"/>
-<sound id="704691110" name="music_u26_WoA_landscape_night"/>
-<sound id="704691114" name="music_u26_Floodfells_landscape_01"/>
-<sound id="704691121" name="music_u26_Lyndelby_landscape_03"/>
-<sound id="704691129" name="music_u26_Durin_instance_Part1"/>
-<sound id="704691131" name="music_u26_Durin_instance_Part2"/>
-</musicItem>
-<musicItem id="1879101843" name="'Prancing Pony' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704651468" name="tav_hum_01"/>
-<sound id="704651469" name="tav_hum_02"/>
-<sound id="704651470" name="tav_hum_03"/>
-<sound id="704651472" name="tav_hum_05"/>
-<sound id="704651477" name="tav_hum_10"/>
-<sound id="704654568" name="05_hum_amb_guitar2_housing"/>
-</musicItem>
-<musicItem id="1879101844" name="'Lay of the Free Peoples' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647524" name="Men_Life+Love_brass"/>
-<sound id="704647526" name="Men_Valorsuite_flutes_melody"/>
-<sound id="704647527" name="meo_men_fiddle_love_b_039"/>
-<sound id="704654884" name="01_10.18.07"/>
-<sound id="704654897" name="01_11.20.07"/>
-<sound id="704656037" name="01_07_08.01"/>
-</musicItem>
-<musicItem id="1879101845" name="'Hills of the Shire' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647712" name="Hobbit_MAIN_Bb-C_FRETSonly"/>
-<sound id="704649253" name="meo_hbt_road_strings_101"/>
-<sound id="704649254" name="meo_hbt_road_echoes_116"/>
-<sound id="704649437" name="lotro_kings_court2_01"/>
-<sound id="704651489" name="meo_hbt_road_147"/>
-<sound id="704654562" name="07__Party in the Shire_full mix_housing"/>
-</musicItem>
-<musicItem id="1879101846" name="'Rivendell' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647602" name="meo_hbt_lazy_146"/>
-<sound id="704648513" name="meo_elf_rivendell_suite_252"/>
-<sound id="704648514" name="meo_elf_rivendell_brass_41"/>
-<sound id="704648516" name="meo_elf_rivendell_mix_108"/>
-<sound id="704649438" name="16__Eb_upbeat"/>
-<sound id="704654562" name="07__Party in the Shire_full mix_housing"/>
-</musicItem>
-<musicItem id="1879101847" name="'Tom Bombadil' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704649253" name="meo_hbt_road_strings_101"/>
-<sound id="704649254" name="meo_hbt_road_echoes_116"/>
-<sound id="704651468" name="tav_hum_01"/>
-<sound id="704651469" name="tav_hum_02"/>
-<sound id="704651489" name="meo_hbt_road_147"/>
-<sound id="704654568" name="05_hum_amb_guitar2_housing"/>
-</musicItem>
-<musicItem id="1879115997" name="Eternal Elven-song Music Box" icon="1091405451-1091424047-1091947416">
-<sound id="704647690" name="landscape_05_m"/>
-<sound id="704649107" name="meo_socal_01"/>
-<sound id="704654357" name="no_080707"/>
-<sound id="704654591" name="se_091207"/>
-<sound id="704654592" name="se_090507"/>
-<sound id="704654593" name="se_090607"/>
-<sound id="704654595" name="no_082908"/>
-</musicItem>
-<musicItem id="1879115999" name="Triumphs of the Dwarves Music Box" icon="1091405451-1091424047-1091947416">
-<sound id="704654591" name="se_091207"/>
-<sound id="704654592" name="se_090507"/>
-<sound id="704654593" name="se_090607"/>
-<sound id="704654595" name="no_082908"/>
-<sound id="704657178" name="Ages_Mastered_44k_24bit"/>
-<sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
-<sound id="704657183" name="05_19_08.01_eq"/>
-</musicItem>
-<musicItem id="1879116000" name="Summerdays Music Box" icon="1091405451-1091424047-1091947416">
-<sound id="704647690" name="landscape_05_m"/>
-<sound id="704649107" name="meo_socal_01"/>
-<sound id="704654357" name="no_080707"/>
-<sound id="704654884" name="01_10.18.07"/>
-<sound id="704654897" name="01_11.20.07"/>
-<sound id="704656037" name="01_07_08.01"/>
-</musicItem>
-<musicItem id="1879151056" name="Snowy Peaks Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704647662" name="meo_eredluin_lesser_hall_400"/>
 <sound id="704654549" name="meo_dw_ancestral_dance_suite_209_housing"/>
 <sound id="704659385" name="11_05_08.01"/>
@@ -145,7 +77,71 @@
 <sound id="704659390" name="11_07_08.01"/>
 <sound id="704665520" name="dwarf_vox_01_noloop_housing"/>
 </musicItem>
-<musicItem id="1879151063" name="'Lothlórien' Theme" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879101843" name="'Prancing Pony' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704649253" name="meo_hbt_road_strings_101"/>
+<sound id="704649254" name="meo_hbt_road_echoes_116"/>
+<sound id="704651468" name="tav_hum_01"/>
+<sound id="704651469" name="tav_hum_02"/>
+<sound id="704651489" name="meo_hbt_road_147"/>
+<sound id="704654568" name="05_hum_amb_guitar2_housing"/>
+</musicItem>
+<musicItem id="1879101844" name="'Lay of the Free Peoples' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704647524" name="Men_Life+Love_brass"/>
+<sound id="704647526" name="Men_Valorsuite_flutes_melody"/>
+<sound id="704647527" name="meo_men_fiddle_love_b_039"/>
+<sound id="704651470" name="tav_hum_03"/>
+<sound id="704651472" name="tav_hum_05"/>
+<sound id="704651477" name="tav_hum_10"/>
+</musicItem>
+<musicItem id="1879101845" name="'Hills of the Shire' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704647602" name="meo_hbt_lazy_146"/>
+<sound id="704647712" name="Hobbit_MAIN_Bb-C_FRETSonly"/>
+<sound id="704649437" name="lotro_kings_court2_01"/>
+<sound id="704649438" name="16__Eb_upbeat"/>
+<sound id="704654562" name="07__Party in the Shire_full mix_housing"/>
+</musicItem>
+<musicItem id="1879101846" name="'Rivendell' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704647736" name="meo_elf_limmidh_brass_123"/>
+<sound id="704647737" name="meo_elf_limmidh_strings_105"/>
+<sound id="704648506" name="meo_elf_limmidh_woods_a_107"/>
+<sound id="704648513" name="meo_elf_rivendell_suite_252"/>
+<sound id="704648514" name="meo_elf_rivendell_brass_41"/>
+<sound id="704648516" name="meo_elf_rivendell_mix_108"/>
+</musicItem>
+<musicItem id="1879101847" name="'Tom Bombadil' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704647712" name="Hobbit_MAIN_Bb-C_FRETSonly"/>
+<sound id="704649253" name="meo_hbt_road_strings_101"/>
+<sound id="704649254" name="meo_hbt_road_echoes_116"/>
+<sound id="704649437" name="lotro_kings_court2_01"/>
+<sound id="704651489" name="meo_hbt_road_147"/>
+<sound id="704654562" name="07__Party in the Shire_full mix_housing"/>
+</musicItem>
+<musicItem id="1879115997" name="Eternal Elven-song Music Box" icon="1091405451-1091424047-1091947416">
+<sound id="704647690" name="landscape_05_m"/>
+<sound id="704649107" name="meo_socal_01"/>
+<sound id="704654357" name="no_080707"/>
+<sound id="704654884" name="01_10.18.07"/>
+<sound id="704654897" name="01_11.20.07"/>
+<sound id="704656037" name="01_07_08.01"/>
+</musicItem>
+<musicItem id="1879115999" name="Triumphs of the Dwarves Music Box" icon="1091405451-1091424047-1091947416">
+<sound id="704647690" name="landscape_05_m"/>
+<sound id="704649107" name="meo_socal_01"/>
+<sound id="704654357" name="no_080707"/>
+<sound id="704654591" name="se_091207"/>
+<sound id="704654592" name="se_090507"/>
+<sound id="704654593" name="se_090607"/>
+<sound id="704654595" name="no_082908"/>
+</musicItem>
+<musicItem id="1879116000" name="Summerdays Music Box" icon="1091405451-1091424047-1091947416">
+<sound id="704647524" name="Men_Life+Love_brass"/>
+<sound id="704647526" name="Men_Valorsuite_flutes_melody"/>
+<sound id="704647527" name="meo_men_fiddle_love_b_039"/>
+<sound id="704654884" name="01_10.18.07"/>
+<sound id="704654897" name="01_11.20.07"/>
+<sound id="704656037" name="01_07_08.01"/>
+</musicItem>
+<musicItem id="1879151056" name="Snowy Peaks Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704647474" name="meo_greyhavens_vox_l_034"/>
 <sound id="704647500" name="meo_greyhavens_vox_a_041"/>
 <sound id="704647501" name="meo_greyhavens_vox_b_033"/>
@@ -159,8 +155,15 @@
 <sound id="704647509" name="meo_greyhavens_vox_j_028"/>
 <sound id="704647510" name="meo_greyhavens_vox_k_034"/>
 <sound id="704651483" name="tav_elf_02"/>
+<sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
+<sound id="704659385" name="11_05_08.01"/>
+<sound id="704659388" name="12_16_08.01"/>
+<sound id="704659390" name="11_07_08.01"/>
+</musicItem>
+<musicItem id="1879151063" name="'Lothlórien' Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704657178" name="Ages_Mastered_44k_24bit"/>
 <sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
+<sound id="704657183" name="05_19_08.01_eq"/>
 <sound id="704659387" name="11_05_08.02"/>
 <sound id="704659391" name="9_20_08.01"/>
 </musicItem>
@@ -178,17 +181,19 @@
 <sound id="704647509" name="meo_greyhavens_vox_j_028"/>
 <sound id="704647510" name="meo_greyhavens_vox_k_034"/>
 <sound id="704651483" name="tav_elf_02"/>
+<sound id="704657178" name="Ages_Mastered_44k_24bit"/>
 <sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
-<sound id="704659385" name="11_05_08.01"/>
-<sound id="704659388" name="12_16_08.01"/>
-<sound id="704659390" name="11_07_08.01"/>
+<sound id="704659387" name="11_05_08.02"/>
+<sound id="704659391" name="9_20_08.01"/>
 </musicItem>
 <musicItem id="1879151735" name="Spring Festival Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704654591" name="se_091207"/>
+<sound id="704654592" name="se_090507"/>
+<sound id="704654593" name="se_090607"/>
+<sound id="704654595" name="no_082908"/>
 <sound id="704657178" name="Ages_Mastered_44k_24bit"/>
 <sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
 <sound id="704657183" name="05_19_08.01_eq"/>
-<sound id="704659387" name="11_05_08.02"/>
-<sound id="704659391" name="9_20_08.01"/>
 </musicItem>
 <musicItem id="1879188519" name="Caras Galadhon Theme" icon="1091405451-1091591349-1091405445">
 <sound id="704647474" name="meo_greyhavens_vox_l_034"/>
@@ -204,20 +209,12 @@
 <sound id="704647509" name="meo_greyhavens_vox_j_028"/>
 <sound id="704647510" name="meo_greyhavens_vox_k_034"/>
 <sound id="704651483" name="tav_elf_02"/>
+<sound id="704657178" name="Ages_Mastered_44k_24bit"/>
 <sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
-<sound id="704659385" name="11_05_08.01"/>
-<sound id="704659388" name="12_16_08.01"/>
-<sound id="704659390" name="11_07_08.01"/>
+<sound id="704659387" name="11_05_08.02"/>
+<sound id="704659391" name="9_20_08.01"/>
 </musicItem>
 <musicItem id="1879188520" name="Snowy Peaks Theme" icon="1091405451-1091591349-1091405445">
-<sound id="704647662" name="meo_eredluin_lesser_hall_400"/>
-<sound id="704654549" name="meo_dw_ancestral_dance_suite_209_housing"/>
-<sound id="704659385" name="11_05_08.01"/>
-<sound id="704659388" name="12_16_08.01"/>
-<sound id="704659390" name="11_07_08.01"/>
-<sound id="704665520" name="dwarf_vox_01_noloop_housing"/>
-</musicItem>
-<musicItem id="1879188524" name="Lothlórien Theme" icon="1091405451-1091591349-1091405445">
 <sound id="704647474" name="meo_greyhavens_vox_l_034"/>
 <sound id="704647500" name="meo_greyhavens_vox_a_041"/>
 <sound id="704647501" name="meo_greyhavens_vox_b_033"/>
@@ -231,12 +228,223 @@
 <sound id="704647509" name="meo_greyhavens_vox_j_028"/>
 <sound id="704647510" name="meo_greyhavens_vox_k_034"/>
 <sound id="704651483" name="tav_elf_02"/>
+<sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
+<sound id="704659385" name="11_05_08.01"/>
+<sound id="704659388" name="12_16_08.01"/>
+<sound id="704659390" name="11_07_08.01"/>
+</musicItem>
+<musicItem id="1879188524" name="Lothlórien Theme" icon="1091405451-1091591349-1091405445">
 <sound id="704657178" name="Ages_Mastered_44k_24bit"/>
 <sound id="704657179" name="Nimrodel_Mastered_44k_24bit"/>
+<sound id="704657183" name="05_19_08.01_eq"/>
 <sound id="704659387" name="11_05_08.02"/>
 <sound id="704659391" name="9_20_08.01"/>
 </musicItem>
 <musicItem id="1879206098" name="Dark Music Box" icon="1091405451-1091424047-1091947416">
+<sound id="704647653" name="meo_eredluin_amb02_brass_200"/>
+<sound id="704647654" name="meo_eredluin_amb02_hybrid_304"/>
+<sound id="704647655" name="meo_eredluin_amb02_suite_832"/>
+<sound id="704667496" name="wiz_ga_ost_dunhoth_fear_stairs_1_b_english"/>
+<sound id="704667498" name="wiz_ga_ost_dunhoth_fear_stairs_2_b_english"/>
+<sound id="704667501" name="wiz_ga_ost_dunhoth_fear_stairs_3_c_english"/>
+<sound id="704667884" name="bal_db_ost_dunhoth_fear_skill_1_b"/>
+<sound id="704667886" name="bal_db_ost_dunhoth_fear_skill_2_b"/>
+<sound id="704667888" name="bal_db_ost_dunhoth_fear_skill_3_b"/>
+<sound id="704667890" name="bal_db_ost_dunhoth_fear_skill_4_b"/>
+<sound id="704667892" name="bal_db_ost_dunhoth_fear_skill_5_b"/>
+<sound id="704667894" name="bal_db_ost_dunhoth_fear_skill_6_b"/>
+<sound id="704667896" name="bal_db_ost_dunhoth_fear_skill_7_b"/>
+<sound id="704667898" name="bal_db_ost_dunhoth_fear_skill_8_b"/>
+<sound id="704667900" name="bal_db_ost_dunhoth_fear_skill_9_b"/>
+<sound id="704668298" name="Instance_GlacialFortress_CBT_01"/>
+</musicItem>
+<musicItem id="1879339052" name="'Belfalas' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704683175" name="music_U19_Belfalas_Calm_Happy"/>
+<sound id="704683176" name="music_U19_Belfalas_Solo_Harp"/>
+<sound id="704683177" name="music_U19_Belfalas_Calm_NewAge"/>
+<sound id="704683178" name="music_U19_Belfalas_Shanty"/>
+<sound id="704691465" name="music_u27_MTMidsummer_landscape_03"/>
+<sound id="704691471" name="music_u27_MTMidsummer_ceremony_part2"/>
+<sound id="704691472" name="music_u27_MTMidsummer_landscape_02"/>
+<sound id="704691476" name="music_u27_MTMidsummer_ceremony_part1"/>
+<sound id="704691479" name="music_u27_MTMidsummer_landscape_01"/>
+<sound id="704691480" name="music_u27_MTMidsummer_reception_dance"/>
+<sound id="704691483" name="music_u27_MTMidsummer_ceremony_part3"/>
+</musicItem>
+<musicItem id="1879362868" name="'Gorgoroth' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704683959" name="music_u21_talathurui_explore_intro"/>
+<sound id="704684023" name="music_u21_barad_dur_explore_intro"/>
+<sound id="704684029" name="music_u21_agarnaith_explore_intro"/>
+<sound id="704684031" name="music_u21_blackgate_explore_intro"/>
+<sound id="704684068" name="music_u21_udun_explore_intro"/>
+<sound id="704684089" name="music_u21_doramarth_explore_intro"/>
+<sound id="704684117" name="music_u21_lhingris_explore_intro"/>
+<sound id="704687031" name="music_u22_Laketown_landscape_day"/>
+<sound id="704687033" name="music_u22_Daleland_landscape_01"/>
+<sound id="704687040" name="music_u22_Daleland_landscape_02"/>
+<sound id="704687082" name="music_u22_Laketown_landscape_night"/>
+<sound id="704687087" name="music_u22_Dale_landscape_night"/>
+<sound id="704687098" name="music_u22_Dale_landscape_day"/>
+</musicItem>
+<musicItem id="1879366894" name="Mirkwood Theme" icon="1092368386-1091424047-1091947416">
+<sound id="704687028" name="music_u22_Northern_Mirkwood_landscape_02"/>
+<sound id="704687051" name="music_u22_Northern_Mirkwood_landscape_04"/>
+<sound id="704687054" name="music_u22_Northern_Mirkwood_landscape_01"/>
+<sound id="704687080" name="music_u22_Northern_Mirkwood_landscape_03"/>
+<sound id="704687390" name="music_u23_Instance_explore"/>
+<sound id="704687395" name="music_u23_SteelKeep_explore"/>
+<sound id="704687407" name="music_u23_Stormwall_explore"/>
+<sound id="704687410" name="music_u23_Glimmerdeep_explore"/>
+<sound id="704687415" name="music_u23_BBOM_Skarhald_Assault"/>
+<sound id="704688360" name="musicbox_u23_Instance_boss_combat"/>
+<sound id="704688370" name="musicbox_u23_SteelKeep_boss_combat"/>
+<sound id="704688373" name="musicbox_u23_Stormwall_boss_combat"/>
+<sound id="704688374" name="musicbox_u23_Glimmerdeep_boss_combat"/>
+</musicItem>
+<musicItem id="1879366904" name="Dale Theme" icon="1092368382-1091424047-1091947416">
+<sound id="704687028" name="music_u22_Northern_Mirkwood_landscape_02"/>
+<sound id="704687031" name="music_u22_Laketown_landscape_day"/>
+<sound id="704687033" name="music_u22_Daleland_landscape_01"/>
+<sound id="704687040" name="music_u22_Daleland_landscape_02"/>
+<sound id="704687051" name="music_u22_Northern_Mirkwood_landscape_04"/>
+<sound id="704687054" name="music_u22_Northern_Mirkwood_landscape_01"/>
+<sound id="704687080" name="music_u22_Northern_Mirkwood_landscape_03"/>
+<sound id="704687082" name="music_u22_Laketown_landscape_night"/>
+<sound id="704687087" name="music_u22_Dale_landscape_night"/>
+<sound id="704687098" name="music_u22_Dale_landscape_day"/>
+</musicItem>
+<musicItem id="1879379319" name="'Iron Hills' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704687387" name="music_u23_Hammerstead_landscape_01"/>
+<sound id="704687397" name="music_u23_Ironfold_landscape_01"/>
+<sound id="704687414" name="music_u23_Jarnfast_landscape_01"/>
+<sound id="704687417" name="music_u23_Ironfold_landscape_02"/>
+<sound id="704687421" name="music_u23_Jarnfast_landscape_02"/>
+<sound id="704687438" name="music_u23_Ironfold_landscape_03"/>
+<sound id="704688361" name="music_u23_Anvil_escape"/>
+<sound id="704688362" name="music_u23_Anvil_Hrimil_boss_combat"/>
+<sound id="704688364" name="music_u23_Anvil_explore"/>
+<sound id="704688366" name="music_u23_Anvil_dwarf_boss_combat"/>
+<sound id="704688371" name="music_u23_Anvil_combat_01a"/>
+</musicItem>
+<musicItem id="1879379320" name="'Grey Mountains Instance' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704687390" name="music_u23_Instance_explore"/>
+<sound id="704687391" name="music_u23_Skarhald_landscape_01"/>
+<sound id="704687392" name="music_u23_EredMithrin_landscape_01"/>
+<sound id="704687395" name="music_u23_SteelKeep_explore"/>
+<sound id="704687403" name="music_u23_Skarhald_landscape_02"/>
+<sound id="704687406" name="music_u23_EredMithrin_landscape_03"/>
+<sound id="704687407" name="music_u23_Stormwall_explore"/>
+<sound id="704687410" name="music_u23_Glimmerdeep_explore"/>
+<sound id="704687415" name="music_u23_BBOM_Skarhald_Assault"/>
+<sound id="704687428" name="music_u23_EredMithrin_landscape_02"/>
+<sound id="704687430" name="music_u23_WitheredHeath_landscape_01"/>
+<sound id="704687440" name="music_u23_Skarhald_landscape_03"/>
+<sound id="704688360" name="musicbox_u23_Instance_boss_combat"/>
+<sound id="704688370" name="musicbox_u23_SteelKeep_boss_combat"/>
+<sound id="704688373" name="musicbox_u23_Stormwall_boss_combat"/>
+<sound id="704688374" name="musicbox_u23_Glimmerdeep_boss_combat"/>
+</musicItem>
+<musicItem id="1879379321" name="'Ered Mithrin' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704687387" name="music_u23_Hammerstead_landscape_01"/>
+<sound id="704687391" name="music_u23_Skarhald_landscape_01"/>
+<sound id="704687392" name="music_u23_EredMithrin_landscape_01"/>
+<sound id="704687397" name="music_u23_Ironfold_landscape_01"/>
+<sound id="704687403" name="music_u23_Skarhald_landscape_02"/>
+<sound id="704687406" name="music_u23_EredMithrin_landscape_03"/>
+<sound id="704687414" name="music_u23_Jarnfast_landscape_01"/>
+<sound id="704687417" name="music_u23_Ironfold_landscape_02"/>
+<sound id="704687421" name="music_u23_Jarnfast_landscape_02"/>
+<sound id="704687428" name="music_u23_EredMithrin_landscape_02"/>
+<sound id="704687430" name="music_u23_WitheredHeath_landscape_01"/>
+<sound id="704687438" name="music_u23_Ironfold_landscape_03"/>
+<sound id="704687440" name="music_u23_Skarhald_landscape_03"/>
+</musicItem>
+<musicItem id="1879384236" name="'Anvil of Winterstith Raid' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704688361" name="music_u23_Anvil_escape"/>
+<sound id="704688362" name="music_u23_Anvil_Hrimil_boss_combat"/>
+<sound id="704688364" name="music_u23_Anvil_explore"/>
+<sound id="704688366" name="music_u23_Anvil_dwarf_boss_combat"/>
+<sound id="704688371" name="music_u23_Anvil_combat_01a"/>
+<sound id="704689098" name="music_u24_Laerlad_watersong_full"/>
+</musicItem>
+<musicItem id="1879391239" name="'Vales of Anduin' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704689047" name="music_u24_Rhosgobel_POI"/>
+<sound id="704689048" name="music_u24_Anduin_landscape_main"/>
+<sound id="704689053" name="music_u24_Duskenvales_landscape"/>
+<sound id="704689056" name="music_u24_Anduin_landscape_night"/>
+<sound id="704689057" name="music_u24_Woodsedge_landscape"/>
+<sound id="704689060" name="music_u24_Anduin_landscape_02"/>
+<sound id="704689061" name="music_u24_Eyrie_POI"/>
+<sound id="704689069" name="music_u24_Laerlad_landscape"/>
+<sound id="704689070" name="music_u24_Gladden_Fields_landscape_01"/>
+<sound id="704689072" name="music_u24_Anduin_landscape_01"/>
+<sound id="704689073" name="music_u24_Gladden_Fields_landscape_02"/>
+<sound id="704689081" name="music_u24_Wolfdenes_landscape"/>
+<sound id="704689092" name="music_u24_Beorn_lodge_instance"/>
+<sound id="704689099" name="music_u24_Beorninglands_landscape"/>
+</musicItem>
+<musicItem id="1879391241" name="'Vales of Anduin' Secondary Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704689046" name="music_u24_Galadriel_instance_combat"/>
+<sound id="704689047" name="music_u24_Rhosgobel_POI"/>
+<sound id="704689056" name="music_u24_Anduin_landscape_night"/>
+<sound id="704689060" name="music_u24_Anduin_landscape_02"/>
+<sound id="704689061" name="music_u24_Eyrie_POI"/>
+<sound id="704689062" name="music_u24_Galadriel_instance_drama"/>
+<sound id="704689072" name="music_u24_Anduin_landscape_01"/>
+<sound id="704689073" name="music_u24_Gladden_Fields_landscape_02"/>
+<sound id="704689077" name="music_u24_BBOM_instance"/>
+<sound id="704689086" name="music_u24_Galadriel_instance_intro"/>
+<sound id="704689092" name="music_u24_Beorn_lodge_instance"/>
+<sound id="704689096" name="music_u24_Goblin_battle_instance"/>
+<sound id="704689108" name="music_u24_Karazgars_Lair"/>
+<sound id="704689112" name="music_u24_BBOM_Karazgar_drama"/>
+</musicItem>
+<musicItem id="1879391266" name="'Quest Instances of the Vales' Theme" icon="1091405451-1091424047-1091947416">
+<sound id="704689046" name="music_u24_Galadriel_instance_combat"/>
+<sound id="704689062" name="music_u24_Galadriel_instance_drama"/>
+<sound id="704689077" name="music_u24_BBOM_instance"/>
+<sound id="704689086" name="music_u24_Galadriel_instance_intro"/>
+<sound id="704689096" name="music_u24_Goblin_battle_instance"/>
+<sound id="704689108" name="music_u24_Karazgars_Lair"/>
+<sound id="704689112" name="music_u24_BBOM_Karazgar_drama"/>
+<sound id="704690317" name="music_u25_MinasMorgul_landscape_main"/>
+<sound id="704690325" name="music_u25_MinasMorgul_landscape_Thuringwath"/>
+<sound id="704690375" name="music_u25_MinasMorgul_landscape_02"/>
+<sound id="704690389" name="music_u25_MinasMorgul_landscape_03"/>
+<sound id="704690391" name="music_u25_MinasMorgul_landscape_Rath_Duath"/>
+<sound id="704690396" name="music_u25_MinasMorgul_landscape_Cirith_Ungol"/>
+<sound id="704690423" name="music_u25_MinasMorgul_landscape_01"/>
+</musicItem>
+<musicItem id="1879400106" name="'Black Book of Mordor I' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704683959" name="music_u21_talathurui_explore_intro"/>
+<sound id="704684023" name="music_u21_barad_dur_explore_intro"/>
+<sound id="704684029" name="music_u21_agarnaith_explore_intro"/>
+<sound id="704684031" name="music_u21_blackgate_explore_intro"/>
+<sound id="704684068" name="music_u21_udun_explore_intro"/>
+<sound id="704684089" name="music_u21_doramarth_explore_intro"/>
+<sound id="704684117" name="music_u21_lhingris_explore_intro"/>
+<sound id="704690307" name="music_u25_BBOM_V5B12C2_Part2"/>
+<sound id="704690315" name="music_u25_BBOM_V5B11C6_Part2"/>
+<sound id="704690329" name="music_u25_BBOM_V5B11C4"/>
+<sound id="704690330" name="music_u25_BBOM_V5B12C2_Part3"/>
+<sound id="704690354" name="music_u25_BBOM_V5B12C2_Part1"/>
+<sound id="704690361" name="music_u25_BBOM_V5B12C3_Part4"/>
+<sound id="704690364" name="music_u25_BBOM_V5B11C6_Part1"/>
+<sound id="704690373" name="music_u25_BBOM_V5B12C3_Part3"/>
+<sound id="704690376" name="music_u25_BBOM_V5B11C9_Part5"/>
+<sound id="704690386" name="music_u25_BBOM_V5B12C3_Part2"/>
+<sound id="704690392" name="music_u25_BBOM_V5B11C9_Part4"/>
+<sound id="704690401" name="music_u25_BBOM_V5B11C9_Part7"/>
+<sound id="704690402" name="music_u25_BBOM_V5B12C2_Part4"/>
+<sound id="704690411" name="music_u25_BBOM_V5B12C3_Part1"/>
+<sound id="704690421" name="music_u25_BBOM_V5B11C9_Part6"/>
+<sound id="704690427" name="music_u25_BBOM_V5B12C4_Part7"/>
+<sound id="704690428" name="music_u25_BBOM_V5B12C4_Part5"/>
+<sound id="704690432" name="music_u25_BBOM_V5B12C4_Part3"/>
+<sound id="704690435" name="music_u25_BBOM_V5B12C4_Part6"/>
+<sound id="704690436" name="music_u25_BBOM_V5B12C4_Part4"/>
+</musicItem>
+<musicItem id="1879400107" name="'Minas Morgul Combat' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704667496" name="wiz_ga_ost_dunhoth_fear_stairs_1_b_english"/>
 <sound id="704667498" name="wiz_ga_ost_dunhoth_fear_stairs_2_b_english"/>
 <sound id="704667501" name="wiz_ga_ost_dunhoth_fear_stairs_3_c_english"/>
@@ -270,207 +478,7 @@
 <sound id="704690451" name="music_u25_Dark_Archives_combat_01a"/>
 <sound id="704690452" name="music_u25_Lamentation_House_combat_01a"/>
 </musicItem>
-<musicItem id="1879339052" name="'Belfalas' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704647650" name="meo_eredluin_amb01_brass_204"/>
-<sound id="704647651" name="meo_eredluin_amb01_pad_251"/>
-<sound id="704647652" name="meo_eredluin_amb01_strings_138"/>
-<sound id="704683175" name="music_U19_Belfalas_Calm_Happy"/>
-<sound id="704683176" name="music_U19_Belfalas_Solo_Harp"/>
-<sound id="704683177" name="music_U19_Belfalas_Calm_NewAge"/>
-<sound id="704683178" name="music_U19_Belfalas_Shanty"/>
-</musicItem>
-<musicItem id="1879362868" name="'Gorgoroth' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704683959" name="music_u21_talathurui_explore_intro"/>
-<sound id="704684023" name="music_u21_barad_dur_explore_intro"/>
-<sound id="704684029" name="music_u21_agarnaith_explore_intro"/>
-<sound id="704684031" name="music_u21_blackgate_explore_intro"/>
-<sound id="704684068" name="music_u21_udun_explore_intro"/>
-<sound id="704684089" name="music_u21_doramarth_explore_intro"/>
-<sound id="704684117" name="music_u21_lhingris_explore_intro"/>
-<sound id="704690307" name="music_u25_BBOM_V5B12C2_Part2"/>
-<sound id="704690315" name="music_u25_BBOM_V5B11C6_Part2"/>
-<sound id="704690329" name="music_u25_BBOM_V5B11C4"/>
-<sound id="704690330" name="music_u25_BBOM_V5B12C2_Part3"/>
-<sound id="704690354" name="music_u25_BBOM_V5B12C2_Part1"/>
-<sound id="704690361" name="music_u25_BBOM_V5B12C3_Part4"/>
-<sound id="704690364" name="music_u25_BBOM_V5B11C6_Part1"/>
-<sound id="704690373" name="music_u25_BBOM_V5B12C3_Part3"/>
-<sound id="704690376" name="music_u25_BBOM_V5B11C9_Part5"/>
-<sound id="704690386" name="music_u25_BBOM_V5B12C3_Part2"/>
-<sound id="704690392" name="music_u25_BBOM_V5B11C9_Part4"/>
-<sound id="704690401" name="music_u25_BBOM_V5B11C9_Part7"/>
-<sound id="704690402" name="music_u25_BBOM_V5B12C2_Part4"/>
-<sound id="704690411" name="music_u25_BBOM_V5B12C3_Part1"/>
-<sound id="704690421" name="music_u25_BBOM_V5B11C9_Part6"/>
-<sound id="704690427" name="music_u25_BBOM_V5B12C4_Part7"/>
-<sound id="704690428" name="music_u25_BBOM_V5B12C4_Part5"/>
-<sound id="704690432" name="music_u25_BBOM_V5B12C4_Part3"/>
-<sound id="704690435" name="music_u25_BBOM_V5B12C4_Part6"/>
-<sound id="704690436" name="music_u25_BBOM_V5B12C4_Part4"/>
-</musicItem>
-<musicItem id="1879366894" name="Mirkwood Theme" icon="1092368386-1091424047-1091947416">
-<sound id="704687028" name="music_u22_Northern_Mirkwood_landscape_02"/>
-<sound id="704687031" name="music_u22_Laketown_landscape_day"/>
-<sound id="704687033" name="music_u22_Daleland_landscape_01"/>
-<sound id="704687040" name="music_u22_Daleland_landscape_02"/>
-<sound id="704687051" name="music_u22_Northern_Mirkwood_landscape_04"/>
-<sound id="704687054" name="music_u22_Northern_Mirkwood_landscape_01"/>
-<sound id="704687080" name="music_u22_Northern_Mirkwood_landscape_03"/>
-<sound id="704687082" name="music_u22_Laketown_landscape_night"/>
-<sound id="704687087" name="music_u22_Dale_landscape_night"/>
-<sound id="704687098" name="music_u22_Dale_landscape_day"/>
-</musicItem>
-<musicItem id="1879366904" name="Dale Theme" icon="1092368382-1091424047-1091947416">
-<sound id="704683959" name="music_u21_talathurui_explore_intro"/>
-<sound id="704684023" name="music_u21_barad_dur_explore_intro"/>
-<sound id="704684029" name="music_u21_agarnaith_explore_intro"/>
-<sound id="704684031" name="music_u21_blackgate_explore_intro"/>
-<sound id="704684068" name="music_u21_udun_explore_intro"/>
-<sound id="704684089" name="music_u21_doramarth_explore_intro"/>
-<sound id="704684117" name="music_u21_lhingris_explore_intro"/>
-<sound id="704687031" name="music_u22_Laketown_landscape_day"/>
-<sound id="704687033" name="music_u22_Daleland_landscape_01"/>
-<sound id="704687040" name="music_u22_Daleland_landscape_02"/>
-<sound id="704687082" name="music_u22_Laketown_landscape_night"/>
-<sound id="704687087" name="music_u22_Dale_landscape_night"/>
-<sound id="704687098" name="music_u22_Dale_landscape_day"/>
-</musicItem>
-<musicItem id="1879379319" name="'Iron Hills' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704687387" name="music_u23_Hammerstead_landscape_01"/>
-<sound id="704687391" name="music_u23_Skarhald_landscape_01"/>
-<sound id="704687392" name="music_u23_EredMithrin_landscape_01"/>
-<sound id="704687397" name="music_u23_Ironfold_landscape_01"/>
-<sound id="704687403" name="music_u23_Skarhald_landscape_02"/>
-<sound id="704687406" name="music_u23_EredMithrin_landscape_03"/>
-<sound id="704687414" name="music_u23_Jarnfast_landscape_01"/>
-<sound id="704687417" name="music_u23_Ironfold_landscape_02"/>
-<sound id="704687421" name="music_u23_Jarnfast_landscape_02"/>
-<sound id="704687428" name="music_u23_EredMithrin_landscape_02"/>
-<sound id="704687430" name="music_u23_WitheredHeath_landscape_01"/>
-<sound id="704687438" name="music_u23_Ironfold_landscape_03"/>
-<sound id="704687440" name="music_u23_Skarhald_landscape_03"/>
-</musicItem>
-<musicItem id="1879379320" name="'Grey Mountains Instance' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704687028" name="music_u22_Northern_Mirkwood_landscape_02"/>
-<sound id="704687051" name="music_u22_Northern_Mirkwood_landscape_04"/>
-<sound id="704687054" name="music_u22_Northern_Mirkwood_landscape_01"/>
-<sound id="704687080" name="music_u22_Northern_Mirkwood_landscape_03"/>
-<sound id="704687390" name="music_u23_Instance_explore"/>
-<sound id="704687395" name="music_u23_SteelKeep_explore"/>
-<sound id="704687407" name="music_u23_Stormwall_explore"/>
-<sound id="704687410" name="music_u23_Glimmerdeep_explore"/>
-<sound id="704687415" name="music_u23_BBOM_Skarhald_Assault"/>
-<sound id="704688360" name="musicbox_u23_Instance_boss_combat"/>
-<sound id="704688370" name="musicbox_u23_SteelKeep_boss_combat"/>
-<sound id="704688373" name="musicbox_u23_Stormwall_boss_combat"/>
-<sound id="704688374" name="musicbox_u23_Glimmerdeep_boss_combat"/>
-</musicItem>
-<musicItem id="1879379321" name="'Ered Mithrin' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704687390" name="music_u23_Instance_explore"/>
-<sound id="704687391" name="music_u23_Skarhald_landscape_01"/>
-<sound id="704687392" name="music_u23_EredMithrin_landscape_01"/>
-<sound id="704687395" name="music_u23_SteelKeep_explore"/>
-<sound id="704687403" name="music_u23_Skarhald_landscape_02"/>
-<sound id="704687406" name="music_u23_EredMithrin_landscape_03"/>
-<sound id="704687407" name="music_u23_Stormwall_explore"/>
-<sound id="704687410" name="music_u23_Glimmerdeep_explore"/>
-<sound id="704687415" name="music_u23_BBOM_Skarhald_Assault"/>
-<sound id="704687428" name="music_u23_EredMithrin_landscape_02"/>
-<sound id="704687430" name="music_u23_WitheredHeath_landscape_01"/>
-<sound id="704687440" name="music_u23_Skarhald_landscape_03"/>
-<sound id="704688360" name="musicbox_u23_Instance_boss_combat"/>
-<sound id="704688370" name="musicbox_u23_SteelKeep_boss_combat"/>
-<sound id="704688373" name="musicbox_u23_Stormwall_boss_combat"/>
-<sound id="704688374" name="musicbox_u23_Glimmerdeep_boss_combat"/>
-</musicItem>
-<musicItem id="1879384236" name="'Anvil of Winterstith Raid' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704687387" name="music_u23_Hammerstead_landscape_01"/>
-<sound id="704687397" name="music_u23_Ironfold_landscape_01"/>
-<sound id="704687414" name="music_u23_Jarnfast_landscape_01"/>
-<sound id="704687417" name="music_u23_Ironfold_landscape_02"/>
-<sound id="704687421" name="music_u23_Jarnfast_landscape_02"/>
-<sound id="704687438" name="music_u23_Ironfold_landscape_03"/>
-<sound id="704688361" name="music_u23_Anvil_escape"/>
-<sound id="704688362" name="music_u23_Anvil_Hrimil_boss_combat"/>
-<sound id="704688364" name="music_u23_Anvil_explore"/>
-<sound id="704688366" name="music_u23_Anvil_dwarf_boss_combat"/>
-<sound id="704688371" name="music_u23_Anvil_combat_01a"/>
-</musicItem>
-<musicItem id="1879391239" name="'Vales of Anduin' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704689048" name="music_u24_Anduin_landscape_main"/>
-<sound id="704689053" name="music_u24_Duskenvales_landscape"/>
-<sound id="704689057" name="music_u24_Woodsedge_landscape"/>
-<sound id="704689069" name="music_u24_Laerlad_landscape"/>
-<sound id="704689070" name="music_u24_Gladden_Fields_landscape_01"/>
-<sound id="704689081" name="music_u24_Wolfdenes_landscape"/>
-<sound id="704689098" name="music_u24_Laerlad_watersong_full"/>
-<sound id="704689099" name="music_u24_Beorninglands_landscape"/>
-</musicItem>
-<musicItem id="1879391241" name="'Vales of Anduin' Secondary Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704689047" name="music_u24_Rhosgobel_POI"/>
-<sound id="704689048" name="music_u24_Anduin_landscape_main"/>
-<sound id="704689053" name="music_u24_Duskenvales_landscape"/>
-<sound id="704689056" name="music_u24_Anduin_landscape_night"/>
-<sound id="704689057" name="music_u24_Woodsedge_landscape"/>
-<sound id="704689060" name="music_u24_Anduin_landscape_02"/>
-<sound id="704689061" name="music_u24_Eyrie_POI"/>
-<sound id="704689069" name="music_u24_Laerlad_landscape"/>
-<sound id="704689070" name="music_u24_Gladden_Fields_landscape_01"/>
-<sound id="704689072" name="music_u24_Anduin_landscape_01"/>
-<sound id="704689073" name="music_u24_Gladden_Fields_landscape_02"/>
-<sound id="704689081" name="music_u24_Wolfdenes_landscape"/>
-<sound id="704689092" name="music_u24_Beorn_lodge_instance"/>
-<sound id="704689099" name="music_u24_Beorninglands_landscape"/>
-</musicItem>
-<musicItem id="1879391266" name="'Quest Instances of the Vales' Theme" icon="1091405451-1091424047-1091947416">
-<sound id="704689046" name="music_u24_Galadriel_instance_combat"/>
-<sound id="704689047" name="music_u24_Rhosgobel_POI"/>
-<sound id="704689056" name="music_u24_Anduin_landscape_night"/>
-<sound id="704689060" name="music_u24_Anduin_landscape_02"/>
-<sound id="704689061" name="music_u24_Eyrie_POI"/>
-<sound id="704689062" name="music_u24_Galadriel_instance_drama"/>
-<sound id="704689072" name="music_u24_Anduin_landscape_01"/>
-<sound id="704689073" name="music_u24_Gladden_Fields_landscape_02"/>
-<sound id="704689077" name="music_u24_BBOM_instance"/>
-<sound id="704689086" name="music_u24_Galadriel_instance_intro"/>
-<sound id="704689092" name="music_u24_Beorn_lodge_instance"/>
-<sound id="704689096" name="music_u24_Goblin_battle_instance"/>
-<sound id="704689108" name="music_u24_Karazgars_Lair"/>
-<sound id="704689112" name="music_u24_BBOM_Karazgar_drama"/>
-</musicItem>
-<musicItem id="1879400106" name="'Black Book of Mordor I' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704690307" name="music_u25_BBOM_V5B12C2_Part2"/>
-<sound id="704690315" name="music_u25_BBOM_V5B11C6_Part2"/>
-<sound id="704690329" name="music_u25_BBOM_V5B11C4"/>
-<sound id="704690330" name="music_u25_BBOM_V5B12C2_Part3"/>
-<sound id="704690354" name="music_u25_BBOM_V5B12C2_Part1"/>
-<sound id="704690361" name="music_u25_BBOM_V5B12C3_Part4"/>
-<sound id="704690364" name="music_u25_BBOM_V5B11C6_Part1"/>
-<sound id="704690373" name="music_u25_BBOM_V5B12C3_Part3"/>
-<sound id="704690376" name="music_u25_BBOM_V5B11C9_Part5"/>
-<sound id="704690386" name="music_u25_BBOM_V5B12C3_Part2"/>
-<sound id="704690392" name="music_u25_BBOM_V5B11C9_Part4"/>
-<sound id="704690401" name="music_u25_BBOM_V5B11C9_Part7"/>
-<sound id="704690402" name="music_u25_BBOM_V5B12C2_Part4"/>
-<sound id="704690411" name="music_u25_BBOM_V5B12C3_Part1"/>
-<sound id="704690421" name="music_u25_BBOM_V5B11C9_Part6"/>
-<sound id="704690427" name="music_u25_BBOM_V5B12C4_Part7"/>
-<sound id="704690428" name="music_u25_BBOM_V5B12C4_Part5"/>
-<sound id="704690432" name="music_u25_BBOM_V5B12C4_Part3"/>
-<sound id="704690435" name="music_u25_BBOM_V5B12C4_Part6"/>
-<sound id="704690436" name="music_u25_BBOM_V5B12C4_Part4"/>
-<sound id="704691462" name="music_u27_HelmsDeep_alternate_wall_combat"/>
-<sound id="704691464" name="music_u27_HelmsDeep_alternate_hornburg_combat"/>
-<sound id="704691466" name="music_u27_HelmsDeep_alternate_hornburg_speech"/>
-<sound id="704691473" name="music_u27_HelmsDeep_alternate_wall_explosion"/>
-<sound id="704691474" name="music_u27_HelmsDeep_alternate_caves_intro"/>
-<sound id="704691475" name="music_u27_HelmsDeep_alternate_hornburg_rideout"/>
-<sound id="704691477" name="music_u27_HelmsDeep_alternate_coomb_combat"/>
-<sound id="704691478" name="music_u27_HelmsDeep_alternate_dike_combat"/>
-<sound id="704691481" name="music_u27_HelmsDeep_alternate_hornburg_intro"/>
-<sound id="704691482" name="music_u27_HelmsDeep_alternate_caves_combat"/>
-</musicItem>
-<musicItem id="1879400107" name="'Minas Morgul Combat' Themes" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879400108" name="'Minas Morgul Instances' Theme" icon="1091405451-1091424047-1091947416">
 <sound id="704690311" name="music_u25_Instance_boss_combat_02"/>
 <sound id="704690318" name="music_u25_Deep_Barrow_explore"/>
 <sound id="704690320" name="music_u25_Filth_Well_explore"/>
@@ -499,7 +507,7 @@
 <sound id="704690452" name="music_u25_Lamentation_House_combat_01a"/>
 <sound id="704690455" name="music_u25_Lamentation_House_explore"/>
 </musicItem>
-<musicItem id="1879400108" name="'Minas Morgul Instances' Theme" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879400109" name="'Minas Morgul landscape' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704690317" name="music_u25_MinasMorgul_landscape_main"/>
 <sound id="704690318" name="music_u25_Deep_Barrow_explore"/>
 <sound id="704690320" name="music_u25_Filth_Well_explore"/>
@@ -516,52 +524,7 @@
 <sound id="704690447" name="music_u25_Dark_Archives_explore"/>
 <sound id="704690455" name="music_u25_Lamentation_House_explore"/>
 </musicItem>
-<musicItem id="1879400109" name="'Minas Morgul landscape' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704689046" name="music_u24_Galadriel_instance_combat"/>
-<sound id="704689062" name="music_u24_Galadriel_instance_drama"/>
-<sound id="704689077" name="music_u24_BBOM_instance"/>
-<sound id="704689086" name="music_u24_Galadriel_instance_intro"/>
-<sound id="704689096" name="music_u24_Goblin_battle_instance"/>
-<sound id="704689108" name="music_u24_Karazgars_Lair"/>
-<sound id="704689112" name="music_u24_BBOM_Karazgar_drama"/>
-<sound id="704690317" name="music_u25_MinasMorgul_landscape_main"/>
-<sound id="704690325" name="music_u25_MinasMorgul_landscape_Thuringwath"/>
-<sound id="704690375" name="music_u25_MinasMorgul_landscape_02"/>
-<sound id="704690389" name="music_u25_MinasMorgul_landscape_03"/>
-<sound id="704690391" name="music_u25_MinasMorgul_landscape_Rath_Duath"/>
-<sound id="704690396" name="music_u25_MinasMorgul_landscape_Cirith_Ungol"/>
-<sound id="704690423" name="music_u25_MinasMorgul_landscape_01"/>
-</musicItem>
 <musicItem id="1879401050" name="'Black Book of Mordor II' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704647653" name="meo_eredluin_amb02_brass_200"/>
-<sound id="704647654" name="meo_eredluin_amb02_hybrid_304"/>
-<sound id="704647655" name="meo_eredluin_amb02_suite_832"/>
-<sound id="704690310" name="music_u25_BBOM_V5B14C2_Part1"/>
-<sound id="704690312" name="music_u25_BBOM_V5EpilogueC4_Part2"/>
-<sound id="704690313" name="music_u25_BBOM_V5EpilogueC5_Part3"/>
-<sound id="704690323" name="music_u25_BBOM_V5B13C9_Part2"/>
-<sound id="704690327" name="music_u25_BBOM_V5EpilogueC6_Part1"/>
-<sound id="704690331" name="music_u25_BBOM_V5EpilogueC4_Part3"/>
-<sound id="704690332" name="music_u25_BBOM_V5EpilogueC5_Part2"/>
-<sound id="704690339" name="music_u25_BBOM_V5EpilogueC6_Part2"/>
-<sound id="704690343" name="music_u25_BBOM_V5EpilogueC5_Part1"/>
-<sound id="704690348" name="music_u25_BBOM_V5B14C4_Part1"/>
-<sound id="704690353" name="music_u25_BBOM_V5EpilogueC6_Part3"/>
-<sound id="704690358" name="music_u25_BBOM_V5EpilogueC4_Part1"/>
-<sound id="704690363" name="music_u25_BBOM_V5B14C2_Part4"/>
-<sound id="704690365" name="music_u25_BBOM_V5B14C4_Part2"/>
-<sound id="704690372" name="music_u25_BBOM_V5EpilogueC7_Part5"/>
-<sound id="704690378" name="music_u25_BBOM_V5B14C4_Part3"/>
-<sound id="704690380" name="music_u25_BBOM_V5EpilogueC8"/>
-<sound id="704690388" name="music_u25_BBOM_V5B14C2_Part2"/>
-<sound id="704690394" name="music_u25_BBOM_V5B13C9_Part1"/>
-<sound id="704690395" name="music_u25_BBOM_V5B14C4_Part4"/>
-<sound id="704690405" name="music_u25_BBOM_V5B14C2_Part3"/>
-<sound id="704690408" name="music_u25_BBOM_V5EpilogueC4_Part4"/>
-<sound id="704690414" name="music_u25_BBOM_V5B14C4_Part5"/>
-<sound id="704690422" name="music_u25_BBOM_V5EpilogueC5_Part4"/>
-</musicItem>
-<musicItem id="1879408333" name="'Mists of Wilderland combat' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704690310" name="music_u25_BBOM_V5B14C2_Part1"/>
 <sound id="704690312" name="music_u25_BBOM_V5EpilogueC4_Part2"/>
 <sound id="704690313" name="music_u25_BBOM_V5EpilogueC5_Part3"/>
@@ -593,7 +556,7 @@
 <sound id="704691132" name="music_u26_Village_instance_combat"/>
 <sound id="704691133" name="music_u26_Village_instance_Part1"/>
 </musicItem>
-<musicItem id="1879408334" name="'Mists of Wilderland landscape' Themes" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879408333" name="'Mists of Wilderland combat' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704691090" name="music_u26_Lyndelby_landscape_01"/>
 <sound id="704691093" name="music_u26_Misthallow_combat_01a"/>
 <sound id="704691094" name="music_u26_Misthallow_landscape_01"/>
@@ -611,11 +574,22 @@
 <sound id="704691132" name="music_u26_Village_instance_combat"/>
 <sound id="704691133" name="music_u26_Village_instance_Part1"/>
 </musicItem>
+<musicItem id="1879408334" name="'Mists of Wilderland landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704647662" name="meo_eredluin_lesser_hall_400"/>
+<sound id="704654549" name="meo_dw_ancestral_dance_suite_209_housing"/>
+<sound id="704665520" name="dwarf_vox_01_noloop_housing"/>
+<sound id="704691090" name="music_u26_Lyndelby_landscape_01"/>
+<sound id="704691094" name="music_u26_Misthallow_landscape_01"/>
+<sound id="704691097" name="music_u26_Lyndelby_landscape_02"/>
+<sound id="704691098" name="music_u26_WoA_landscape_main"/>
+<sound id="704691103" name="music_u26_WoA_landscape_01"/>
+<sound id="704691110" name="music_u26_WoA_landscape_night"/>
+<sound id="704691114" name="music_u26_Floodfells_landscape_01"/>
+<sound id="704691121" name="music_u26_Lyndelby_landscape_03"/>
+<sound id="704691129" name="music_u26_Durin_instance_Part1"/>
+<sound id="704691131" name="music_u26_Durin_instance_Part2"/>
+</musicItem>
 <musicItem id="1879409284" name="'The Great Wedding' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704683175" name="music_U19_Belfalas_Calm_Happy"/>
-<sound id="704683176" name="music_U19_Belfalas_Solo_Harp"/>
-<sound id="704683177" name="music_U19_Belfalas_Calm_NewAge"/>
-<sound id="704683178" name="music_U19_Belfalas_Shanty"/>
 <sound id="704691465" name="music_u27_MTMidsummer_landscape_03"/>
 <sound id="704691471" name="music_u27_MTMidsummer_ceremony_part2"/>
 <sound id="704691472" name="music_u27_MTMidsummer_landscape_02"/>
@@ -623,8 +597,45 @@
 <sound id="704691479" name="music_u27_MTMidsummer_landscape_01"/>
 <sound id="704691480" name="music_u27_MTMidsummer_reception_dance"/>
 <sound id="704691483" name="music_u27_MTMidsummer_ceremony_part3"/>
+<sound id="704692426" name="music_u28_Elderslade_landscape_03"/>
+<sound id="704692441" name="music_u28_Elderslade_landscape_main"/>
+<sound id="704692448" name="music_u28_Elderslade_landscape_02"/>
+<sound id="704692458" name="music_u28_Elderslade_landscape_01"/>
+<sound id="704692466" name="music_u28_Elderslade_landscape_lake"/>
 </musicItem>
 <musicItem id="1879409285" name="'Helm's Deep combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704690307" name="music_u25_BBOM_V5B12C2_Part2"/>
+<sound id="704690315" name="music_u25_BBOM_V5B11C6_Part2"/>
+<sound id="704690329" name="music_u25_BBOM_V5B11C4"/>
+<sound id="704690330" name="music_u25_BBOM_V5B12C2_Part3"/>
+<sound id="704690354" name="music_u25_BBOM_V5B12C2_Part1"/>
+<sound id="704690361" name="music_u25_BBOM_V5B12C3_Part4"/>
+<sound id="704690364" name="music_u25_BBOM_V5B11C6_Part1"/>
+<sound id="704690373" name="music_u25_BBOM_V5B12C3_Part3"/>
+<sound id="704690376" name="music_u25_BBOM_V5B11C9_Part5"/>
+<sound id="704690386" name="music_u25_BBOM_V5B12C3_Part2"/>
+<sound id="704690392" name="music_u25_BBOM_V5B11C9_Part4"/>
+<sound id="704690401" name="music_u25_BBOM_V5B11C9_Part7"/>
+<sound id="704690402" name="music_u25_BBOM_V5B12C2_Part4"/>
+<sound id="704690411" name="music_u25_BBOM_V5B12C3_Part1"/>
+<sound id="704690421" name="music_u25_BBOM_V5B11C9_Part6"/>
+<sound id="704690427" name="music_u25_BBOM_V5B12C4_Part7"/>
+<sound id="704690428" name="music_u25_BBOM_V5B12C4_Part5"/>
+<sound id="704690432" name="music_u25_BBOM_V5B12C4_Part3"/>
+<sound id="704690435" name="music_u25_BBOM_V5B12C4_Part6"/>
+<sound id="704690436" name="music_u25_BBOM_V5B12C4_Part4"/>
+<sound id="704691462" name="music_u27_HelmsDeep_alternate_wall_combat"/>
+<sound id="704691464" name="music_u27_HelmsDeep_alternate_hornburg_combat"/>
+<sound id="704691466" name="music_u27_HelmsDeep_alternate_hornburg_speech"/>
+<sound id="704691473" name="music_u27_HelmsDeep_alternate_wall_explosion"/>
+<sound id="704691474" name="music_u27_HelmsDeep_alternate_caves_intro"/>
+<sound id="704691475" name="music_u27_HelmsDeep_alternate_hornburg_rideout"/>
+<sound id="704691477" name="music_u27_HelmsDeep_alternate_coomb_combat"/>
+<sound id="704691478" name="music_u27_HelmsDeep_alternate_dike_combat"/>
+<sound id="704691481" name="music_u27_HelmsDeep_alternate_hornburg_intro"/>
+<sound id="704691482" name="music_u27_HelmsDeep_alternate_caves_combat"/>
+</musicItem>
+<musicItem id="1879409286" name="'Helm's Deep' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704691462" name="music_u27_HelmsDeep_alternate_wall_combat"/>
 <sound id="704691464" name="music_u27_HelmsDeep_alternate_hornburg_combat"/>
 <sound id="704691466" name="music_u27_HelmsDeep_alternate_hornburg_speech"/>
@@ -640,321 +651,7 @@
 <sound id="704691490" name="music_u27_HelmsDeep_alternate_landscape2"/>
 <sound id="704691491" name="music_u27_HelmsDeep_alternate_landscape_tension"/>
 </musicItem>
-<musicItem id="1879409286" name="'Helm's Deep' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704691488" name="music_u27_HelmsDeep_alternate_landscape1"/>
-<sound id="704691489" name="music_u27_HelmsDeep_alternate_landscape3"/>
-<sound id="704691490" name="music_u27_HelmsDeep_alternate_landscape2"/>
-<sound id="704691491" name="music_u27_HelmsDeep_alternate_landscape_tension"/>
-<sound id="704692429" name="music_u28_Instance_combat_02a"/>
-<sound id="704692437" name="music_u28_LOD_V6B3C4_Part3"/>
-<sound id="704692443" name="music_u28_LOD_V6B3C4_Part4"/>
-<sound id="704692444" name="music_u28_LOD_V6B4C9_Part1"/>
-<sound id="704692449" name="music_u28_LOD_V6B3C4_Part1"/>
-<sound id="704692456" name="music_u28_LOD_V6B3C4_Part2"/>
-<sound id="704692463" name="music_u28_Instance_combat_01a"/>
-<sound id="704692464" name="music_u28_LOD_V6B4C9_Part2"/>
-<sound id="704692477" name="music_u28_Raid_boss_combat"/>
-<sound id="704692479" name="music_u28_Raid_drama"/>
-</musicItem>
 <musicItem id="1879412580" name="'Elderslade landscape' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704691465" name="music_u27_MTMidsummer_landscape_03"/>
-<sound id="704691471" name="music_u27_MTMidsummer_ceremony_part2"/>
-<sound id="704691472" name="music_u27_MTMidsummer_landscape_02"/>
-<sound id="704691476" name="music_u27_MTMidsummer_ceremony_part1"/>
-<sound id="704691479" name="music_u27_MTMidsummer_landscape_01"/>
-<sound id="704691480" name="music_u27_MTMidsummer_reception_dance"/>
-<sound id="704691483" name="music_u27_MTMidsummer_ceremony_part3"/>
-<sound id="704692426" name="music_u28_Elderslade_landscape_03"/>
-<sound id="704692441" name="music_u28_Elderslade_landscape_main"/>
-<sound id="704692448" name="music_u28_Elderslade_landscape_02"/>
-<sound id="704692458" name="music_u28_Elderslade_landscape_01"/>
-<sound id="704692466" name="music_u28_Elderslade_landscape_lake"/>
-</musicItem>
-<musicItem id="1879412581" name="'War of Three Peaks Instances' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704692422" name="music_u28_Wo3P_Warfront_landscape_01"/>
-<sound id="704692427" name="music_u28_Wo3P_Warfront_landscape_02"/>
-<sound id="704692429" name="music_u28_Instance_combat_02a"/>
-<sound id="704692430" name="music_u28_Elderslade_combat_02a"/>
-<sound id="704692437" name="music_u28_LOD_V6B3C4_Part3"/>
-<sound id="704692443" name="music_u28_LOD_V6B3C4_Part4"/>
-<sound id="704692444" name="music_u28_LOD_V6B4C9_Part1"/>
-<sound id="704692449" name="music_u28_LOD_V6B3C4_Part1"/>
-<sound id="704692450" name="music_u28_Wo3P_Warfront_landscape_03"/>
-<sound id="704692456" name="music_u28_LOD_V6B3C4_Part2"/>
-<sound id="704692459" name="music_u28_Elderslade_combat_01a"/>
-<sound id="704692460" name="music_u28_Wo3P_Warfront_landscape_04"/>
-<sound id="704692463" name="music_u28_Instance_combat_01a"/>
-<sound id="704692464" name="music_u28_LOD_V6B4C9_Part2"/>
-<sound id="704692477" name="music_u28_Raid_boss_combat"/>
-<sound id="704692479" name="music_u28_Raid_drama"/>
-</musicItem>
-<musicItem id="1879412582" name="'War of Three Peaks' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704667204" name="wf2k10_overture"/>
-<sound id="704667205" name="wf2k10_actionbig"/>
-<sound id="704667206" name="wf2k10_t12-letzexplor"/>
-<sound id="704667207" name="wf2k10_t1-rucul"/>
-<sound id="704667217" name="hustlebustlexmas"/>
-<sound id="704667219" name="wintfesttheme"/>
-<sound id="704692422" name="music_u28_Wo3P_Warfront_landscape_01"/>
-<sound id="704692427" name="music_u28_Wo3P_Warfront_landscape_02"/>
-<sound id="704692430" name="music_u28_Elderslade_combat_02a"/>
-<sound id="704692450" name="music_u28_Wo3P_Warfront_landscape_03"/>
-<sound id="704692459" name="music_u28_Elderslade_combat_01a"/>
-<sound id="704692460" name="music_u28_Wo3P_Warfront_landscape_04"/>
-<sound id="704692496" name="music_u28_Yule_Festival_Theme_2020"/>
-</musicItem>
-<musicItem id="1879414491" name="'Yule-fest' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704667204" name="wf2k10_overture"/>
-<sound id="704667205" name="wf2k10_actionbig"/>
-<sound id="704667206" name="wf2k10_t12-letzexplor"/>
-<sound id="704667207" name="wf2k10_t1-rucul"/>
-<sound id="704667217" name="hustlebustlexmas"/>
-<sound id="704667219" name="wintfesttheme"/>
-<sound id="704692496" name="music_u28_Yule_Festival_Theme_2020"/>
-<sound id="704692776" name="music_u29_Wildwood_landscape_03"/>
-<sound id="704692777" name="music_u29_Wildwood_landscape_01"/>
-<sound id="704692778" name="music_u29_Wildwood_landscape_02"/>
-<sound id="704692780" name="music_u29_Wildwood_combat_01a_no_loop"/>
-</musicItem>
-<musicItem id="1879416912" name="'The Wastes Epic' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704683857" name="music_U20_Gollum_Session_Climbing"/>
-<sound id="704683858" name="music_U20_Gollum_Session_Turmoil"/>
-<sound id="704683859" name="music_U20_Dagorlad_Landscape_05"/>
-<sound id="704683860" name="music_U20_Gollum_Session_Shelob_Stinger"/>
-<sound id="704683861" name="music_U20_Dagorlad_Landscape_03"/>
-<sound id="704683862" name="music_U20_Gollum_Session_Intro"/>
-<sound id="704683863" name="music_U20_Dagorlad_Combat_03"/>
-<sound id="704683864" name="music_U20_Dagorlad_Landscape_04"/>
-<sound id="704683865" name="music_U20_Gollum_Session_Hobbit_Talk"/>
-<sound id="704683866" name="music_U20_Gollum_Session_Shelobs_Lair"/>
-<sound id="704683867" name="music_U20_Dagorlad_Landscape_01"/>
-<sound id="704683868" name="music_U20_Battle_Of_The_Black_Gate_01"/>
-<sound id="704683869" name="music_U20_Battle_Of_The_Black_Gate_02"/>
-<sound id="704683870" name="music_U20_Dagorlad_Combat_01"/>
-<sound id="704683871" name="music_U20_Dagorlad_Landscape_02"/>
-<sound id="704683872" name="music_U20_Dagorlad_Combat_02"/>
-<sound id="704683874" name="music_U20_Dagorlad_Dungeon_Maggot_Holes"/>
-<sound id="704683875" name="music_U20_Dagorlad_Dungeon_Carchost"/>
-<sound id="704683876" name="music_U20_Dagorlad_Dungeon_Combat_01"/>
-<sound id="704683878" name="music_U20_Black_Gate_Parley_02"/>
-<sound id="704683879" name="music_U20_Black_Gate_Parley_01"/>
-<sound id="704683880" name="music_U20_Black_Gate_Parley_04"/>
-<sound id="704683881" name="music_U20_Black_Gate_Parley_03"/>
-</musicItem>
-<musicItem id="1879416914" name="'The Wastes' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704683859" name="music_U20_Dagorlad_Landscape_05"/>
-<sound id="704683861" name="music_U20_Dagorlad_Landscape_03"/>
-<sound id="704683863" name="music_U20_Dagorlad_Combat_03"/>
-<sound id="704683864" name="music_U20_Dagorlad_Landscape_04"/>
-<sound id="704683867" name="music_U20_Dagorlad_Landscape_01"/>
-<sound id="704683870" name="music_U20_Dagorlad_Combat_01"/>
-<sound id="704683871" name="music_U20_Dagorlad_Landscape_02"/>
-<sound id="704683872" name="music_U20_Dagorlad_Combat_02"/>
-<sound id="704683874" name="music_U20_Dagorlad_Dungeon_Maggot_Holes"/>
-<sound id="704683875" name="music_U20_Dagorlad_Dungeon_Carchost"/>
-<sound id="704683876" name="music_U20_Dagorlad_Dungeon_Combat_01"/>
-<sound id="704692786" name="music_u30_Azanulbizar_combat_02a"/>
-<sound id="704692790" name="music_u30_Azanulbizar_combat_01a"/>
-<sound id="704692808" name="music_u30_Azanulbizar_combat_04a"/>
-<sound id="704693944" name="music_u30_Azanulbizar_combat_03a"/>
-</musicItem>
-<musicItem id="1879416915" name="'Wildwood' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704683857" name="music_U20_Gollum_Session_Climbing"/>
-<sound id="704683858" name="music_U20_Gollum_Session_Turmoil"/>
-<sound id="704683860" name="music_U20_Gollum_Session_Shelob_Stinger"/>
-<sound id="704683862" name="music_U20_Gollum_Session_Intro"/>
-<sound id="704683865" name="music_U20_Gollum_Session_Hobbit_Talk"/>
-<sound id="704683866" name="music_U20_Gollum_Session_Shelobs_Lair"/>
-<sound id="704683868" name="music_U20_Battle_Of_The_Black_Gate_01"/>
-<sound id="704683869" name="music_U20_Battle_Of_The_Black_Gate_02"/>
-<sound id="704683878" name="music_U20_Black_Gate_Parley_02"/>
-<sound id="704683879" name="music_U20_Black_Gate_Parley_01"/>
-<sound id="704683880" name="music_U20_Black_Gate_Parley_04"/>
-<sound id="704683881" name="music_U20_Black_Gate_Parley_03"/>
-<sound id="704692776" name="music_u29_Wildwood_landscape_03"/>
-<sound id="704692777" name="music_u29_Wildwood_landscape_01"/>
-<sound id="704692778" name="music_u29_Wildwood_landscape_02"/>
-<sound id="704692780" name="music_u29_Wildwood_combat_01a_no_loop"/>
-</musicItem>
-<musicItem id="1879420514" name="'The Fall of Khazad-dûm' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704692783" name="music_u30_Nars_Tale_instance_part3"/>
-<sound id="704692791" name="music_u30_Nars_Tale_instance_part5"/>
-<sound id="704692795" name="music_u30_Nars_Tale_instance_part2"/>
-<sound id="704692797" name="music_u30_Nars_Tale_instance_part7"/>
-<sound id="704692805" name="music_u30_Nars_Tale_instance_part4"/>
-<sound id="704692807" name="music_u30_Nars_Tale_instance_part1"/>
-<sound id="704692810" name="music_u30_Nars_Tale_instance_part6"/>
-<sound id="704693916" name="music_u30_Fall_of_Moria_raid_boss_combat"/>
-<sound id="704693917" name="music_u30_Bonds_Oak_Iron_instance_part2_combat"/>
-<sound id="704693919" name="music_u30_Council_of_Seven_instance_part3"/>
-<sound id="704693921" name="music_u30_Fall_of_Moria_raid_interlude1"/>
-<sound id="704693924" name="music_u30_Bonds_Oak_Iron_instance_part7"/>
-<sound id="704693925" name="music_u30_Bonds_Oak_Iron_instance_part8_combat"/>
-<sound id="704693926" name="music_u30_Fall_of_Moria_raid_interlude2"/>
-<sound id="704693928" name="music_u30_Bonds_Oak_Iron_instance_part1"/>
-<sound id="704693929" name="music_u30_Bonds_Oak_Iron_instance_part9"/>
-<sound id="704693930" name="music_u30_Council_of_Seven_instance_part2"/>
-<sound id="704693931" name="music_u30_Bonds_Oak_Iron_instance_part6_combat"/>
-<sound id="704693935" name="music_u30_Fall_of_Moria_raid_combat"/>
-<sound id="704693937" name="music_u30_Fall_of_Moria_raid_drama2"/>
-<sound id="704693938" name="music_u30_Bonds_Oak_Iron_instance_part3"/>
-<sound id="704693940" name="music_u30_Bonds_Oak_Iron_instance_part4_combat"/>
-<sound id="704693941" name="music_u30_Council_of_Seven_instance_part1"/>
-<sound id="704693942" name="music_u30_Fall_of_Moria_raid_drama1"/>
-<sound id="704693945" name="music_u30_Fall_of_Moria_raid_interlude3"/>
-<sound id="704693946" name="music_u30_Bonds_Oak_Iron_instance_part5"/>
-<sound id="704693947" name="music_u30_Fall_of_Moria_raid_explore"/>
-<sound id="704693950" name="music_u30_Lords_of_Moria_part4"/>
-<sound id="704693952" name="music_u30_Lords_of_Moria_part1"/>
-<sound id="704693956" name="music_u30_Lords_of_Moria_part3"/>
-<sound id="704693959" name="music_u30_Lords_of_Moria_part2"/>
-<sound id="704693983" name="music_u30_Fall_of_Moria_raid_end_drama1"/>
-<sound id="704693984" name="music_u30_Fall_of_Moria_raid_end_drama2"/>
-<sound id="704693997" name="music_u30_Final_Reckoning_instance_part10"/>
-<sound id="704693998" name="music_u30_Final_Reckoning_instance_part8"/>
-<sound id="704693999" name="music_u30_Final_Reckoning_instance_part7"/>
-<sound id="704694000" name="music_u30_Final_Reckoning_instance_part2"/>
-<sound id="704694001" name="music_u30_Final_Reckoning_instance_part1"/>
-<sound id="704694002" name="music_u30_Final_Reckoning_instance_part9"/>
-<sound id="704694003" name="music_u30_Final_Reckoning_instance_part4"/>
-<sound id="704694004" name="music_u30_Final_Reckoning_instance_part3"/>
-<sound id="704694005" name="music_u30_Final_Reckoning_instance_part6"/>
-<sound id="704694006" name="music_u30_Final_Reckoning_instance_part5"/>
-</musicItem>
-<musicItem id="1879420515" name="'Azanulbizar combat' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704692786" name="music_u30_Azanulbizar_combat_02a"/>
-<sound id="704692789" name="music_u30_Azanulbizar_landscape_02"/>
-<sound id="704692790" name="music_u30_Azanulbizar_combat_01a"/>
-<sound id="704692796" name="music_u30_Azanulbizar_landscape_04"/>
-<sound id="704692799" name="music_u30_Azanulbizar_landscape_01"/>
-<sound id="704692808" name="music_u30_Azanulbizar_combat_04a"/>
-<sound id="704692809" name="music_u30_Azanulbizar_landscape_03"/>
-<sound id="704692811" name="music_u30_Azanulbizar_landscape_main"/>
-<sound id="704693944" name="music_u30_Azanulbizar_combat_03a"/>
-</musicItem>
-<musicItem id="1879420516" name="'Azanulbizar landscape' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704692789" name="music_u30_Azanulbizar_landscape_02"/>
-<sound id="704692796" name="music_u30_Azanulbizar_landscape_04"/>
-<sound id="704692799" name="music_u30_Azanulbizar_landscape_01"/>
-<sound id="704692809" name="music_u30_Azanulbizar_landscape_03"/>
-<sound id="704692811" name="music_u30_Azanulbizar_landscape_main"/>
-<sound id="704693916" name="music_u30_Fall_of_Moria_raid_boss_combat"/>
-<sound id="704693921" name="music_u30_Fall_of_Moria_raid_interlude1"/>
-<sound id="704693926" name="music_u30_Fall_of_Moria_raid_interlude2"/>
-<sound id="704693935" name="music_u30_Fall_of_Moria_raid_combat"/>
-<sound id="704693937" name="music_u30_Fall_of_Moria_raid_drama2"/>
-<sound id="704693942" name="music_u30_Fall_of_Moria_raid_drama1"/>
-<sound id="704693945" name="music_u30_Fall_of_Moria_raid_interlude3"/>
-<sound id="704693947" name="music_u30_Fall_of_Moria_raid_explore"/>
-<sound id="704693983" name="music_u30_Fall_of_Moria_raid_end_drama1"/>
-<sound id="704693984" name="music_u30_Fall_of_Moria_raid_end_drama2"/>
-</musicItem>
-<musicItem id="1879420517" name="'The Sixth War of the Dwarves and Orcs' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704647581" name="new_shire_real_01_mixout_01"/>
-<sound id="704647633" name="hf_01"/>
-<sound id="704647634" name="hf_02"/>
-<sound id="704647635" name="hf_t_01"/>
-<sound id="704647636" name="hf_t_02"/>
-<sound id="704649253" name="meo_hbt_road_strings_101"/>
-<sound id="704649254" name="meo_hbt_road_echoes_116"/>
-<sound id="704692783" name="music_u30_Nars_Tale_instance_part3"/>
-<sound id="704692791" name="music_u30_Nars_Tale_instance_part5"/>
-<sound id="704692795" name="music_u30_Nars_Tale_instance_part2"/>
-<sound id="704692797" name="music_u30_Nars_Tale_instance_part7"/>
-<sound id="704692805" name="music_u30_Nars_Tale_instance_part4"/>
-<sound id="704692807" name="music_u30_Nars_Tale_instance_part1"/>
-<sound id="704692810" name="music_u30_Nars_Tale_instance_part6"/>
-<sound id="704693917" name="music_u30_Bonds_Oak_Iron_instance_part2_combat"/>
-<sound id="704693919" name="music_u30_Council_of_Seven_instance_part3"/>
-<sound id="704693924" name="music_u30_Bonds_Oak_Iron_instance_part7"/>
-<sound id="704693925" name="music_u30_Bonds_Oak_Iron_instance_part8_combat"/>
-<sound id="704693928" name="music_u30_Bonds_Oak_Iron_instance_part1"/>
-<sound id="704693929" name="music_u30_Bonds_Oak_Iron_instance_part9"/>
-<sound id="704693930" name="music_u30_Council_of_Seven_instance_part2"/>
-<sound id="704693931" name="music_u30_Bonds_Oak_Iron_instance_part6_combat"/>
-<sound id="704693938" name="music_u30_Bonds_Oak_Iron_instance_part3"/>
-<sound id="704693940" name="music_u30_Bonds_Oak_Iron_instance_part4_combat"/>
-<sound id="704693941" name="music_u30_Council_of_Seven_instance_part1"/>
-<sound id="704693946" name="music_u30_Bonds_Oak_Iron_instance_part5"/>
-<sound id="704693950" name="music_u30_Lords_of_Moria_part4"/>
-<sound id="704693952" name="music_u30_Lords_of_Moria_part1"/>
-<sound id="704693956" name="music_u30_Lords_of_Moria_part3"/>
-<sound id="704693959" name="music_u30_Lords_of_Moria_part2"/>
-<sound id="704693997" name="music_u30_Final_Reckoning_instance_part10"/>
-<sound id="704693998" name="music_u30_Final_Reckoning_instance_part8"/>
-<sound id="704693999" name="music_u30_Final_Reckoning_instance_part7"/>
-<sound id="704694000" name="music_u30_Final_Reckoning_instance_part2"/>
-<sound id="704694001" name="music_u30_Final_Reckoning_instance_part1"/>
-<sound id="704694002" name="music_u30_Final_Reckoning_instance_part9"/>
-<sound id="704694003" name="music_u30_Final_Reckoning_instance_part4"/>
-<sound id="704694004" name="music_u30_Final_Reckoning_instance_part3"/>
-<sound id="704694005" name="music_u30_Final_Reckoning_instance_part6"/>
-<sound id="704694006" name="music_u30_Final_Reckoning_instance_part5"/>
-</musicItem>
-<musicItem id="1879446262" name="'Rebelling Dwarves and the Last Dwarrowmoot' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704695994" name="music_u31_LOD_V6B10C7_Part5"/>
-<sound id="704695996" name="music_u31_LOD_V6B8C5_Part3"/>
-<sound id="704695998" name="music_u31_LOD_V6B10C4_Part1"/>
-<sound id="704695999" name="music_u31_LOD_V6B9C2_Part8"/>
-<sound id="704696000" name="music_u31_LOD_V6B11C4_Part1"/>
-<sound id="704696001" name="music_u31_LOD_V6B8C5_Part4"/>
-<sound id="704696002" name="music_u31_LOD_V6B9C2_Part2"/>
-<sound id="704696003" name="music_u31_LOD_V6B6C5_Part2"/>
-<sound id="704696004" name="music_u31_LOD_V6B7C4_Part2"/>
-<sound id="704696005" name="music_u31_LOD_V6B7C8_Part6"/>
-<sound id="704696006" name="music_u31_LOD_V6B5C2_Part1"/>
-<sound id="704696008" name="music_u31_LOD_V6B9C2_Part7"/>
-<sound id="704696009" name="music_u31_LOD_V6B7C8_Part3"/>
-<sound id="704696010" name="music_u31_LOD_V6B8C5_Part1"/>
-<sound id="704696011" name="music_u31_LOD_V6B7C4_Part5"/>
-<sound id="704696012" name="music_u31_LOD_V6B10C4_Part3"/>
-<sound id="704696013" name="music_u31_LOD_V6B5C2_Part4"/>
-<sound id="704696014" name="music_u31_LOD_V6B10C7_Part3"/>
-<sound id="704696015" name="music_u31_LOD_V6B10C4_Part6"/>
-<sound id="704696016" name="music_u31_LOD_V6B11C4_Part3"/>
-<sound id="704696017" name="music_u31_LOD_V6B5C2_Part3"/>
-<sound id="704696018" name="music_u31_LOD_V6B11C4_Part6"/>
-<sound id="704696019" name="music_u31_LOD_V6B9C2_Part1"/>
-<sound id="704696020" name="music_u31_LOD_V6B7C8_Part1"/>
-<sound id="704696022" name="music_u31_LOD_V6B9C2_Part4"/>
-<sound id="704696023" name="music_u31_LOD_V6B8C5_Part2"/>
-<sound id="704696024" name="music_u31_LOD_V6B9C2_Part3"/>
-<sound id="704696025" name="music_u31_LOD_V6B7C4_Part3"/>
-<sound id="704696027" name="music_u31_LOD_V6B10C4_Part5"/>
-<sound id="704696028" name="music_u31_LOD_V6B10C7_Part1"/>
-<sound id="704696029" name="music_u31_LOD_V6B7C8_Part4"/>
-<sound id="704696030" name="music_u31_LOD_V6B11C4_Gorgar_Fight"/>
-<sound id="704696031" name="music_u31_LOD_V6B11C4_Part5"/>
-<sound id="704696032" name="music_u31_LOD_V6B10C4_Part2"/>
-<sound id="704696033" name="music_u31_LOD_V6B10C7_Part4"/>
-<sound id="704696034" name="music_u31_LOD_V6B5C6_Part2"/>
-<sound id="704696035" name="music_u31_LOD_V6B11C3_Part1"/>
-<sound id="704696036" name="music_u31_LOD_V6B11C4_Part2"/>
-<sound id="704696037" name="music_u31_LOD_V6B8C1_Part1"/>
-<sound id="704696039" name="music_u31_LOD_V6B5C6_Part1"/>
-<sound id="704696041" name="music_u31_LOD_V6B8C1_Part2"/>
-<sound id="704696042" name="music_u31_LOD_V6B9C2_Part5"/>
-<sound id="704696043" name="music_u31_LOD_V6B7C4_Part1"/>
-<sound id="704696044" name="music_u31_LOD_V6B9C2_Part6"/>
-<sound id="704696045" name="music_u31_LOD_V6B7C4_Part6"/>
-<sound id="704696046" name="music_u31_LOD_V6B7C8_Part2"/>
-<sound id="704696047" name="music_u31_LOD_V6B7C4_Part4"/>
-<sound id="704696048" name="music_u31_LOD_V6B10C4_Part4"/>
-<sound id="704696049" name="music_u31_LOD_V6B10C7_Part2"/>
-<sound id="704696050" name="music_u31_LOD_V6B7C8_Part5"/>
-<sound id="704696051" name="music_u31_LOD_V6B11C4_Part4"/>
-<sound id="704696052" name="music_u31_LOD_V6B10C4_Part7"/>
-<sound id="704696053" name="music_u31_LOD_V6B6C5_Part1"/>
-<sound id="704696054" name="music_u31_LOD_V6B5C2_Part2"/>
-<sound id="704696057" name="music_u31_LOD_V6B10C5_Part2"/>
-<sound id="704696058" name="music_u31_LOD_V6B10C5_Part1"/>
-<sound id="704696059" name="music_u31_LOD_V6B10C5_Part4"/>
-<sound id="704696060" name="music_u31_LOD_V6B10C5_Part6"/>
-<sound id="704696061" name="music_u31_LOD_V6B10C5_Part3"/>
-<sound id="704696062" name="music_u31_LOD_V6B10C5_Part5"/>
-<sound id="704696063" name="music_u31_LOD_V6B10C5_Part7"/>
-</musicItem>
-<musicItem id="1879446263" name="'Gundabad landscape' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704692426" name="music_u28_Elderslade_landscape_03"/>
 <sound id="704692441" name="music_u28_Elderslade_landscape_main"/>
 <sound id="704692448" name="music_u28_Elderslade_landscape_02"/>
@@ -972,54 +669,202 @@
 <sound id="704695989" name="music_u31_Gundabad_Stonejaws_landscape_01"/>
 <sound id="704695991" name="music_u31_Gundabad_MainTheme_landscape_01"/>
 </musicItem>
-<musicItem id="1879446264" name="'Gundabad Legacy of Durin' Themes" icon="1091405451-1091424047-1091947416">
-<sound id="704695961" name="music_u31_Gundabad_combat_01a"/>
-<sound id="704695967" name="music_u31_Gundabad_combat_02a"/>
-<sound id="704695972" name="music_u31_Gundabad_combat_03a"/>
-<sound id="704695978" name="music_u31_Gundabad_combat_04a"/>
-<sound id="704695996" name="music_u31_LOD_V6B8C5_Part3"/>
-<sound id="704695999" name="music_u31_LOD_V6B9C2_Part8"/>
-<sound id="704696001" name="music_u31_LOD_V6B8C5_Part4"/>
-<sound id="704696002" name="music_u31_LOD_V6B9C2_Part2"/>
-<sound id="704696003" name="music_u31_LOD_V6B6C5_Part2"/>
-<sound id="704696004" name="music_u31_LOD_V6B7C4_Part2"/>
-<sound id="704696005" name="music_u31_LOD_V6B7C8_Part6"/>
-<sound id="704696006" name="music_u31_LOD_V6B5C2_Part1"/>
-<sound id="704696008" name="music_u31_LOD_V6B9C2_Part7"/>
-<sound id="704696009" name="music_u31_LOD_V6B7C8_Part3"/>
-<sound id="704696010" name="music_u31_LOD_V6B8C5_Part1"/>
-<sound id="704696011" name="music_u31_LOD_V6B7C4_Part5"/>
-<sound id="704696013" name="music_u31_LOD_V6B5C2_Part4"/>
-<sound id="704696017" name="music_u31_LOD_V6B5C2_Part3"/>
-<sound id="704696019" name="music_u31_LOD_V6B9C2_Part1"/>
-<sound id="704696020" name="music_u31_LOD_V6B7C8_Part1"/>
-<sound id="704696022" name="music_u31_LOD_V6B9C2_Part4"/>
-<sound id="704696023" name="music_u31_LOD_V6B8C5_Part2"/>
-<sound id="704696024" name="music_u31_LOD_V6B9C2_Part3"/>
-<sound id="704696025" name="music_u31_LOD_V6B7C4_Part3"/>
-<sound id="704696029" name="music_u31_LOD_V6B7C8_Part4"/>
-<sound id="704696034" name="music_u31_LOD_V6B5C6_Part2"/>
-<sound id="704696037" name="music_u31_LOD_V6B8C1_Part1"/>
-<sound id="704696039" name="music_u31_LOD_V6B5C6_Part1"/>
-<sound id="704696041" name="music_u31_LOD_V6B8C1_Part2"/>
-<sound id="704696042" name="music_u31_LOD_V6B9C2_Part5"/>
-<sound id="704696043" name="music_u31_LOD_V6B7C4_Part1"/>
-<sound id="704696044" name="music_u31_LOD_V6B9C2_Part6"/>
-<sound id="704696045" name="music_u31_LOD_V6B7C4_Part6"/>
-<sound id="704696046" name="music_u31_LOD_V6B7C8_Part2"/>
-<sound id="704696047" name="music_u31_LOD_V6B7C4_Part4"/>
-<sound id="704696050" name="music_u31_LOD_V6B7C8_Part5"/>
-<sound id="704696053" name="music_u31_LOD_V6B6C5_Part1"/>
-<sound id="704696054" name="music_u31_LOD_V6B5C2_Part2"/>
-<sound id="704696065" name="music_u31_Instance_Puglakh_combat_1b"/>
-<sound id="704696068" name="music_u31_Instance_Puglakh_combat_1a"/>
-<sound id="704696072" name="music_u31_Instance_Puglakh_explore"/>
-<sound id="704696325" name="music_u32_Hiddenhoard_raid_final_combat"/>
-<sound id="704696334" name="music_u32_Hiddenhoard_raid_explore"/>
-<sound id="704696336" name="music_u32_Hiddenhoard_raid_prefight_drama"/>
-<sound id="704696337" name="music_u32_Hiddenhoard_raid_postfight_drama"/>
+<musicItem id="1879412581" name="'War of Three Peaks Instances' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704691488" name="music_u27_HelmsDeep_alternate_landscape1"/>
+<sound id="704691489" name="music_u27_HelmsDeep_alternate_landscape3"/>
+<sound id="704691490" name="music_u27_HelmsDeep_alternate_landscape2"/>
+<sound id="704691491" name="music_u27_HelmsDeep_alternate_landscape_tension"/>
+<sound id="704692429" name="music_u28_Instance_combat_02a"/>
+<sound id="704692437" name="music_u28_LOD_V6B3C4_Part3"/>
+<sound id="704692443" name="music_u28_LOD_V6B3C4_Part4"/>
+<sound id="704692444" name="music_u28_LOD_V6B4C9_Part1"/>
+<sound id="704692449" name="music_u28_LOD_V6B3C4_Part1"/>
+<sound id="704692456" name="music_u28_LOD_V6B3C4_Part2"/>
+<sound id="704692463" name="music_u28_Instance_combat_01a"/>
+<sound id="704692464" name="music_u28_LOD_V6B4C9_Part2"/>
+<sound id="704692477" name="music_u28_Raid_boss_combat"/>
+<sound id="704692479" name="music_u28_Raid_drama"/>
 </musicItem>
-<musicItem id="1879446265" name="'Angle of Mitheithel' Themes" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879412582" name="'War of Three Peaks' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704692422" name="music_u28_Wo3P_Warfront_landscape_01"/>
+<sound id="704692427" name="music_u28_Wo3P_Warfront_landscape_02"/>
+<sound id="704692429" name="music_u28_Instance_combat_02a"/>
+<sound id="704692430" name="music_u28_Elderslade_combat_02a"/>
+<sound id="704692437" name="music_u28_LOD_V6B3C4_Part3"/>
+<sound id="704692443" name="music_u28_LOD_V6B3C4_Part4"/>
+<sound id="704692444" name="music_u28_LOD_V6B4C9_Part1"/>
+<sound id="704692449" name="music_u28_LOD_V6B3C4_Part1"/>
+<sound id="704692450" name="music_u28_Wo3P_Warfront_landscape_03"/>
+<sound id="704692456" name="music_u28_LOD_V6B3C4_Part2"/>
+<sound id="704692459" name="music_u28_Elderslade_combat_01a"/>
+<sound id="704692460" name="music_u28_Wo3P_Warfront_landscape_04"/>
+<sound id="704692463" name="music_u28_Instance_combat_01a"/>
+<sound id="704692464" name="music_u28_LOD_V6B4C9_Part2"/>
+<sound id="704692477" name="music_u28_Raid_boss_combat"/>
+<sound id="704692479" name="music_u28_Raid_drama"/>
+</musicItem>
+<musicItem id="1879414491" name="'Yule-fest' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704667204" name="wf2k10_overture"/>
+<sound id="704667205" name="wf2k10_actionbig"/>
+<sound id="704667206" name="wf2k10_t12-letzexplor"/>
+<sound id="704667207" name="wf2k10_t1-rucul"/>
+<sound id="704667217" name="hustlebustlexmas"/>
+<sound id="704667219" name="wintfesttheme"/>
+<sound id="704692422" name="music_u28_Wo3P_Warfront_landscape_01"/>
+<sound id="704692427" name="music_u28_Wo3P_Warfront_landscape_02"/>
+<sound id="704692430" name="music_u28_Elderslade_combat_02a"/>
+<sound id="704692450" name="music_u28_Wo3P_Warfront_landscape_03"/>
+<sound id="704692459" name="music_u28_Elderslade_combat_01a"/>
+<sound id="704692460" name="music_u28_Wo3P_Warfront_landscape_04"/>
+<sound id="704692496" name="music_u28_Yule_Festival_Theme_2020"/>
+</musicItem>
+<musicItem id="1879416912" name="'The Wastes Epic' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704683857" name="music_U20_Gollum_Session_Climbing"/>
+<sound id="704683858" name="music_U20_Gollum_Session_Turmoil"/>
+<sound id="704683860" name="music_U20_Gollum_Session_Shelob_Stinger"/>
+<sound id="704683862" name="music_U20_Gollum_Session_Intro"/>
+<sound id="704683865" name="music_U20_Gollum_Session_Hobbit_Talk"/>
+<sound id="704683866" name="music_U20_Gollum_Session_Shelobs_Lair"/>
+<sound id="704683868" name="music_U20_Battle_Of_The_Black_Gate_01"/>
+<sound id="704683869" name="music_U20_Battle_Of_The_Black_Gate_02"/>
+<sound id="704683878" name="music_U20_Black_Gate_Parley_02"/>
+<sound id="704683879" name="music_U20_Black_Gate_Parley_01"/>
+<sound id="704683880" name="music_U20_Black_Gate_Parley_04"/>
+<sound id="704683881" name="music_U20_Black_Gate_Parley_03"/>
+<sound id="704692776" name="music_u29_Wildwood_landscape_03"/>
+<sound id="704692777" name="music_u29_Wildwood_landscape_01"/>
+<sound id="704692778" name="music_u29_Wildwood_landscape_02"/>
+<sound id="704692780" name="music_u29_Wildwood_combat_01a_no_loop"/>
+</musicItem>
+<musicItem id="1879416914" name="'The Wastes' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704683857" name="music_U20_Gollum_Session_Climbing"/>
+<sound id="704683858" name="music_U20_Gollum_Session_Turmoil"/>
+<sound id="704683859" name="music_U20_Dagorlad_Landscape_05"/>
+<sound id="704683860" name="music_U20_Gollum_Session_Shelob_Stinger"/>
+<sound id="704683861" name="music_U20_Dagorlad_Landscape_03"/>
+<sound id="704683862" name="music_U20_Gollum_Session_Intro"/>
+<sound id="704683863" name="music_U20_Dagorlad_Combat_03"/>
+<sound id="704683864" name="music_U20_Dagorlad_Landscape_04"/>
+<sound id="704683865" name="music_U20_Gollum_Session_Hobbit_Talk"/>
+<sound id="704683866" name="music_U20_Gollum_Session_Shelobs_Lair"/>
+<sound id="704683867" name="music_U20_Dagorlad_Landscape_01"/>
+<sound id="704683868" name="music_U20_Battle_Of_The_Black_Gate_01"/>
+<sound id="704683869" name="music_U20_Battle_Of_The_Black_Gate_02"/>
+<sound id="704683870" name="music_U20_Dagorlad_Combat_01"/>
+<sound id="704683871" name="music_U20_Dagorlad_Landscape_02"/>
+<sound id="704683872" name="music_U20_Dagorlad_Combat_02"/>
+<sound id="704683874" name="music_U20_Dagorlad_Dungeon_Maggot_Holes"/>
+<sound id="704683875" name="music_U20_Dagorlad_Dungeon_Carchost"/>
+<sound id="704683876" name="music_U20_Dagorlad_Dungeon_Combat_01"/>
+<sound id="704683878" name="music_U20_Black_Gate_Parley_02"/>
+<sound id="704683879" name="music_U20_Black_Gate_Parley_01"/>
+<sound id="704683880" name="music_U20_Black_Gate_Parley_04"/>
+<sound id="704683881" name="music_U20_Black_Gate_Parley_03"/>
+</musicItem>
+<musicItem id="1879416915" name="'Wildwood' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704667204" name="wf2k10_overture"/>
+<sound id="704667205" name="wf2k10_actionbig"/>
+<sound id="704667206" name="wf2k10_t12-letzexplor"/>
+<sound id="704667207" name="wf2k10_t1-rucul"/>
+<sound id="704667217" name="hustlebustlexmas"/>
+<sound id="704667219" name="wintfesttheme"/>
+<sound id="704692496" name="music_u28_Yule_Festival_Theme_2020"/>
+<sound id="704692776" name="music_u29_Wildwood_landscape_03"/>
+<sound id="704692777" name="music_u29_Wildwood_landscape_01"/>
+<sound id="704692778" name="music_u29_Wildwood_landscape_02"/>
+<sound id="704692780" name="music_u29_Wildwood_combat_01a_no_loop"/>
+</musicItem>
+<musicItem id="1879420514" name="'The Fall of Khazad-dûm' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704692789" name="music_u30_Azanulbizar_landscape_02"/>
+<sound id="704692796" name="music_u30_Azanulbizar_landscape_04"/>
+<sound id="704692799" name="music_u30_Azanulbizar_landscape_01"/>
+<sound id="704692809" name="music_u30_Azanulbizar_landscape_03"/>
+<sound id="704692811" name="music_u30_Azanulbizar_landscape_main"/>
+<sound id="704693916" name="music_u30_Fall_of_Moria_raid_boss_combat"/>
+<sound id="704693921" name="music_u30_Fall_of_Moria_raid_interlude1"/>
+<sound id="704693926" name="music_u30_Fall_of_Moria_raid_interlude2"/>
+<sound id="704693935" name="music_u30_Fall_of_Moria_raid_combat"/>
+<sound id="704693937" name="music_u30_Fall_of_Moria_raid_drama2"/>
+<sound id="704693942" name="music_u30_Fall_of_Moria_raid_drama1"/>
+<sound id="704693945" name="music_u30_Fall_of_Moria_raid_interlude3"/>
+<sound id="704693947" name="music_u30_Fall_of_Moria_raid_explore"/>
+<sound id="704693983" name="music_u30_Fall_of_Moria_raid_end_drama1"/>
+<sound id="704693984" name="music_u30_Fall_of_Moria_raid_end_drama2"/>
+</musicItem>
+<musicItem id="1879420515" name="'Azanulbizar combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704683859" name="music_U20_Dagorlad_Landscape_05"/>
+<sound id="704683861" name="music_U20_Dagorlad_Landscape_03"/>
+<sound id="704683863" name="music_U20_Dagorlad_Combat_03"/>
+<sound id="704683864" name="music_U20_Dagorlad_Landscape_04"/>
+<sound id="704683867" name="music_U20_Dagorlad_Landscape_01"/>
+<sound id="704683870" name="music_U20_Dagorlad_Combat_01"/>
+<sound id="704683871" name="music_U20_Dagorlad_Landscape_02"/>
+<sound id="704683872" name="music_U20_Dagorlad_Combat_02"/>
+<sound id="704683874" name="music_U20_Dagorlad_Dungeon_Maggot_Holes"/>
+<sound id="704683875" name="music_U20_Dagorlad_Dungeon_Carchost"/>
+<sound id="704683876" name="music_U20_Dagorlad_Dungeon_Combat_01"/>
+<sound id="704692786" name="music_u30_Azanulbizar_combat_02a"/>
+<sound id="704692790" name="music_u30_Azanulbizar_combat_01a"/>
+<sound id="704692808" name="music_u30_Azanulbizar_combat_04a"/>
+<sound id="704693944" name="music_u30_Azanulbizar_combat_03a"/>
+</musicItem>
+<musicItem id="1879420516" name="'Azanulbizar landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704692786" name="music_u30_Azanulbizar_combat_02a"/>
+<sound id="704692789" name="music_u30_Azanulbizar_landscape_02"/>
+<sound id="704692790" name="music_u30_Azanulbizar_combat_01a"/>
+<sound id="704692796" name="music_u30_Azanulbizar_landscape_04"/>
+<sound id="704692799" name="music_u30_Azanulbizar_landscape_01"/>
+<sound id="704692808" name="music_u30_Azanulbizar_combat_04a"/>
+<sound id="704692809" name="music_u30_Azanulbizar_landscape_03"/>
+<sound id="704692811" name="music_u30_Azanulbizar_landscape_main"/>
+<sound id="704693944" name="music_u30_Azanulbizar_combat_03a"/>
+</musicItem>
+<musicItem id="1879420517" name="'The Sixth War of the Dwarves and Orcs' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704692783" name="music_u30_Nars_Tale_instance_part3"/>
+<sound id="704692791" name="music_u30_Nars_Tale_instance_part5"/>
+<sound id="704692795" name="music_u30_Nars_Tale_instance_part2"/>
+<sound id="704692797" name="music_u30_Nars_Tale_instance_part7"/>
+<sound id="704692805" name="music_u30_Nars_Tale_instance_part4"/>
+<sound id="704692807" name="music_u30_Nars_Tale_instance_part1"/>
+<sound id="704692810" name="music_u30_Nars_Tale_instance_part6"/>
+<sound id="704693916" name="music_u30_Fall_of_Moria_raid_boss_combat"/>
+<sound id="704693917" name="music_u30_Bonds_Oak_Iron_instance_part2_combat"/>
+<sound id="704693919" name="music_u30_Council_of_Seven_instance_part3"/>
+<sound id="704693921" name="music_u30_Fall_of_Moria_raid_interlude1"/>
+<sound id="704693924" name="music_u30_Bonds_Oak_Iron_instance_part7"/>
+<sound id="704693925" name="music_u30_Bonds_Oak_Iron_instance_part8_combat"/>
+<sound id="704693926" name="music_u30_Fall_of_Moria_raid_interlude2"/>
+<sound id="704693928" name="music_u30_Bonds_Oak_Iron_instance_part1"/>
+<sound id="704693929" name="music_u30_Bonds_Oak_Iron_instance_part9"/>
+<sound id="704693930" name="music_u30_Council_of_Seven_instance_part2"/>
+<sound id="704693931" name="music_u30_Bonds_Oak_Iron_instance_part6_combat"/>
+<sound id="704693935" name="music_u30_Fall_of_Moria_raid_combat"/>
+<sound id="704693937" name="music_u30_Fall_of_Moria_raid_drama2"/>
+<sound id="704693938" name="music_u30_Bonds_Oak_Iron_instance_part3"/>
+<sound id="704693940" name="music_u30_Bonds_Oak_Iron_instance_part4_combat"/>
+<sound id="704693941" name="music_u30_Council_of_Seven_instance_part1"/>
+<sound id="704693942" name="music_u30_Fall_of_Moria_raid_drama1"/>
+<sound id="704693945" name="music_u30_Fall_of_Moria_raid_interlude3"/>
+<sound id="704693946" name="music_u30_Bonds_Oak_Iron_instance_part5"/>
+<sound id="704693947" name="music_u30_Fall_of_Moria_raid_explore"/>
+<sound id="704693950" name="music_u30_Lords_of_Moria_part4"/>
+<sound id="704693952" name="music_u30_Lords_of_Moria_part1"/>
+<sound id="704693956" name="music_u30_Lords_of_Moria_part3"/>
+<sound id="704693959" name="music_u30_Lords_of_Moria_part2"/>
+<sound id="704693983" name="music_u30_Fall_of_Moria_raid_end_drama1"/>
+<sound id="704693984" name="music_u30_Fall_of_Moria_raid_end_drama2"/>
+<sound id="704693997" name="music_u30_Final_Reckoning_instance_part10"/>
+<sound id="704693998" name="music_u30_Final_Reckoning_instance_part8"/>
+<sound id="704693999" name="music_u30_Final_Reckoning_instance_part7"/>
+<sound id="704694000" name="music_u30_Final_Reckoning_instance_part2"/>
+<sound id="704694001" name="music_u30_Final_Reckoning_instance_part1"/>
+<sound id="704694002" name="music_u30_Final_Reckoning_instance_part9"/>
+<sound id="704694003" name="music_u30_Final_Reckoning_instance_part4"/>
+<sound id="704694004" name="music_u30_Final_Reckoning_instance_part3"/>
+<sound id="704694005" name="music_u30_Final_Reckoning_instance_part6"/>
+<sound id="704694006" name="music_u30_Final_Reckoning_instance_part5"/>
+</musicItem>
+<musicItem id="1879446262" name="'Rebelling Dwarves and the Last Dwarrowmoot' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704695994" name="music_u31_LOD_V6B10C7_Part5"/>
 <sound id="704695998" name="music_u31_LOD_V6B10C4_Part1"/>
 <sound id="704696000" name="music_u31_LOD_V6B11C4_Part1"/>
@@ -1053,7 +898,7 @@
 <sound id="704696327" name="music_u32_Angle_combat_02a"/>
 <sound id="704696331" name="music_u32_Angle_combat_01a"/>
 </musicItem>
-<musicItem id="1879446266" name="'Gundabad combat and Instance' Themes" icon="1091405451-1091424047-1091947416">
+<musicItem id="1879446263" name="'Gundabad landscape' Themes" icon="1091405451-1091424047-1091947416">
 <sound id="704695950" name="music_u31_Gundabad_Gloomingtarn_landscape_01"/>
 <sound id="704695956" name="music_u31_Gundabad_Clovengap_landscape_01"/>
 <sound id="704695957" name="music_u31_Gundabad_generic_landscape_02"/>
@@ -1076,5 +921,726 @@
 <sound id="704696334" name="music_u32_Hiddenhoard_raid_explore"/>
 <sound id="704696336" name="music_u32_Hiddenhoard_raid_prefight_drama"/>
 <sound id="704696337" name="music_u32_Hiddenhoard_raid_postfight_drama"/>
+</musicItem>
+<musicItem id="1879446264" name="'Gundabad Legacy of Durin' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704695994" name="music_u31_LOD_V6B10C7_Part5"/>
+<sound id="704695996" name="music_u31_LOD_V6B8C5_Part3"/>
+<sound id="704695998" name="music_u31_LOD_V6B10C4_Part1"/>
+<sound id="704695999" name="music_u31_LOD_V6B9C2_Part8"/>
+<sound id="704696000" name="music_u31_LOD_V6B11C4_Part1"/>
+<sound id="704696001" name="music_u31_LOD_V6B8C5_Part4"/>
+<sound id="704696002" name="music_u31_LOD_V6B9C2_Part2"/>
+<sound id="704696003" name="music_u31_LOD_V6B6C5_Part2"/>
+<sound id="704696004" name="music_u31_LOD_V6B7C4_Part2"/>
+<sound id="704696005" name="music_u31_LOD_V6B7C8_Part6"/>
+<sound id="704696006" name="music_u31_LOD_V6B5C2_Part1"/>
+<sound id="704696008" name="music_u31_LOD_V6B9C2_Part7"/>
+<sound id="704696009" name="music_u31_LOD_V6B7C8_Part3"/>
+<sound id="704696010" name="music_u31_LOD_V6B8C5_Part1"/>
+<sound id="704696011" name="music_u31_LOD_V6B7C4_Part5"/>
+<sound id="704696012" name="music_u31_LOD_V6B10C4_Part3"/>
+<sound id="704696013" name="music_u31_LOD_V6B5C2_Part4"/>
+<sound id="704696014" name="music_u31_LOD_V6B10C7_Part3"/>
+<sound id="704696015" name="music_u31_LOD_V6B10C4_Part6"/>
+<sound id="704696016" name="music_u31_LOD_V6B11C4_Part3"/>
+<sound id="704696017" name="music_u31_LOD_V6B5C2_Part3"/>
+<sound id="704696018" name="music_u31_LOD_V6B11C4_Part6"/>
+<sound id="704696019" name="music_u31_LOD_V6B9C2_Part1"/>
+<sound id="704696020" name="music_u31_LOD_V6B7C8_Part1"/>
+<sound id="704696022" name="music_u31_LOD_V6B9C2_Part4"/>
+<sound id="704696023" name="music_u31_LOD_V6B8C5_Part2"/>
+<sound id="704696024" name="music_u31_LOD_V6B9C2_Part3"/>
+<sound id="704696025" name="music_u31_LOD_V6B7C4_Part3"/>
+<sound id="704696027" name="music_u31_LOD_V6B10C4_Part5"/>
+<sound id="704696028" name="music_u31_LOD_V6B10C7_Part1"/>
+<sound id="704696029" name="music_u31_LOD_V6B7C8_Part4"/>
+<sound id="704696030" name="music_u31_LOD_V6B11C4_Gorgar_Fight"/>
+<sound id="704696031" name="music_u31_LOD_V6B11C4_Part5"/>
+<sound id="704696032" name="music_u31_LOD_V6B10C4_Part2"/>
+<sound id="704696033" name="music_u31_LOD_V6B10C7_Part4"/>
+<sound id="704696034" name="music_u31_LOD_V6B5C6_Part2"/>
+<sound id="704696035" name="music_u31_LOD_V6B11C3_Part1"/>
+<sound id="704696036" name="music_u31_LOD_V6B11C4_Part2"/>
+<sound id="704696037" name="music_u31_LOD_V6B8C1_Part1"/>
+<sound id="704696039" name="music_u31_LOD_V6B5C6_Part1"/>
+<sound id="704696041" name="music_u31_LOD_V6B8C1_Part2"/>
+<sound id="704696042" name="music_u31_LOD_V6B9C2_Part5"/>
+<sound id="704696043" name="music_u31_LOD_V6B7C4_Part1"/>
+<sound id="704696044" name="music_u31_LOD_V6B9C2_Part6"/>
+<sound id="704696045" name="music_u31_LOD_V6B7C4_Part6"/>
+<sound id="704696046" name="music_u31_LOD_V6B7C8_Part2"/>
+<sound id="704696047" name="music_u31_LOD_V6B7C4_Part4"/>
+<sound id="704696048" name="music_u31_LOD_V6B10C4_Part4"/>
+<sound id="704696049" name="music_u31_LOD_V6B10C7_Part2"/>
+<sound id="704696050" name="music_u31_LOD_V6B7C8_Part5"/>
+<sound id="704696051" name="music_u31_LOD_V6B11C4_Part4"/>
+<sound id="704696052" name="music_u31_LOD_V6B10C4_Part7"/>
+<sound id="704696053" name="music_u31_LOD_V6B6C5_Part1"/>
+<sound id="704696054" name="music_u31_LOD_V6B5C2_Part2"/>
+<sound id="704696057" name="music_u31_LOD_V6B10C5_Part2"/>
+<sound id="704696058" name="music_u31_LOD_V6B10C5_Part1"/>
+<sound id="704696059" name="music_u31_LOD_V6B10C5_Part4"/>
+<sound id="704696060" name="music_u31_LOD_V6B10C5_Part6"/>
+<sound id="704696061" name="music_u31_LOD_V6B10C5_Part3"/>
+<sound id="704696062" name="music_u31_LOD_V6B10C5_Part5"/>
+<sound id="704696063" name="music_u31_LOD_V6B10C5_Part7"/>
+</musicItem>
+<musicItem id="1879446265" name="'Angle of Mitheithel' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704696318" name="music_u32_Angle_landscape_02"/>
+<sound id="704696319" name="music_u32_Angle_MainTheme_landscape"/>
+<sound id="704696320" name="music_u32_Angle_landscape_01"/>
+<sound id="704696327" name="music_u32_Angle_combat_02a"/>
+<sound id="704696331" name="music_u32_Angle_combat_01a"/>
+<sound id="704697888" name="music_u34_OldForest_landscape"/>
+<sound id="704697890" name="music_u34_Sedgemead_landscape"/>
+<sound id="704697895" name="music_u34_SouthDowns_landscape"/>
+<sound id="704697898" name="music_u34_TyrnGorthad_landscape"/>
+<sound id="704697933" name="music_u34_Cardolan_landscape"/>
+<sound id="704697934" name="music_u34_Tharbad_landscape"/>
+<sound id="704697943" name="music_u34_Ruddymoor_landscape"/>
+</musicItem>
+<musicItem id="1879446266" name="'Gundabad combat and Instance' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704695961" name="music_u31_Gundabad_combat_01a"/>
+<sound id="704695967" name="music_u31_Gundabad_combat_02a"/>
+<sound id="704695972" name="music_u31_Gundabad_combat_03a"/>
+<sound id="704695978" name="music_u31_Gundabad_combat_04a"/>
+<sound id="704695996" name="music_u31_LOD_V6B8C5_Part3"/>
+<sound id="704695999" name="music_u31_LOD_V6B9C2_Part8"/>
+<sound id="704696001" name="music_u31_LOD_V6B8C5_Part4"/>
+<sound id="704696002" name="music_u31_LOD_V6B9C2_Part2"/>
+<sound id="704696003" name="music_u31_LOD_V6B6C5_Part2"/>
+<sound id="704696004" name="music_u31_LOD_V6B7C4_Part2"/>
+<sound id="704696005" name="music_u31_LOD_V6B7C8_Part6"/>
+<sound id="704696006" name="music_u31_LOD_V6B5C2_Part1"/>
+<sound id="704696008" name="music_u31_LOD_V6B9C2_Part7"/>
+<sound id="704696009" name="music_u31_LOD_V6B7C8_Part3"/>
+<sound id="704696010" name="music_u31_LOD_V6B8C5_Part1"/>
+<sound id="704696011" name="music_u31_LOD_V6B7C4_Part5"/>
+<sound id="704696013" name="music_u31_LOD_V6B5C2_Part4"/>
+<sound id="704696017" name="music_u31_LOD_V6B5C2_Part3"/>
+<sound id="704696019" name="music_u31_LOD_V6B9C2_Part1"/>
+<sound id="704696020" name="music_u31_LOD_V6B7C8_Part1"/>
+<sound id="704696022" name="music_u31_LOD_V6B9C2_Part4"/>
+<sound id="704696023" name="music_u31_LOD_V6B8C5_Part2"/>
+<sound id="704696024" name="music_u31_LOD_V6B9C2_Part3"/>
+<sound id="704696025" name="music_u31_LOD_V6B7C4_Part3"/>
+<sound id="704696029" name="music_u31_LOD_V6B7C8_Part4"/>
+<sound id="704696034" name="music_u31_LOD_V6B5C6_Part2"/>
+<sound id="704696037" name="music_u31_LOD_V6B8C1_Part1"/>
+<sound id="704696039" name="music_u31_LOD_V6B5C6_Part1"/>
+<sound id="704696041" name="music_u31_LOD_V6B8C1_Part2"/>
+<sound id="704696042" name="music_u31_LOD_V6B9C2_Part5"/>
+<sound id="704696043" name="music_u31_LOD_V6B7C4_Part1"/>
+<sound id="704696044" name="music_u31_LOD_V6B9C2_Part6"/>
+<sound id="704696045" name="music_u31_LOD_V6B7C4_Part6"/>
+<sound id="704696046" name="music_u31_LOD_V6B7C8_Part2"/>
+<sound id="704696047" name="music_u31_LOD_V6B7C4_Part4"/>
+<sound id="704696050" name="music_u31_LOD_V6B7C8_Part5"/>
+<sound id="704696053" name="music_u31_LOD_V6B6C5_Part1"/>
+<sound id="704696054" name="music_u31_LOD_V6B5C2_Part2"/>
+<sound id="704696065" name="music_u31_Instance_Puglakh_combat_1b"/>
+<sound id="704696068" name="music_u31_Instance_Puglakh_combat_1a"/>
+<sound id="704696072" name="music_u31_Instance_Puglakh_explore"/>
+<sound id="704696325" name="music_u32_Hiddenhoard_raid_final_combat"/>
+<sound id="704696334" name="music_u32_Hiddenhoard_raid_explore"/>
+<sound id="704696336" name="music_u32_Hiddenhoard_raid_prefight_drama"/>
+<sound id="704696337" name="music_u32_Hiddenhoard_raid_postfight_drama"/>
+</musicItem>
+<musicItem id="1879454629" name="'The Black Grave' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704698134" name="music_u34_Skirmish_Swanfleet_CG_drama"/>
+<sound id="704698136" name="music_u34_Skirmish_Swanfleet_CG_combat"/>
+<sound id="704698145" name="music_u34_Instance_Sarch_Vorn_combat_02a"/>
+<sound id="704698148" name="music_u34_Instance_Sarch_Vorn_explore"/>
+<sound id="704698159" name="music_u34_Instance_Sarch_Vorn_combat_01a"/>
+<sound id="704698167" name="music_u34_Instance_Sarch_Vorn_combat_boss3"/>
+<sound id="704698168" name="music_u34_Instance_Sarch_Vorn_combat_boss2"/>
+<sound id="704698170" name="music_u34_Instance_Sarch_Vorn_drama_final"/>
+</musicItem>
+<musicItem id="1879454630" name="'Swanfleet landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704696339" name="music_u33_Yondershire_landscape_01"/>
+<sound id="704696340" name="music_u33_Yondershire_landscape_02"/>
+<sound id="704696343" name="music_u33_Yondershire_landscape_03"/>
+<sound id="704697836" name="music_u34_OldSouthRoad_landscape"/>
+<sound id="704697844" name="music_u34_Mossward_landscape"/>
+<sound id="704697853" name="music_u34_LhanGaranPOI_landscape"/>
+<sound id="704697865" name="music_u34_Stoorvales_village_01"/>
+<sound id="704697868" name="music_u34_Stoorvales_landscape"/>
+<sound id="704697881" name="music_u34_Stoorvales_village_02"/>
+<sound id="704697893" name="music_u34_Wadewater_landscape"/>
+<sound id="704697899" name="music_u34_Stoorvales_village_03"/>
+<sound id="704697911" name="music_u34_WesternEregion_landscape"/>
+<sound id="704697914" name="music_u34_CarasGelebren_landscape"/>
+<sound id="704697948" name="music_u34_Swanfleet_landscape"/>
+</musicItem>
+<musicItem id="1879454640" name="'Before the Shadow Epic' Themes - Part 2" icon="1091405451-1091424047-1091947416">
+<sound id="704697829" name="music_u34_MainTheme_landscape"/>
+<sound id="704697962" name="music_u34_Generic_landscape_day_02"/>
+<sound id="704697963" name="music_u34_Generic_landscape_night_01"/>
+<sound id="704697966" name="music_u34_Generic_landscape_night_03"/>
+<sound id="704697968" name="music_u34_Generic_landscape_day_04"/>
+<sound id="704698100" name="music_u34_BtS_V0B3C4_Part1"/>
+<sound id="704698101" name="music_u34_BtS_V0B2C6_Part1"/>
+<sound id="704698102" name="music_u34_BtS_V0B3C4_Part3"/>
+<sound id="704698103" name="music_u34_BtS_V0B2C6_Part4"/>
+<sound id="704698104" name="music_u34_BtS_V0B2C6_Part2"/>
+<sound id="704698105" name="music_u34_BtS_V0B2C6_Part5"/>
+<sound id="704698106" name="music_u34_BtS_V0B3C4_Part2"/>
+<sound id="704698107" name="music_u34_BtS_V0B2C6_Part6"/>
+<sound id="704698108" name="music_u34_BtS_V0B2C6_Part3"/>
+<sound id="704698111" name="music_u34_BtS_V0B3C12_Part6"/>
+<sound id="704698112" name="music_u34_BtS_V0B3C10_Part4"/>
+<sound id="704698113" name="music_u34_BtS_V0B3C10_Part6"/>
+<sound id="704698114" name="music_u34_BtS_V0B3C10_Part3"/>
+<sound id="704698115" name="music_u34_BtS_V0B3C12_Part1"/>
+<sound id="704698116" name="music_u34_BtS_V0B3C12_Part4"/>
+<sound id="704698117" name="music_u34_BtS_V0B3C10_Part8"/>
+<sound id="704698118" name="music_u34_BtS_V0B3C10_Part5"/>
+<sound id="704698119" name="music_u34_BtS_V0B3C12_Part2"/>
+<sound id="704698120" name="music_u34_BtS_V0B3C10_Part7"/>
+<sound id="704698121" name="music_u34_BtS_V0B3C12_Part5"/>
+<sound id="704698122" name="music_u34_BtS_V0B3C10_Part2"/>
+<sound id="704698123" name="music_u34_BtS_V0B3C12_Part3"/>
+<sound id="704698124" name="music_u34_BtS_V0B3C10_Part1"/>
+<sound id="704698130" name="music_u34_BtS_V0B3C12_Part7"/>
+</musicItem>
+<musicItem id="1879454642" name="'Before the Shadow Epic' Themes - Part 1" icon="1091405451-1091424047-1091947416">
+<sound id="704698044" name="music_u34_BtS_V0B1C7_Part9"/>
+<sound id="704698046" name="music_u34_BtS_V0PrC5_Part2"/>
+<sound id="704698047" name="music_u34_BtS_V0B1C7_Part2"/>
+<sound id="704698048" name="music_u34_BtS_V0Pr_Starter_Part4"/>
+<sound id="704698055" name="music_u34_BtS_V0B1C7_Part7"/>
+<sound id="704698057" name="music_u34_BtS_V0Pr_Starter_Part3"/>
+<sound id="704698060" name="music_u34_BtS_V0PrC5_Part4"/>
+<sound id="704698063" name="music_u34_BtS_V0B1C7_Part8"/>
+<sound id="704698065" name="music_u34_BtS_V0Pr_Starter_Part6"/>
+<sound id="704698067" name="music_u34_BtS_V0PrC5_Part1"/>
+<sound id="704698068" name="music_u34_BtS_V0B1C7_Part5"/>
+<sound id="704698069" name="music_u34_BtS_V0Pr_Starter_Part5"/>
+<sound id="704698074" name="music_u34_BtS_V0B1C7_Part6"/>
+<sound id="704698076" name="music_u34_BtS_V0PrC5_Part6"/>
+<sound id="704698078" name="music_u34_BtS_V0PrC5_Part3"/>
+<sound id="704698079" name="music_u34_BtS_V0B1C7_Part3"/>
+<sound id="704698085" name="music_u34_BtS_V0Pr_Starter_Part7"/>
+<sound id="704698086" name="music_u34_BtS_V0PrC5_Part0"/>
+<sound id="704698087" name="music_u34_BtS_V0B1C7_Part4"/>
+<sound id="704698088" name="music_u34_BtS_V0Pr_Starter_Part2"/>
+<sound id="704698089" name="music_u34_BtS_V0PrC5_Part5"/>
+<sound id="704698090" name="music_u34_BtS_V0B1C7_Part1"/>
+<sound id="704698093" name="music_u34_BtS_V0Pr_Starter_Part1"/>
+<sound id="704698094" name="music_u34_BtS_V0B2C3_Part4"/>
+<sound id="704698095" name="music_u34_BtS_V0B2C3_Part1"/>
+<sound id="704698096" name="music_u34_BtS_V0B2C3_Part2"/>
+<sound id="704698097" name="music_u34_BtS_V0B2C3_Part5"/>
+<sound id="704698098" name="music_u34_BtS_V0B2C3_Part3"/>
+<sound id="704698099" name="music_u34_BtS_V0B2C3_Part6"/>
+<sound id="704698100" name="music_u34_BtS_V0B3C4_Part1"/>
+<sound id="704698101" name="music_u34_BtS_V0B2C6_Part1"/>
+<sound id="704698102" name="music_u34_BtS_V0B3C4_Part3"/>
+<sound id="704698103" name="music_u34_BtS_V0B2C6_Part4"/>
+<sound id="704698104" name="music_u34_BtS_V0B2C6_Part2"/>
+<sound id="704698105" name="music_u34_BtS_V0B2C6_Part5"/>
+<sound id="704698106" name="music_u34_BtS_V0B3C4_Part2"/>
+<sound id="704698107" name="music_u34_BtS_V0B2C6_Part6"/>
+<sound id="704698108" name="music_u34_BtS_V0B2C6_Part3"/>
+<sound id="704698111" name="music_u34_BtS_V0B3C12_Part6"/>
+<sound id="704698112" name="music_u34_BtS_V0B3C10_Part4"/>
+<sound id="704698113" name="music_u34_BtS_V0B3C10_Part6"/>
+<sound id="704698114" name="music_u34_BtS_V0B3C10_Part3"/>
+<sound id="704698115" name="music_u34_BtS_V0B3C12_Part1"/>
+<sound id="704698116" name="music_u34_BtS_V0B3C12_Part4"/>
+<sound id="704698117" name="music_u34_BtS_V0B3C10_Part8"/>
+<sound id="704698118" name="music_u34_BtS_V0B3C10_Part5"/>
+<sound id="704698119" name="music_u34_BtS_V0B3C12_Part2"/>
+<sound id="704698120" name="music_u34_BtS_V0B3C10_Part7"/>
+<sound id="704698121" name="music_u34_BtS_V0B3C12_Part5"/>
+<sound id="704698122" name="music_u34_BtS_V0B3C10_Part2"/>
+<sound id="704698123" name="music_u34_BtS_V0B3C12_Part3"/>
+<sound id="704698124" name="music_u34_BtS_V0B3C10_Part1"/>
+<sound id="704698130" name="music_u34_BtS_V0B3C12_Part7"/>
+</musicItem>
+<musicItem id="1879454645" name="'Cardolan landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704697864" name="music_u34_Generic_combat_01a"/>
+<sound id="704697888" name="music_u34_OldForest_landscape"/>
+<sound id="704697890" name="music_u34_Sedgemead_landscape"/>
+<sound id="704697895" name="music_u34_SouthDowns_landscape"/>
+<sound id="704697898" name="music_u34_TyrnGorthad_landscape"/>
+<sound id="704697903" name="music_u34_Stoorvales_combat_01a"/>
+<sound id="704697904" name="music_u34_OldSouthRoad_combat_01a"/>
+<sound id="704697912" name="music_u34_Swanfleet_combat_01a"/>
+<sound id="704697919" name="music_u34_WesternEregion_combat_01a"/>
+<sound id="704697929" name="music_u34_Generic_combat_02a"/>
+<sound id="704697933" name="music_u34_Cardolan_landscape"/>
+<sound id="704697934" name="music_u34_Tharbad_landscape"/>
+<sound id="704697937" name="music_u34_Generic_combat_03a"/>
+<sound id="704697942" name="music_u34_Mossward_combat_01a"/>
+<sound id="704697943" name="music_u34_Ruddymoor_landscape"/>
+<sound id="704697946" name="music_u34_CarasGelebren_combat_01a"/>
+<sound id="704697965" name="music_u34_Wadewater_combat_01a"/>
+<sound id="704697994" name="music_u34_SouthDowns_combat_01a"/>
+<sound id="704697997" name="music_u34_Ruddymore_combat_01a"/>
+<sound id="704698009" name="music_u34_Sedgemead_combat_01a"/>
+<sound id="704698012" name="music_u34_TyrnGorthad_combat_01a"/>
+<sound id="704698035" name="music_u34_OldForest_combat_01a"/>
+<sound id="704698053" name="music_u34_Cardolan_combat_01a"/>
+<sound id="704698058" name="music_u34_Tharbad_combat_01a"/>
+</musicItem>
+<musicItem id="1879454649" name="'The Doom of Caras Gelebren' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704697836" name="music_u34_OldSouthRoad_landscape"/>
+<sound id="704697844" name="music_u34_Mossward_landscape"/>
+<sound id="704697853" name="music_u34_LhanGaranPOI_landscape"/>
+<sound id="704697865" name="music_u34_Stoorvales_village_01"/>
+<sound id="704697868" name="music_u34_Stoorvales_landscape"/>
+<sound id="704697881" name="music_u34_Stoorvales_village_02"/>
+<sound id="704697893" name="music_u34_Wadewater_landscape"/>
+<sound id="704697899" name="music_u34_Stoorvales_village_03"/>
+<sound id="704697911" name="music_u34_WesternEregion_landscape"/>
+<sound id="704697914" name="music_u34_CarasGelebren_landscape"/>
+<sound id="704697948" name="music_u34_Swanfleet_landscape"/>
+<sound id="704698134" name="music_u34_Skirmish_Swanfleet_CG_drama"/>
+<sound id="704698136" name="music_u34_Skirmish_Swanfleet_CG_combat"/>
+</musicItem>
+<musicItem id="1879454823" name="'Before the Shadow Adventures' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704697864" name="music_u34_Generic_combat_01a"/>
+<sound id="704697903" name="music_u34_Stoorvales_combat_01a"/>
+<sound id="704697904" name="music_u34_OldSouthRoad_combat_01a"/>
+<sound id="704697912" name="music_u34_Swanfleet_combat_01a"/>
+<sound id="704697919" name="music_u34_WesternEregion_combat_01a"/>
+<sound id="704697929" name="music_u34_Generic_combat_02a"/>
+<sound id="704697937" name="music_u34_Generic_combat_03a"/>
+<sound id="704697942" name="music_u34_Mossward_combat_01a"/>
+<sound id="704697946" name="music_u34_CarasGelebren_combat_01a"/>
+<sound id="704697965" name="music_u34_Wadewater_combat_01a"/>
+<sound id="704697994" name="music_u34_SouthDowns_combat_01a"/>
+<sound id="704697997" name="music_u34_Ruddymore_combat_01a"/>
+<sound id="704698009" name="music_u34_Sedgemead_combat_01a"/>
+<sound id="704698012" name="music_u34_TyrnGorthad_combat_01a"/>
+<sound id="704698035" name="music_u34_OldForest_combat_01a"/>
+<sound id="704698044" name="music_u34_BtS_V0B1C7_Part9"/>
+<sound id="704698046" name="music_u34_BtS_V0PrC5_Part2"/>
+<sound id="704698047" name="music_u34_BtS_V0B1C7_Part2"/>
+<sound id="704698048" name="music_u34_BtS_V0Pr_Starter_Part4"/>
+<sound id="704698053" name="music_u34_Cardolan_combat_01a"/>
+<sound id="704698055" name="music_u34_BtS_V0B1C7_Part7"/>
+<sound id="704698057" name="music_u34_BtS_V0Pr_Starter_Part3"/>
+<sound id="704698058" name="music_u34_Tharbad_combat_01a"/>
+<sound id="704698060" name="music_u34_BtS_V0PrC5_Part4"/>
+<sound id="704698063" name="music_u34_BtS_V0B1C7_Part8"/>
+<sound id="704698065" name="music_u34_BtS_V0Pr_Starter_Part6"/>
+<sound id="704698067" name="music_u34_BtS_V0PrC5_Part1"/>
+<sound id="704698068" name="music_u34_BtS_V0B1C7_Part5"/>
+<sound id="704698069" name="music_u34_BtS_V0Pr_Starter_Part5"/>
+<sound id="704698074" name="music_u34_BtS_V0B1C7_Part6"/>
+<sound id="704698076" name="music_u34_BtS_V0PrC5_Part6"/>
+<sound id="704698078" name="music_u34_BtS_V0PrC5_Part3"/>
+<sound id="704698079" name="music_u34_BtS_V0B1C7_Part3"/>
+<sound id="704698085" name="music_u34_BtS_V0Pr_Starter_Part7"/>
+<sound id="704698086" name="music_u34_BtS_V0PrC5_Part0"/>
+<sound id="704698087" name="music_u34_BtS_V0B1C7_Part4"/>
+<sound id="704698088" name="music_u34_BtS_V0Pr_Starter_Part2"/>
+<sound id="704698089" name="music_u34_BtS_V0PrC5_Part5"/>
+<sound id="704698090" name="music_u34_BtS_V0B1C7_Part1"/>
+<sound id="704698093" name="music_u34_BtS_V0Pr_Starter_Part1"/>
+<sound id="704698094" name="music_u34_BtS_V0B2C3_Part4"/>
+<sound id="704698095" name="music_u34_BtS_V0B2C3_Part1"/>
+<sound id="704698096" name="music_u34_BtS_V0B2C3_Part2"/>
+<sound id="704698097" name="music_u34_BtS_V0B2C3_Part5"/>
+<sound id="704698098" name="music_u34_BtS_V0B2C3_Part3"/>
+<sound id="704698099" name="music_u34_BtS_V0B2C3_Part6"/>
+</musicItem>
+<musicItem id="1879454825" name="'Cardolan Adventures' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704697829" name="music_u34_MainTheme_landscape"/>
+<sound id="704697962" name="music_u34_Generic_landscape_day_02"/>
+<sound id="704697963" name="music_u34_Generic_landscape_night_01"/>
+<sound id="704697966" name="music_u34_Generic_landscape_night_03"/>
+<sound id="704697968" name="music_u34_Generic_landscape_day_04"/>
+<sound id="704698145" name="music_u34_Instance_Sarch_Vorn_combat_02a"/>
+<sound id="704698148" name="music_u34_Instance_Sarch_Vorn_explore"/>
+<sound id="704698159" name="music_u34_Instance_Sarch_Vorn_combat_01a"/>
+<sound id="704698167" name="music_u34_Instance_Sarch_Vorn_combat_boss3"/>
+<sound id="704698168" name="music_u34_Instance_Sarch_Vorn_combat_boss2"/>
+<sound id="704698170" name="music_u34_Instance_Sarch_Vorn_drama_final"/>
+</musicItem>
+<musicItem id="1879461578" name="'Return to Carn Dûm combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704698730" name="music_u35_CD_castle_boss_combat"/>
+<sound id="704698749" name="music_u35_CD_sewers_explore"/>
+<sound id="704698751" name="music_u35_CD_glasshouse_explore"/>
+<sound id="704698753" name="music_u35_CD_sewers_combat_01a"/>
+<sound id="704698754" name="music_u35_CD_apothecary_combat_01a"/>
+<sound id="704698769" name="music_u35_CD_glasshouse_boss_combat"/>
+<sound id="704698770" name="music_u35_CD_castle_combat_01a"/>
+<sound id="704698771" name="music_u35_CD_apothecary_explore"/>
+<sound id="704698772" name="music_u35_CD_generic_combat_01a"/>
+<sound id="704698787" name="music_u35_CD_castle_explore"/>
+<sound id="704698791" name="music_u35_CD_sewers_boss_combat"/>
+<sound id="704698793" name="music_u35_CD_glasshouse_combat_01a"/>
+<sound id="704698794" name="music_u35_CD_apothecary_boss_combat"/>
+<sound id="704698832" name="music_u35_CD_minor_boss_combat"/>
+<sound id="704698835" name="music_u35_CD_major_boss_combat"/>
+</musicItem>
+<musicItem id="1879461579" name="'Return to Carn Dûm' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704647163" name="char_select_music_01"/>
+<sound id="704672797" name="LOTRO_Legacy"/>
+<sound id="704684019" name="music_u21_cinematics_coronation"/>
+<sound id="704685628" name="music_u21_menu_ever_on"/>
+<sound id="704698135" name="music_u34_BtS_char_select"/>
+<sound id="704698749" name="music_u35_CD_sewers_explore"/>
+<sound id="704698751" name="music_u35_CD_glasshouse_explore"/>
+<sound id="704698771" name="music_u35_CD_apothecary_explore"/>
+<sound id="704698787" name="music_u35_CD_castle_explore"/>
+</musicItem>
+<musicItem id="1879461628" name="'Sixteen Years of Welcome' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704647163" name="char_select_music_01"/>
+<sound id="704672797" name="LOTRO_Legacy"/>
+<sound id="704684019" name="music_u21_cinematics_coronation"/>
+<sound id="704685628" name="music_u21_menu_ever_on"/>
+<sound id="704698135" name="music_u34_BtS_char_select"/>
+<sound id="704699570" name="music_u38_V7B4C6_Instance_Part1"/>
+<sound id="704699572" name="music_u38_V7B4C4_Instance_Part1"/>
+<sound id="704699575" name="music_u38_V7B5C3_Instance_Part12"/>
+<sound id="704699588" name="music_u38_V7B5C3_Instance_Part5"/>
+<sound id="704699606" name="music_u38_V7B4C6_Instance_Part3"/>
+<sound id="704699611" name="music_u38_V7B4C4_Instance_Part3"/>
+<sound id="704699626" name="music_u38_V7B5C3_Instance_Part7"/>
+<sound id="704699627" name="music_u38_V7B4C6_Instance_Part2"/>
+<sound id="704699649" name="music_u38_V7B4C4_Instance_Part5"/>
+<sound id="704699668" name="music_u38_V7B5C3_Instance_Part9"/>
+<sound id="704699669" name="music_u38_V7B4C6_Instance_Part4"/>
+<sound id="704699675" name="music_u38_V7B5C3_Instance_Part11"/>
+<sound id="704699685" name="music_u38_V7B5C3_Instance_Part8"/>
+<sound id="704699688" name="music_u38_V7B4C4_Instance_Part7"/>
+<sound id="704699690" name="music_u38_V7B5C3_Instance_Part10"/>
+<sound id="704699694" name="music_u38_V7B2C12_Instance_Part2"/>
+<sound id="704699950" name="music_u38_V7B3C11_Instance_Full"/>
+<sound id="704701693" name="music_u38_V7B3C2_Instance_Part3"/>
+<sound id="704701694" name="music_u38_V7B3C2_Instance_Part4"/>
+<sound id="704701695" name="music_u38_V7B3C2_Instance_Part1"/>
+<sound id="704701696" name="music_u38_V7B3C2_Instance_Part2"/>
+</musicItem>
+<musicItem id="1879465433" name="'Gondor Renewed' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704698843" name="music_u36_NewGondor_landscape_night_03"/>
+<sound id="704698844" name="music_u36_NewGondor_landscape_day_02_alt"/>
+<sound id="704698845" name="music_u36_NewGondor_landscape_night_04"/>
+<sound id="704698846" name="music_u36_NewGondor_landscape_day_01"/>
+<sound id="704698850" name="music_u36_NewGondor_landscape_night_01"/>
+<sound id="704698851" name="music_u36_NewGondor_landscape_day_02"/>
+<sound id="704698853" name="music_u36_Generic_combat_01a"/>
+<sound id="704698858" name="music_u36_MainTheme_landscape"/>
+<sound id="704698860" name="music_u36_NewGondor_landscape_day_03"/>
+<sound id="704698861" name="music_u36_Generic_combat_02a"/>
+<sound id="704698874" name="music_u36_Generic_combat_02a_alt"/>
+<sound id="704698895" name="music_u36_Generic_combat_03a"/>
+<sound id="704698896" name="music_u36_NewGondor_landscape_day_04"/>
+<sound id="704698898" name="music_u36_NewGondor_landscape_night_02"/>
+<sound id="704699364" name="music_u36_V7B1C9_instance_Part1"/>
+<sound id="704699365" name="music_u36_V7B1C9_instance_Part2"/>
+<sound id="704699366" name="music_u36_V7B1C9_instance_Part7"/>
+<sound id="704699368" name="music_u36_V7B1C9_instance_Part8"/>
+<sound id="704699369" name="music_u36_V7B1C9_instance_Part5"/>
+<sound id="704699370" name="music_u36_V7B1C9_instance_Part6"/>
+<sound id="704699372" name="music_u36_V7B1C9_instance_Part3"/>
+<sound id="704699373" name="music_u36_V7B1C9_instance_Part4"/>
+<sound id="704699374" name="music_u36_V7B1C9_instance_Part9"/>
+<sound id="704699376" name="music_u36_V7B1C1_instance_explore"/>
+</musicItem>
+<musicItem id="1879465436" name="'Gondor Renewed combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704692783" name="music_u30_Nars_Tale_instance_part3"/>
+<sound id="704692791" name="music_u30_Nars_Tale_instance_part5"/>
+<sound id="704692795" name="music_u30_Nars_Tale_instance_part2"/>
+<sound id="704692797" name="music_u30_Nars_Tale_instance_part7"/>
+<sound id="704692805" name="music_u30_Nars_Tale_instance_part4"/>
+<sound id="704692807" name="music_u30_Nars_Tale_instance_part1"/>
+<sound id="704692810" name="music_u30_Nars_Tale_instance_part6"/>
+<sound id="704693917" name="music_u30_Bonds_Oak_Iron_instance_part2_combat"/>
+<sound id="704693919" name="music_u30_Council_of_Seven_instance_part3"/>
+<sound id="704693924" name="music_u30_Bonds_Oak_Iron_instance_part7"/>
+<sound id="704693925" name="music_u30_Bonds_Oak_Iron_instance_part8_combat"/>
+<sound id="704693928" name="music_u30_Bonds_Oak_Iron_instance_part1"/>
+<sound id="704693929" name="music_u30_Bonds_Oak_Iron_instance_part9"/>
+<sound id="704693930" name="music_u30_Council_of_Seven_instance_part2"/>
+<sound id="704693931" name="music_u30_Bonds_Oak_Iron_instance_part6_combat"/>
+<sound id="704693938" name="music_u30_Bonds_Oak_Iron_instance_part3"/>
+<sound id="704693940" name="music_u30_Bonds_Oak_Iron_instance_part4_combat"/>
+<sound id="704693941" name="music_u30_Council_of_Seven_instance_part1"/>
+<sound id="704693946" name="music_u30_Bonds_Oak_Iron_instance_part5"/>
+<sound id="704693950" name="music_u30_Lords_of_Moria_part4"/>
+<sound id="704693952" name="music_u30_Lords_of_Moria_part1"/>
+<sound id="704693956" name="music_u30_Lords_of_Moria_part3"/>
+<sound id="704693959" name="music_u30_Lords_of_Moria_part2"/>
+<sound id="704693997" name="music_u30_Final_Reckoning_instance_part10"/>
+<sound id="704693998" name="music_u30_Final_Reckoning_instance_part8"/>
+<sound id="704693999" name="music_u30_Final_Reckoning_instance_part7"/>
+<sound id="704694000" name="music_u30_Final_Reckoning_instance_part2"/>
+<sound id="704694001" name="music_u30_Final_Reckoning_instance_part1"/>
+<sound id="704694002" name="music_u30_Final_Reckoning_instance_part9"/>
+<sound id="704694003" name="music_u30_Final_Reckoning_instance_part4"/>
+<sound id="704694004" name="music_u30_Final_Reckoning_instance_part3"/>
+<sound id="704694005" name="music_u30_Final_Reckoning_instance_part6"/>
+<sound id="704694006" name="music_u30_Final_Reckoning_instance_part5"/>
+<sound id="704698853" name="music_u36_Generic_combat_01a"/>
+<sound id="704698861" name="music_u36_Generic_combat_02a"/>
+<sound id="704698874" name="music_u36_Generic_combat_02a_alt"/>
+<sound id="704698895" name="music_u36_Generic_combat_03a"/>
+<sound id="704699368" name="music_u36_V7B1C9_instance_Part8"/>
+</musicItem>
+<musicItem id="1879478845" name="'Umbar Baharbêl' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699565" name="music_u38_V7B4C4_Instance_Part9"/>
+<sound id="704699585" name="music_u38_Umbar_City_District_FleetFast_landscape_full"/>
+<sound id="704699589" name="music_u38_Umbar_landscape_02_full"/>
+<sound id="704699590" name="music_u38_Umbar_City_District_ShorewardStone_landscape_full"/>
+<sound id="704699595" name="music_u38_Umbar_City_landscape_02_full"/>
+<sound id="704699617" name="music_u38_Umbar_City_District_SailHaven_landscape_full"/>
+<sound id="704699645" name="music_u38_Umbar_landscape_01_full"/>
+<sound id="704699659" name="music_u38_Umbar_City_District_LowerWard_landscape_full"/>
+<sound id="704699660" name="music_u38_Umbar_City_District_UpperWard_landscape_full"/>
+<sound id="704699670" name="music_u38_Umbar_Main_Theme"/>
+<sound id="704699677" name="music_u38_V7B5C3_Instance_Part1"/>
+<sound id="704699696" name="music_u38_Umbar_City_District_Citadel_landscape_full"/>
+<sound id="704699702" name="music_u38_Umbar_City_District_Gardens_landscape_full"/>
+<sound id="704699712" name="music_u38_Umbar_City_landscape_01_full"/>
+<sound id="704699946" name="music_u38_landscape_stinger_2a"/>
+<sound id="704699951" name="music_u38_landscape_stinger_3a"/>
+</musicItem>
+<musicItem id="1879478846" name="'Corsairs of Umbar combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704698843" name="music_u36_NewGondor_landscape_night_03"/>
+<sound id="704698844" name="music_u36_NewGondor_landscape_day_02_alt"/>
+<sound id="704698845" name="music_u36_NewGondor_landscape_night_04"/>
+<sound id="704698846" name="music_u36_NewGondor_landscape_day_01"/>
+<sound id="704698850" name="music_u36_NewGondor_landscape_night_01"/>
+<sound id="704698851" name="music_u36_NewGondor_landscape_day_02"/>
+<sound id="704698858" name="music_u36_MainTheme_landscape"/>
+<sound id="704698860" name="music_u36_NewGondor_landscape_day_03"/>
+<sound id="704698896" name="music_u36_NewGondor_landscape_day_04"/>
+<sound id="704698898" name="music_u36_NewGondor_landscape_night_02"/>
+<sound id="704699364" name="music_u36_V7B1C9_instance_Part1"/>
+<sound id="704699365" name="music_u36_V7B1C9_instance_Part2"/>
+<sound id="704699366" name="music_u36_V7B1C9_instance_Part7"/>
+<sound id="704699369" name="music_u36_V7B1C9_instance_Part5"/>
+<sound id="704699370" name="music_u36_V7B1C9_instance_Part6"/>
+<sound id="704699372" name="music_u36_V7B1C9_instance_Part3"/>
+<sound id="704699373" name="music_u36_V7B1C9_instance_Part4"/>
+<sound id="704699374" name="music_u36_V7B1C9_instance_Part9"/>
+<sound id="704699376" name="music_u36_V7B1C1_instance_explore"/>
+<sound id="704699391" name="music_u38_OuterGondor_combat_03a"/>
+<sound id="704699413" name="music_u38_OuterGondor_combat_02a"/>
+<sound id="704699431" name="music_u38_OuterGondor_combat_01a"/>
+<sound id="704699450" name="music_u38_OuterGondor_combat_04a"/>
+<sound id="704699667" name="music_u38_Umbar_combat_01a"/>
+<sound id="704699695" name="music_u38_Umbar_combat_02a"/>
+<sound id="704699706" name="music_u38_Umbar_combat_03a"/>
+</musicItem>
+<musicItem id="1879478847" name="'The Song of Waves and Wind' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699383" name="music_u38_KingsGondor_landscape_04_day_alt"/>
+<sound id="704699396" name="music_u38_OuterGondor_Main_Theme"/>
+<sound id="704699419" name="music_u38_OuterGondor_landscape_01a"/>
+<sound id="704699436" name="music_u38_OuterGondor_landscape_02a"/>
+<sound id="704699570" name="music_u38_V7B4C6_Instance_Part1"/>
+<sound id="704699572" name="music_u38_V7B4C4_Instance_Part1"/>
+<sound id="704699575" name="music_u38_V7B5C3_Instance_Part12"/>
+<sound id="704699588" name="music_u38_V7B5C3_Instance_Part5"/>
+<sound id="704699606" name="music_u38_V7B4C6_Instance_Part3"/>
+<sound id="704699611" name="music_u38_V7B4C4_Instance_Part3"/>
+<sound id="704699626" name="music_u38_V7B5C3_Instance_Part7"/>
+<sound id="704699627" name="music_u38_V7B4C6_Instance_Part2"/>
+<sound id="704699649" name="music_u38_V7B4C4_Instance_Part5"/>
+<sound id="704699668" name="music_u38_V7B5C3_Instance_Part9"/>
+<sound id="704699669" name="music_u38_V7B4C6_Instance_Part4"/>
+<sound id="704699675" name="music_u38_V7B5C3_Instance_Part11"/>
+<sound id="704699685" name="music_u38_V7B5C3_Instance_Part8"/>
+<sound id="704699688" name="music_u38_V7B4C4_Instance_Part7"/>
+<sound id="704699690" name="music_u38_V7B5C3_Instance_Part10"/>
+<sound id="704699694" name="music_u38_V7B2C12_Instance_Part2"/>
+<sound id="704699944" name="music_u38_landscape_stinger_1"/>
+<sound id="704699950" name="music_u38_V7B3C11_Instance_Full"/>
+<sound id="704701693" name="music_u38_V7B3C2_Instance_Part3"/>
+<sound id="704701694" name="music_u38_V7B3C2_Instance_Part4"/>
+<sound id="704701695" name="music_u38_V7B3C2_Instance_Part1"/>
+<sound id="704701696" name="music_u38_V7B3C2_Instance_Part2"/>
+</musicItem>
+<musicItem id="1879478848" name="'Outer Gondor landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699383" name="music_u38_KingsGondor_landscape_04_day_alt"/>
+<sound id="704699396" name="music_u38_OuterGondor_Main_Theme"/>
+<sound id="704699419" name="music_u38_OuterGondor_landscape_01a"/>
+<sound id="704699436" name="music_u38_OuterGondor_landscape_02a"/>
+<sound id="704699585" name="music_u38_Umbar_City_District_FleetFast_landscape_full"/>
+<sound id="704699590" name="music_u38_Umbar_City_District_ShorewardStone_landscape_full"/>
+<sound id="704699595" name="music_u38_Umbar_City_landscape_02_full"/>
+<sound id="704699617" name="music_u38_Umbar_City_District_SailHaven_landscape_full"/>
+<sound id="704699659" name="music_u38_Umbar_City_District_LowerWard_landscape_full"/>
+<sound id="704699660" name="music_u38_Umbar_City_District_UpperWard_landscape_full"/>
+<sound id="704699696" name="music_u38_Umbar_City_District_Citadel_landscape_full"/>
+<sound id="704699702" name="music_u38_Umbar_City_District_Gardens_landscape_full"/>
+<sound id="704699712" name="music_u38_Umbar_City_landscape_01_full"/>
+<sound id="704699944" name="music_u38_landscape_stinger_1"/>
+</musicItem>
+<musicItem id="1879478849" name="'Umbar and the Shield Isles landscape' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699562" name="music_u38_tavern_01a"/>
+<sound id="704699564" name="music_u38_tavern_04d"/>
+<sound id="704699565" name="music_u38_V7B4C4_Instance_Part9"/>
+<sound id="704699568" name="music_u38_V7B5C3_Instance_Part2"/>
+<sound id="704699582" name="music_u38_tavern_04c"/>
+<sound id="704699589" name="music_u38_Umbar_landscape_02_full"/>
+<sound id="704699596" name="music_u38_tavern_03c"/>
+<sound id="704699607" name="music_u38_V7B5C3_Instance_Part4"/>
+<sound id="704699608" name="music_u38_tavern_02c"/>
+<sound id="704699615" name="music_u38_tavern_03b"/>
+<sound id="704699624" name="music_u38_tavern_04a"/>
+<sound id="704699628" name="music_u38_tavern_02b"/>
+<sound id="704699635" name="music_u38_tavern_03a"/>
+<sound id="704699645" name="music_u38_Umbar_landscape_01_full"/>
+<sound id="704699647" name="music_u38_V7B5C3_Instance_Part6"/>
+<sound id="704699648" name="music_u38_tavern_02a"/>
+<sound id="704699670" name="music_u38_Umbar_Main_Theme"/>
+<sound id="704699677" name="music_u38_V7B5C3_Instance_Part1"/>
+<sound id="704699687" name="music_u38_tavern_01c"/>
+<sound id="704699704" name="music_u38_tavern_01b"/>
+<sound id="704699708" name="music_u38_V7B5C3_Instance_Part3"/>
+<sound id="704699946" name="music_u38_landscape_stinger_2a"/>
+<sound id="704699951" name="music_u38_landscape_stinger_3a"/>
+</musicItem>
+<musicItem id="1879478850" name="'Corsairs of Umbar Tavern' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699562" name="music_u38_tavern_01a"/>
+<sound id="704699564" name="music_u38_tavern_04d"/>
+<sound id="704699568" name="music_u38_V7B5C3_Instance_Part2"/>
+<sound id="704699582" name="music_u38_tavern_04c"/>
+<sound id="704699596" name="music_u38_tavern_03c"/>
+<sound id="704699607" name="music_u38_V7B5C3_Instance_Part4"/>
+<sound id="704699608" name="music_u38_tavern_02c"/>
+<sound id="704699615" name="music_u38_tavern_03b"/>
+<sound id="704699624" name="music_u38_tavern_04a"/>
+<sound id="704699628" name="music_u38_tavern_02b"/>
+<sound id="704699635" name="music_u38_tavern_03a"/>
+<sound id="704699647" name="music_u38_V7B5C3_Instance_Part6"/>
+<sound id="704699648" name="music_u38_tavern_02a"/>
+<sound id="704699687" name="music_u38_tavern_01c"/>
+<sound id="704699704" name="music_u38_tavern_01b"/>
+<sound id="704699708" name="music_u38_V7B5C3_Instance_Part3"/>
+<sound id="704702645" name="music_u40_Rothog_Chambers_Instance_Finale"/>
+</musicItem>
+<musicItem id="1879484381" name="'Dahâl Huliz, The Arena' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704699391" name="music_u38_OuterGondor_combat_03a"/>
+<sound id="704699413" name="music_u38_OuterGondor_combat_02a"/>
+<sound id="704699431" name="music_u38_OuterGondor_combat_01a"/>
+<sound id="704699450" name="music_u38_OuterGondor_combat_04a"/>
+<sound id="704699667" name="music_u38_Umbar_combat_01a"/>
+<sound id="704699695" name="music_u38_Umbar_combat_02a"/>
+<sound id="704699706" name="music_u38_Umbar_combat_03a"/>
+<sound id="704701717" name="music_u39_Arena_Instance_Combat1"/>
+<sound id="704701723" name="music_u39_Arena_Instance_Boss_Combat"/>
+<sound id="704701811" name="music_u39_Arena_Instance_Combat2"/>
+<sound id="704701826" name="music_u39_Arena_Instance_Drama"/>
+<sound id="704701933" name="music_u39_Arena_Instance_Intro"/>
+</musicItem>
+<musicItem id="1879484382" name="'The Depths of Mâkhda Khorbo' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704701734" name="music_u39_Streets_Instance_Combat2"/>
+<sound id="704701758" name="music_u39_Streets_Instance_Combat1"/>
+<sound id="704701815" name="music_u39_Streets_Instance_Boss_Combat"/>
+<sound id="704701834" name="music_u39_Streets_Instance_Drama"/>
+<sound id="704702036" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_01"/>
+<sound id="704702038" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_02"/>
+<sound id="704702040" name="music_u39_MakhdaKhorbo_Raid_Intro_01"/>
+<sound id="704702041" name="music_u39_MakhdaKhorbo_Raid_Drama_01"/>
+<sound id="704702042" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_03"/>
+<sound id="704702043" name="music_u39_MakhdaKhorbo_Raid_Intro_02"/>
+<sound id="704702044" name="music_u39_MakhdaKhorbo_Raid_Drama_03"/>
+<sound id="704702045" name="music_u39_MakhdaKhorbo_Raid_Combat_01"/>
+<sound id="704702046" name="music_u39_MakhdaKhorbo_Raid_Intro_03"/>
+<sound id="704702047" name="music_u39_MakhdaKhorbo_Raid_Drama_02"/>
+<sound id="704702049" name="music_u39_MakhdaKhorbo_Raid_Intro_04"/>
+<sound id="704702051" name="music_u39_MakhdaKhorbo_Raid_Drama_04"/>
+<sound id="704702052" name="music_u39_MakhdaKhorbo_Raid_Combat_02"/>
+</musicItem>
+<musicItem id="1879484383" name="'The Isle of Storms' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704701717" name="music_u39_Arena_Instance_Combat1"/>
+<sound id="704701723" name="music_u39_Arena_Instance_Boss_Combat"/>
+<sound id="704701790" name="music_u39_Island_Instance_Boss_Combat2"/>
+<sound id="704701806" name="music_u39_Island_Instance_Explore"/>
+<sound id="704701811" name="music_u39_Arena_Instance_Combat2"/>
+<sound id="704701817" name="music_u39_Island_Instance_Boss_Combat3"/>
+<sound id="704701826" name="music_u39_Arena_Instance_Drama"/>
+<sound id="704701828" name="music_u39_Island_Instance_Intro"/>
+<sound id="704701830" name="music_u39_Island_Instance_Combat1"/>
+<sound id="704701893" name="music_u39_Island_Instance_Boss_Combat1"/>
+<sound id="704701912" name="music_u39_Island_Instance_Outro"/>
+<sound id="704701933" name="music_u39_Arena_Instance_Intro"/>
+</musicItem>
+<musicItem id="1879484384" name="'The Streets of Râhal Bakh' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704701734" name="music_u39_Streets_Instance_Combat2"/>
+<sound id="704701758" name="music_u39_Streets_Instance_Combat1"/>
+<sound id="704701790" name="music_u39_Island_Instance_Boss_Combat2"/>
+<sound id="704701806" name="music_u39_Island_Instance_Explore"/>
+<sound id="704701815" name="music_u39_Streets_Instance_Boss_Combat"/>
+<sound id="704701817" name="music_u39_Island_Instance_Boss_Combat3"/>
+<sound id="704701828" name="music_u39_Island_Instance_Intro"/>
+<sound id="704701830" name="music_u39_Island_Instance_Combat1"/>
+<sound id="704701834" name="music_u39_Streets_Instance_Drama"/>
+<sound id="704701893" name="music_u39_Island_Instance_Boss_Combat1"/>
+<sound id="704701912" name="music_u39_Island_Instance_Outro"/>
+</musicItem>
+<musicItem id="1879486939" name="'Umbar-môkh' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704702276" name="music_u40_Catacombs_generic_landscape_01"/>
+<sound id="704702282" name="music_u40_Catacombs_generic_combat_01a"/>
+<sound id="704702296" name="music_u40_Catacombs_generic_combat_01i"/>
+<sound id="704702306" name="music_u40_Catacombs_generic_combat_02a"/>
+<sound id="704702322" name="music_u40_Catacombs_generic_combat_02i"/>
+<sound id="704702330" name="music_u40_Catacombs_generic_landscape_02"/>
+<sound id="704702334" name="music_u40_Catacombs_Temple_landscape_01_alt"/>
+<sound id="704702336" name="music_u40_Catacombs_generic_combat_03a"/>
+<sound id="704702341" name="music_u40_Catacombs_Flooded_Undercity_landscape_01_alt"/>
+<sound id="704702344" name="music_u40_Catacombs_Sewers_landscape_01_alt"/>
+<sound id="704702346" name="music_u40_Catacombs_generic_combat_03i"/>
+<sound id="704702358" name="music_u40_Catacombs_Undercity_landscape_01_alt"/>
+<sound id="704702362" name="music_u40_Catacombs_Main_Theme_landscape"/>
+<sound id="704702368" name="music_u40_Catacombs_Crypt_landscape_01_alt"/>
+<sound id="704702653" name="music_u40_Catacombs_generic_landscape_03"/>
+<sound id="704702658" name="music_u40_Catacombs_generic_combat_04i"/>
+<sound id="704702660" name="music_u40_Catacombs_generic_combat_04a"/>
+</musicItem>
+<musicItem id="1879486940" name="'Stories Beneath the Surface' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704702276" name="music_u40_Catacombs_generic_landscape_01"/>
+<sound id="704702285" name="music_u40_V7B9C7_Instance_Part2"/>
+<sound id="704702289" name="music_u40_V7B9C7_Instance_Part8"/>
+<sound id="704702294" name="music_u40_V7B9C7_Instance_Part5"/>
+<sound id="704702315" name="music_u40_V7B9C7_Instance_Part6"/>
+<sound id="704702323" name="music_u40_V7B9C7_Instance_Part3"/>
+<sound id="704702330" name="music_u40_Catacombs_generic_landscape_02"/>
+<sound id="704702334" name="music_u40_Catacombs_Temple_landscape_01_alt"/>
+<sound id="704702340" name="music_u40_V7B9C7_Instance_Part1"/>
+<sound id="704702341" name="music_u40_Catacombs_Flooded_Undercity_landscape_01_alt"/>
+<sound id="704702344" name="music_u40_Catacombs_Sewers_landscape_01_alt"/>
+<sound id="704702353" name="music_u40_V7B9C7_Instance_Part7"/>
+<sound id="704702355" name="music_u40_V7B9C7_Instance_Part4"/>
+<sound id="704702358" name="music_u40_Catacombs_Undercity_landscape_01_alt"/>
+<sound id="704702362" name="music_u40_Catacombs_Main_Theme_landscape"/>
+<sound id="704702363" name="music_u40_Belondor_Remembrance_Instance"/>
+<sound id="704702368" name="music_u40_Catacombs_Crypt_landscape_01_alt"/>
+<sound id="704702628" name="music_u40_Belondor_Depths_Instance_Part2"/>
+<sound id="704702629" name="music_u40_Belondor_Depths_Instance_Part1"/>
+<sound id="704702630" name="music_u40_Belondor_Depths_Instance_Part3"/>
+<sound id="704702631" name="music_u40_Kholtekh_Audience_Instance"/>
+<sound id="704702632" name="music_u40_Kholtekh_Lock_Instance"/>
+<sound id="704702653" name="music_u40_Catacombs_generic_landscape_03"/>
+</musicItem>
+<musicItem id="1879486941" name="'Umbar-môkh Combat' Themes" icon="1091405451-1091424047-1091947416">
+<sound id="704702036" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_01"/>
+<sound id="704702038" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_02"/>
+<sound id="704702040" name="music_u39_MakhdaKhorbo_Raid_Intro_01"/>
+<sound id="704702041" name="music_u39_MakhdaKhorbo_Raid_Drama_01"/>
+<sound id="704702042" name="music_u39_MakhdaKhorbo_Raid_Boss_Combat_03"/>
+<sound id="704702043" name="music_u39_MakhdaKhorbo_Raid_Intro_02"/>
+<sound id="704702044" name="music_u39_MakhdaKhorbo_Raid_Drama_03"/>
+<sound id="704702045" name="music_u39_MakhdaKhorbo_Raid_Combat_01"/>
+<sound id="704702046" name="music_u39_MakhdaKhorbo_Raid_Intro_03"/>
+<sound id="704702047" name="music_u39_MakhdaKhorbo_Raid_Drama_02"/>
+<sound id="704702049" name="music_u39_MakhdaKhorbo_Raid_Intro_04"/>
+<sound id="704702051" name="music_u39_MakhdaKhorbo_Raid_Drama_04"/>
+<sound id="704702052" name="music_u39_MakhdaKhorbo_Raid_Combat_02"/>
+<sound id="704702282" name="music_u40_Catacombs_generic_combat_01a"/>
+<sound id="704702296" name="music_u40_Catacombs_generic_combat_01i"/>
+<sound id="704702306" name="music_u40_Catacombs_generic_combat_02a"/>
+<sound id="704702322" name="music_u40_Catacombs_generic_combat_02i"/>
+<sound id="704702336" name="music_u40_Catacombs_generic_combat_03a"/>
+<sound id="704702346" name="music_u40_Catacombs_generic_combat_03i"/>
+<sound id="704702658" name="music_u40_Catacombs_generic_combat_04i"/>
+<sound id="704702660" name="music_u40_Catacombs_generic_combat_04a"/>
 </musicItem>
 </soundContexts>
