@@ -19,17 +19,17 @@
     <dependency>
       <groupId>com.dam.delta4j</groupId>
       <artifactId>delta-lotro-dat-utils</artifactId>
-      <version>8.0</version>
+      <version>11.3</version>
     </dependency>
      <dependency>
       <groupId>com.dam.delta4j</groupId>
       <artifactId>delta-common</artifactId>
-      <version>1.7.1</version>
+      <version>1.13</version>
     </dependency>
     <dependency>
       <groupId>com.dam.delta4j</groupId>
       <artifactId>delta-common-ui</artifactId>
-      <version>1.22</version>
+      <version>1.28</version>
     </dependency>
     <dependency>
         <groupId>org.slf4j</groupId>
@@ -44,12 +44,12 @@
     <dependency>
         <groupId>ch.qos.logback</groupId>
         <artifactId>logback-core</artifactId>
-        <version>1.2.10</version>
+        <version>1.2.13</version>
     </dependency>
     <dependency>
         <groupId>ch.qos.logback</groupId>
         <artifactId>logback-classic</artifactId>
-        <version>1.2.10</version>
+        <version>1.2.13</version>
     </dependency>
   </dependencies>
 </project>
