@@ -19,7 +19,7 @@ import delta.games.lotro.gui.lore.sounds.SoundFilter;
 import delta.games.lotro.gui.lore.sounds.SoundFilterController;
 import delta.games.lotro.gui.lore.sounds.SoundsTableBuilder;
 import delta.games.lotro.gui.main.GlobalPreferences;
-import delta.lotro.jukebox.core.model.SoundDescription;
+import delta.lotro.jukebox.core.model.base.SoundDescription;
 
 /**
  * Controller for the sounds explorer window.

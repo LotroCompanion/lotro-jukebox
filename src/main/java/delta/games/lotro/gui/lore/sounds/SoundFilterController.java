@@ -20,10 +20,10 @@ import delta.common.ui.swing.tables.panel.FilterUpdateListener;
 import delta.common.ui.swing.text.DynamicTextEditionController;
 import delta.common.ui.swing.text.TextListener;
 import delta.common.utils.collections.filters.Filter;
-import delta.lotro.jukebox.core.model.SoundDescription;
-import delta.lotro.jukebox.core.model.SoundFormat;
-import delta.lotro.jukebox.core.model.filter.SoundFormatFilter;
-import delta.lotro.jukebox.core.model.filter.SoundNameFilter;
+import delta.lotro.jukebox.core.model.base.SoundDescription;
+import delta.lotro.jukebox.core.model.base.SoundFormat;
+import delta.lotro.jukebox.core.model.base.filter.SoundFormatFilter;
+import delta.lotro.jukebox.core.model.base.filter.SoundNameFilter;
 
 /**
  * Controller for a sound filter edition panel.

@@ -12,9 +12,9 @@ import delta.common.ui.swing.tables.ListDataProvider;
 import delta.common.ui.swing.tables.TableColumnsManager;
 import delta.games.lotro.gui.utils.DurationCellRenderer;
 import delta.games.lotro.gui.utils.UiConfiguration;
-import delta.lotro.jukebox.core.model.SoundDescription;
-import delta.lotro.jukebox.core.model.SoundFormat;
-import delta.lotro.jukebox.core.model.SoundsManager;
+import delta.lotro.jukebox.core.model.base.SoundDescription;
+import delta.lotro.jukebox.core.model.base.SoundFormat;
+import delta.lotro.jukebox.core.model.base.SoundsManager;
 
 /**
  * Builder for a table that shows sounds.
