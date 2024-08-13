@@ -16,10 +16,10 @@ import javax.swing.border.Border;
 import delta.common.ui.swing.GuiFactory;
 import delta.common.ui.swing.combobox.ComboBoxController;
 import delta.common.ui.swing.combobox.ItemSelectionListener;
-import delta.common.ui.swing.tables.panel.FilterUpdateListener;
 import delta.common.ui.swing.text.DynamicTextEditionController;
 import delta.common.ui.swing.text.TextListener;
 import delta.common.utils.collections.filters.Filter;
+import delta.games.lotro.utils.gui.filter.ObjectFilterPanelController;
 import delta.lotro.jukebox.core.model.base.SoundDescription;
 import delta.lotro.jukebox.core.model.base.SoundFormat;
 import delta.lotro.jukebox.core.model.base.filter.SoundFormatFilter;
@@ -29,7 +29,7 @@ import delta.lotro.jukebox.core.model.base.filter.SoundNameFilter;
  * Controller for a sound filter edition panel.
  * @author DAM
  */
-public class SoundFilterController implements ActionListener
+public class SoundFilterController extends ObjectFilterPanelController implements ActionListener
 {
   // Data
   private SoundFilter _filter;
@@ -41,17 +41,14 @@ public class SoundFilterController implements ActionListener
   private ComboBoxController<SoundFormat> _format;
   // Controllers
   private DynamicTextEditionController _textController;
-  private FilterUpdateListener _filterUpdateListener;
 
   /**
    * Constructor.
    * @param filter Managed filter.
-   * @param filterUpdateListener Filter update listener.
    */
-  public SoundFilterController(SoundFilter filter, FilterUpdateListener filterUpdateListener)
+  public SoundFilterController(SoundFilter filter)
   {
     _filter=filter;
-    _filterUpdateListener=filterUpdateListener;
   }
 
   /**
@@ -76,14 +73,6 @@ public class SoundFilterController implements ActionListener
       filterUpdated();
     }
     return _panel;
-  }
-
-  /**
-   * Invoked when the managed filter has been updated.
-   */
-  protected void filterUpdated()
-  {
-    _filterUpdateListener.filterUpdated();
   }
 
   @Override

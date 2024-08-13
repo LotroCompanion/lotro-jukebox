@@ -17,8 +17,8 @@ import delta.common.ui.swing.labels.BrowserHyperlinkAction;
 import delta.common.ui.swing.labels.HyperLinkController;
 import delta.common.ui.swing.labels.MailToHyperlinkAction;
 import delta.common.utils.misc.TypedProperties;
-import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 import delta.games.lotro.gui.utils.l10n.Labels;
+import delta.lotro.jukebox.core.config.LotroJukeboxCoreConfig;
 
 /**
  * Controller for a 'about' panel.

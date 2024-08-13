@@ -85,7 +85,8 @@ public class SoundsExplorerWindowController extends DefaultWindowController
     _panelController.getConfiguration().setBorderTitle("Emotes");
     JPanel tablePanel=_panelController.getPanel();
     // Filter UI
-    _filterController=new SoundFilterController(_filter,_panelController);
+    _filterController=new SoundFilterController(_filter);
+    _filterController.setFilterUpdateListener(_panelController);
     JPanel filterPanel=_filterController.getPanel();
     TitledBorder filterBorder=GuiFactory.buildTitledBorder("Filter");
     filterPanel.setBorder(filterBorder);

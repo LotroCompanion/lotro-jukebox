@@ -31,6 +31,7 @@ import delta.games.lotro.gui.about.AboutDialogController;
 import delta.games.lotro.gui.about.CreditsDialogController;
 import delta.games.lotro.gui.configuration.ConfigurationDialogController;
 import delta.games.lotro.gui.misc.paypal.PaypalButtonController;
+import delta.games.lotro.gui.player.JukeboxPlayerPanelController;
 import delta.games.lotro.gui.utils.SharedUiUtils;
 import delta.games.lotro.gui.utils.l10n.Labels;
 import delta.games.lotro.utils.cfg.ApplicationConfiguration;
@@ -50,6 +51,7 @@ public class MainFrameController extends DefaultWindowController implements Acti
   private static final String SETTINGS_COMMAND="settingsCommand";
   private static final String ABOUT_COMMAND="aboutCommand";
 
+  private JukeboxPlayerPanelController _jukeboxPanel;
   private ToolbarController _toolbarMisc;
   private PaypalButtonController _paypalButton;
   private WindowsManager _windowsManager;
@@ -136,8 +138,9 @@ public class MainFrameController extends DefaultWindowController implements Acti
     // Toolbars
     JPanel toolbarsPanel=buildToolbarsPanel();
     ret.add(toolbarsPanel,BorderLayout.NORTH);
-    JPanel center=GuiFactory.buildPanel(new GridBagLayout());
-    ret.add(center,BorderLayout.CENTER);
+    // Jukebox
+    _jukeboxPanel=new JukeboxPlayerPanelController(this);
+    ret.add(_jukeboxPanel.getPanel(),BorderLayout.CENTER);
     return ret;
   }
 
@@ -269,6 +272,11 @@ public class MainFrameController extends DefaultWindowController implements Acti
       _windowsManager=null;
     }
     super.dispose();
+    if (_jukeboxPanel!=null)
+    {
+      _jukeboxPanel.dispose();
+      _jukeboxPanel=null;
+    }
     if (_toolbarMisc!=null)
     {
       _toolbarMisc.dispose();
