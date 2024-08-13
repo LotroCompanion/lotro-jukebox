@@ -34,16 +34,6 @@
 <sound id="704646404" name="mn_shade_sod_07" date="1341596440" format="OGG_VORBIS" size="147158" duration="5433" sampleRate="44100.0" type=""/>
 <sound id="704646405" name="mn_shade_sod_08" date="1341596440" format="OGG_VORBIS" size="144534" duration="5294" sampleRate="44100.0" type=""/>
 <sound id="704647163" name="char_select_music_01" date="1540415330" format="OGG_VORBIS" size="3961377" duration="304698" sampleRate="44100.0" type="MUSIC"/>
-<sound id="704647195" name="int_door_wood_short_creak_07" date="1168394886" format="WAV" size="43278" duration="444" sampleRate="44100.0" type="SFX"/>
-<sound id="704647204" name="int_door_wood_short_creak_04" date="1168394886" format="WAV" size="55302" duration="580" sampleRate="44100.0" type="SFX"/>
-<sound id="704647205" name="int_door_wood_short_creak_05" date="1168394886" format="WAV" size="41548" duration="424" sampleRate="44100.0" type="SFX"/>
-<sound id="704647207" name="heavy_kick_01" date="1291071593" format="OGG_VORBIS" size="34122" duration="1207" sampleRate="44100.0" type="SFX"/>
-<sound id="704647208" name="heavy_kick_02" date="1168394886" format="WAV" size="87574" duration="946" sampleRate="44100.0" type="SFX"/>
-<sound id="704647209" name="heavy_kick_03" date="1168394886" format="WAV" size="93836" duration="1017" sampleRate="44100.0" type="SFX"/>
-<sound id="704647210" name="heavy_kick_04" date="1168394886" format="WAV" size="101898" duration="1108" sampleRate="44100.0" type="SFX"/>
-<sound id="704647216" name="int_door_wood_short_creak_01" date="1168394887" format="WAV" size="35406" duration="354" sampleRate="44100.0" type="SFX"/>
-<sound id="704647217" name="int_door_wood_short_creak_02" date="1168394887" format="WAV" size="48882" duration="507" sampleRate="44100.0" type="SFX"/>
-<sound id="704647218" name="int_door_wood_short_creak_03" date="1168394887" format="WAV" size="52998" duration="554" sampleRate="44100.0" type="SFX"/>
 <sound id="704647419" name="weathertop_start_02" date="1168395771" format="OGG_VORBIS" size="263075" duration="20444" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704647420" name="sm_cbt_01_110bpm_drums" date="1168395772" format="OGG_VORBIS" size="911420" duration="69817" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704647421" name="sm_cbt_02_120bpm_drums" date="1168395773" format="OGG_VORBIS" size="845567" duration="63999" sampleRate="44100.0" type="MUSIC"/>
@@ -425,8 +415,6 @@
 <sound id="704648514" name="meo_elf_rivendell_brass_41" date="1170621217" format="OGG_VORBIS" size="516151" duration="41071" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704648515" name="meo_elf_rivendell_distant_strings_108" date="1170621217" format="OGG_VORBIS" size="849193" duration="68202" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704648516" name="meo_elf_rivendell_mix_108" date="1170621218" format="OGG_VORBIS" size="904874" duration="68638" sampleRate="44100.0" type="MUSIC"/>
-<sound id="704648549" name="heavy_kick_05" date="1291071594" format="OGG_VORBIS" size="40930" duration="1532" sampleRate="44100.0" type="SFX"/>
-<sound id="704648550" name="heavy_kick_06" date="1291071594" format="OGG_VORBIS" size="34909" duration="1300" sampleRate="44100.0" type="SFX"/>
 <sound id="704648697" name="int_door_web_ick_04" date="1291071571" format="OGG_VORBIS" size="69773" duration="2275" sampleRate="44100.0" type="AMBIENT"/>
 <sound id="704648698" name="int_door_web_ick_05" date="1291071571" format="OGG_VORBIS" size="72889" duration="1764" sampleRate="44100.0" type="AMBIENT"/>
 <sound id="704648699" name="int_door_web_ick_06" date="1291071571" format="OGG_VORBIS" size="78519" duration="1996" sampleRate="44100.0" type="AMBIENT"/>
@@ -2094,7 +2082,7 @@
 <sound id="704683175" name="music_U19_Belfalas_Calm_Happy" date="1544657774" format="OGG_VORBIS" size="4320655" duration="270000" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704683176" name="music_U19_Belfalas_Solo_Harp" date="1476479836" format="OGG_VORBIS" size="5140324" duration="269718" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704683177" name="music_U19_Belfalas_Calm_NewAge" date="1544657774" format="OGG_VORBIS" size="6601637" duration="340000" sampleRate="44100.0" type="MUSIC"/>
-<sound id="704683178" name="music_U19_Belfalas_Shanty" date="1544657776" format="OGG_VORBIS" size="6808762" duration="322000" sampleRate="44100.0" type="MUSIC"/>
+<sound id="704683178" name="music_U19_Belfalas_Shanty" date="1699466817" format="OGG_VORBIS" size="4524170" duration="320972" sampleRate="44100.0" type="MUSIC"/>
 <sound id="704683179" name="walla_murmur_01" date="1476479836" format="OGG_VORBIS" size="3305201" duration="115652" sampleRate="44100.0" type="SFX"/>
 <sound id="704683182" name="music_U19_BlackGate_Reveal" date="1476479836" format="OGG_VORBIS" size="4241158" duration="101325" sampleRate="48000.0" type="MUSIC"/>
 <sound id="704683857" name="music_U20_Gollum_Session_Climbing" date="1615923983" format="OGG_VORBIS" size="2435861" duration="133911" sampleRate="44100.0" type="MUSIC"/>
