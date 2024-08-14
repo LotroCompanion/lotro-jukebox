@@ -1,4 +1,4 @@
 # Current version
 current.version.id=100
-current.version.name=1.0 Update 33.1.1
-current.version.date=01/09/2022
+current.version.name=1.0 Update 41
+current.version.date=15/08/2024
