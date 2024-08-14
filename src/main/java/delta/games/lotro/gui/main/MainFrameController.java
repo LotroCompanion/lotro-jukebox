@@ -1,7 +1,5 @@
 package delta.games.lotro.gui.main;
 
-import java.awt.BorderLayout;
-import java.awt.FlowLayout;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
@@ -70,7 +68,7 @@ public class MainFrameController extends DefaultWindowController implements Acti
     JFrame frame=super.build();
     String appName=Labels.getLabel("main.window.title");
     frame.setTitle(appName);
-    frame.setSize(920,400);
+    frame.pack();
     frame.setLocation(100,100);
     frame.getContentPane().setBackground(GuiFactory.getBackgroundColor());
     return frame;
@@ -134,28 +132,22 @@ public class MainFrameController extends DefaultWindowController implements Acti
   @Override
   protected JComponent buildContents()
   {
-    JPanel ret=GuiFactory.buildPanel(new BorderLayout());
-    // Toolbars
-    JPanel toolbarsPanel=buildToolbarsPanel();
-    ret.add(toolbarsPanel,BorderLayout.NORTH);
     // Jukebox
     _jukeboxPanel=new JukeboxPlayerPanelController(this);
-    ret.add(_jukeboxPanel.getPanel(),BorderLayout.CENTER);
-    return ret;
-  }
-
-  private JPanel buildToolbarsPanel()
-  {
+    // Misc
     _toolbarMisc=buildToolBarMisc();
+    // Paypal
     _paypalButton=new PaypalButtonController();
+
+    // Assembly
     JPanel panel=GuiFactory.buildPanel(new GridBagLayout());
-    GridBagConstraints c=new GridBagConstraints(0,0,1,1,0.0,0.0,GridBagConstraints.WEST,GridBagConstraints.NONE,new Insets(2,5,2,0),0,0);
+    JPanel jukeboxPanel=_jukeboxPanel.getPanel();
+    jukeboxPanel.setBorder(GuiFactory.buildTitledBorder("Jukebox"));
+    GridBagConstraints c=new GridBagConstraints(0,0,1,1,1.0,0.0,GridBagConstraints.NORTHWEST,GridBagConstraints.HORIZONTAL,new Insets(2,5,2,0),0,0);
+    panel.add(jukeboxPanel,c);
+    c=new GridBagConstraints(1,0,1,1,0.0,0.0,GridBagConstraints.NORTHWEST,GridBagConstraints.NONE,new Insets(2,5,2,0),0,0);
     panel.add(_toolbarMisc.getToolBar(),c);
     c.gridx++;
-    JPanel padding=GuiFactory.buildPanel(new FlowLayout());
-    c=new GridBagConstraints(c.gridx,0,1,1,1.0,0.0,GridBagConstraints.WEST,GridBagConstraints.HORIZONTAL,new Insets(2,5,2,0),0,0);
-    c.gridx++;
-    panel.add(padding,c);
     c=new GridBagConstraints(c.gridx,0,1,1,0.0,0.0,GridBagConstraints.EAST,GridBagConstraints.NONE,new Insets(2,5,2,5),0,0);
     panel.add(_paypalButton.getButton(),c);
     c.gridx++;

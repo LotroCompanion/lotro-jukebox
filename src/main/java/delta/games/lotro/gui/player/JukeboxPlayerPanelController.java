@@ -47,7 +47,7 @@ public class JukeboxPlayerPanelController extends AbstractPanelController
     GridBagConstraints c=new GridBagConstraints(0,0,1,1,1.0,0.0,GridBagConstraints.WEST,GridBagConstraints.HORIZONTAL,new Insets(0,0,0,0),0,0);
     ret.add(_soundPlayer.getPanel(),c);
     // Choose button
-    c=new GridBagConstraints(1,0,1,1,0.0,0.0,GridBagConstraints.WEST,GridBagConstraints.HORIZONTAL,new Insets(0,0,0,0),0,0);
+    c=new GridBagConstraints(1,0,1,1,0.0,1.0,GridBagConstraints.WEST,GridBagConstraints.VERTICAL,new Insets(5,5,5,5),0,0);
     JButton chooseSound=GuiFactory.buildButton("Choose...");
     ActionListener al=new ActionListener()
     {
