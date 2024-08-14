@@ -8,6 +8,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.List;
 
+import javax.swing.Box;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
 import javax.swing.border.TitledBorder;
@@ -117,12 +118,15 @@ public class ObjectChoiceWindowController<T> extends DefaultFormDialogController
       filterPanel.setBorder(filterBorder);
     }
     // Whole panel
-    GridBagConstraints c=new GridBagConstraints(0,0,1,1,1,0,GridBagConstraints.WEST,GridBagConstraints.HORIZONTAL,new Insets(0,0,0,0),0,0);
+    GridBagConstraints c=new GridBagConstraints(0,0,1,1,0.0,0,GridBagConstraints.WEST,GridBagConstraints.NONE,new Insets(0,0,0,0),0,0);
     if (filterPanel!=null)
     {
       panel.add(filterPanel,c);
+      // Push everything on left
+      c=new GridBagConstraints(1,0,1,1,1.0,1.0,GridBagConstraints.WEST,GridBagConstraints.BOTH,new Insets(0,0,0,0),0,0);
+      panel.add(Box.createGlue(),c);
     }
-    c.gridy=1;c.weighty=1;c.fill=GridBagConstraints.BOTH;
+    c=new GridBagConstraints(0,1,2,1,1.0,1.0,GridBagConstraints.WEST,GridBagConstraints.BOTH,new Insets(0,0,0,0),0,0);
     panel.add(tablePanel,c);
     return panel;
   }
